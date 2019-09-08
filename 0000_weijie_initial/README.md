@@ -24,3 +24,12 @@ Steps taken:
     2 hours.  Download `challenge`
     [here](https://ppot.blob.core.windows.net/public/challenge_initial). Note that
     the filename of the copy stored online is `challenge_initial`.
+
+Future participants, however, should use the code in Kobi Gurkan's repository:
+https://github.com/kobigurk/phase2-bn254/tree/master/powersoftau
+
+Note: it does not matter that builds are reproducible; what matters is whether
+at least 1 participant is honest, whether the final transcript can be
+successfully verified, whether the binary does not act maliciously, and whether
+it uses a high-entropy source for randomness. Additionally, some participants
+of the Zcash Sapling ceremony used an alternative implementation.
