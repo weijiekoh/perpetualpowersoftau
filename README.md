@@ -71,7 +71,7 @@ Each challenge file is about 97G in size and each response file is about 49G. An
 
 The coordinator is using Microsoft Azure compute VMs to generate `new_challenge` files, and Blob Storage to host challenges and responses.
 
-Each participant can transfer their response to the coordinator via `scp`. This process is semi-interactive as it this requires the participant to provide their SSH key in advance. Alternatively, they can use any of the following interactive methods:
+Each participant can transfer their response to the coordinator via `sftp`. This process is semi-interactive as it this requires either the participant to provide their SSH public key in advance, or the coordinator to send them a private key. Alternatively, they can use any of the following interactive methods:
 
 - BitTorrent
 - IPFS
