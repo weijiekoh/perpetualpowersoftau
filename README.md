@@ -135,7 +135,7 @@ The BLAKE2b hash of `./response` is:
 Thank you for your participation, much appreciated! :)
 ```
 
-Upload the response file to the coordinator's server using. We will provide you with options and guidance on how to do this.
+Upload the response file to the coordinator's server using SFTP or rsync. We will provide you with options and guidance on how to do this.
 
 Finally, document the process you used, following the template here: https://github.com/weijiekoh/perpetualpowersoftau/tree/master/0001_weijie_response
 
