@@ -139,7 +139,29 @@ Upload the response file to the coordinator's server using. We will provide you 
 
 Finally, document the process you used, following the template here: https://github.com/weijiekoh/perpetualpowersoftau/tree/master/0001_weijie_response
 
-Sign it with your GPG key and post it to the mailing list. Thank you for your participation!
+Sign it with your GPG key and post it to the mailing list.
+
+## Signing an attestation with an Ethereum account instead of GPG
+
+If you wish to sign your attestation using an Ethereum account instead of GPG, please hash your attestation and use an account publicly associated with your identity and store it in this [Notary contract](https://etherscan.io/address/0x62700146f115fe08ca37be4a3a91935b28dfbc08#writeContract) using the `register(bytes32 _hash)` function. Send the transaction hash to the coordinator, who will include it in the transcript.
+
+This Notary contract is simply:
+
+```solidity
+pragma solidity 0.5.11;
+
+contract Notary {
+    mapping (bytes32 => bool) public hashes ;
+    
+    function register(bytes32 _hash) public {
+        hashes[_hash] = true;
+    }
+    
+    function check(bytes32 _hash) public view returns (bool) {
+        return hashes[_hash];
+    }
+}
+```
 
 ## Examples of entropy sources
 
