@@ -90,7 +90,7 @@ First, set up a Linux machine and install Rust and Cargo following instructions 
 Download and compile the required source code:
 
 ```bash
-git clone git@github.com:kobigurk/phase2-bn254.git --branch ppot_ceremony && \
+git clone https://github.com/kobigurk/phase2-bn254.git --branch ppot_ceremony && \
 cd phase2-bn254/powersoftau && \
 cargo build --release
 ```
