@@ -1,6 +1,11 @@
 Kobi Gurkan's attestation is as follows. See also `kobi_attestation.txt` and
 `kobi_attestation.sig` in this directory.
 
+Challenge file: https://ppot.blob.core.windows.net/public/challenge_0002_kobi
+Response file: https://ppot.blob.core.windows.net/public/response_0002_kobi
+New challenge file to send to participant #3: https://ppot.blob.core.windows.net/public/challenge_0003
+
+```
 Hi everyone,
 
 I finished computing a response file for the second round, following Wei Jie's participation. This contribution is partially for testing the process.
@@ -50,4 +55,4 @@ Post processing:
 Attached the attestation as a file and a GPG signature. The signature can be verified with gpg --verify kobi_attestation.sig kobi_attestation.txt.
 
 Kobi
-
+```
