@@ -7,6 +7,16 @@ Response file: https://ppot.blob.core.windows.net/public/response_0002_kobi
 
 New challenge file to send to participant #3: https://ppot.blob.core.windows.net/public/challenge_0003
 
+Blake2b hash of `challenge_0003`:
+
+```                                
+9ff247f1 38a11751 05137ace d8c9766c                                                                                                                                 
+5eeccef3 5b892c62 c55eae78 7301991b                                                                                                                                 
+05b66649 b00c48f2 7501b30d 1538f5d8                                                                                                                                 
+0e2da3ed f163a978 5fba5b47 352f7d04                                                                                                                                 
+```
+
+
 ```
 Hi everyone,
 
