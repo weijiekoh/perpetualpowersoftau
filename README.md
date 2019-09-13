@@ -9,7 +9,8 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 | Participant ID | Identity | GPG key | Attestation |
 |-|-|-|-|
 | 0001 | Koh Wei Jie | [Keybase](https://keybase.io/contactkohweijie) | [0001_weijie_response](./0001_weijie_response/README.md) |
-| 0002 | Kobi Gurkan | [Keybase](https://keybase.io/kobigurk) | In progress |
+| 0002 | Kobi Gurkan | [Keybase](https://keybase.io/kobigurk) | [0002_kobi_response](./0002_kobi_response/README.md) |
+| 0003 | | | |
 
 ## Procedure
 
