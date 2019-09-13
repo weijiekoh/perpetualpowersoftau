@@ -112,7 +112,7 @@ You will see this prompt:
 
 ```
 Will contribute to accumulator for 2^28 powers of tau
-In total will generate up to 8191 powers
+In total will generate up to 536870912 powers
 Type some random text and press [ENTER] to provide additional entropy...
 ```
 
