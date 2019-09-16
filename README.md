@@ -42,7 +42,8 @@ The resulting public transcript should contain:
  3. `challenge_1`
  4. `response_2`
  5. `challenge_2`
- 6. The final parameters
+ 6. The random beacon
+ 7. The final parameters
 
 ## The random beacon
 
@@ -58,11 +59,11 @@ The transcript can be fully verified as long as it is public and that there are 
 
 Participants can choose to be anonymous. If they choose to be publicly known, they should own a GPG keypair whose public key is known to be associated with their real-world identity, socially or via any other means.
 
-Given the above, the transcript should contain all the `challenge` and `response` files, and the Blake2 hash of each file.
+Given the above, the transcript should contain all the `challenge` and `response` files, and the Blake2b hash of each file.
 
 It should also contain an attestation for each `response`. This is a text file with:
 
-- Blake2 hashes of the `challenge` received and the `response` generated
+- Blake2b hashes of the `challenge` received and the `response` generated
 - A detailed description of the hardware and software that the participant used to generate the `response`.
 - A detailed description of any security and anti-surveillance measures that the partcipant has used.
 
@@ -98,10 +99,10 @@ cd phase2-bn254/powersoftau && \
 cargo build --release
 ```
 
-Download the `challenge_nnnn_name` file from the coordinator. The filename might be something like `challenge_0004_alice`. Rename it to `challenge`:
+Download the `challenge_nnnn` file from the coordinator. The filename might be something like `challenge_0004`. Rename it to `challenge`:
 
 ```bash
-mv challenge_nnnn_name challenge
+mv challenge_nnnn challenge
 ```
 
 Run the computation with `challenge` in your working directory:
@@ -168,9 +169,9 @@ contract Notary {
 
 ## Examples of entropy sources
 
-1. `/dev/urandom`
+1. `/dev/urandom` from one or more devices
 3. The most recent Bitcoin block hash
-2. Randomly mashing keys on the keyboard
+2. Randomly mashing keys on the keyboard  
 5. Asking random people on the street for numbers
 6. Geiger readings of radioactive material. e.g. a radioactive object, which can be anything from a [banana](https://en.wikipedia.org/wiki/Banana_equivalent_dose) to a [Chernobyl fragment](https://www.vice.com/en_us/article/gy8yn7/power-tau-zcash-radioactive-toxic-waste).
 7. Environmental data (e.g. the weather, seismic activity, or readings from the sun)
