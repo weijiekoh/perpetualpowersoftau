@@ -1,18 +1,26 @@
 See `paul_attestation.sig` and `paul_attestation.txt` in this directory for
 Paul "pepesza" Peregud's signed attestation.
 
+
+Hash of the [`challenge`](https://ppot.blob.core.windows.net/public/challenge_0004) file for verification:
 ```
-Hash of the [`challenge]`(https://ppot.blob.core.windows.net/public/challenge_0004) file for verification:
         01401c5e 781fc7c8 aae99b16 0f14a86b
         16a0a5e3 19d48fd0 4eaba3db 8a0fefa7
         bf0854bc 9bf67893 36b8680f 261151bc
         1d2aca16 3aa74c50 19c817bf dbc4d21d
+```
+
 `response` was based on the hash:      
+```
         01401c5e 781fc7c8 aae99b16 0f14a86b
         16a0a5e3 19d48fd0 4eaba3db 8a0fefa7
         bf0854bc 9bf67893 36b8680f 261151bc
         1d2aca16 3aa74c50 19c817bf dbc4d21d
+```
+
 Hash of the [`response`](https://ppot.blob.core.windows.net/public/response_0004_pepesha) file for verification:
+
+```
         e66da21e 696219ed a217664b 8deb0a30
         b37f376b 16aae752 f5491015 2b2307f4
         508d04b4 124d4e95 8c391d41 6dfc04a8
