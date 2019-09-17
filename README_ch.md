@@ -11,6 +11,7 @@ Semaphore项目团队正在发起一个多方参与的可信配置第一阶段�
 | 0001 | Koh Wei Jie | [Keybase](https://keybase.io/contactkohweijie) | [0001_weijie_response](./0001_weijie_response/README.md) |
 | 0002 | Kobi Gurkan | [Keybase](https://keybase.io/kobigurk) | In progress |
 | 0003 | Roman Semenov | [Keybase](https://keybase.io/poma) | [0003_roman_response](./0003_roman_response/README.md) |
+| 0004 | Paul Peregud | [Keybase](https://keybase.io/pepesha) | [0004_paul_response](./0004_paul_response/README.md) |
 
 ## 流程
 
