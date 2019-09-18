@@ -27,10 +27,18 @@ Hash of the [`response`](https://ppot.blob.core.windows.net/public/response_0004
         2db73c84 f8aa87f3 ba652eec 7b18b407
 ```
 
-<!--Currently generating `new_challenge`...-->
-<!--Blake2b hash of the `new_challenge` file for participant #5: ``-->
+Blake2b hash of the `new_challenge` file for participant #5:
 
-<!--The above `new_challenge` file: https://ppot.blob.core.windows.net/public/challenge_0005-->
+```
+        635b55a6 a0c3c809 6843c9ab c06f40f0
+        e60fac21 df00b5c2 e2edbcc2 e4f4e0c2
+        f4d196f9 b34b95be 43e9f905 723e6a58
+        da92df24 f2035d85 3841ce4f 3518ee60
+```
+
+The above `new_challenge` file: https://ppot.blob.core.windows.net/public/challenge_0005
+
+Paul's attestation (from `paul_attestation.txt`):
 
 ```
 Date: 16-17 September 2019
