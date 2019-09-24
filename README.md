@@ -101,7 +101,9 @@ cd phase2-bn254/powersoftau && \
 cargo build --release
 ```
 
-Download the `challenge_nnnn` file from the coordinator. The filename might be something like `challenge_0004`. Rename it to `challenge`:
+Download the `challenge_nnnn` file from the coordinator. To speed up the download, we highly recommend that you use the `axel` tool or any utility that lets you download large files over multiple connections.
+
+The filename might be something like `challenge_0004`. Rename it to `challenge`:
 
 ```bash
 mv challenge_nnnn challenge
