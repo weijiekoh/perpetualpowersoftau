@@ -19,12 +19,14 @@ Hash of the [`challenge`](https://ppot.blob.core.windows.net/public/challenge_00
         da92df24 f2035d85 3841ce4f 3518ee60
 
 ```
+
 Hash of the [`response`](https://ppot.blob.core.windows.net/public/response_0005_amrullah) file for verification:
+
+```
         6201ec95 c960e694 4471bf9d ad3fe42c
         b1b47a86 6d9c27ea 1c44f418 2a5622d4
         663e5b4f 454d2a2a b7b7c546 397c46a7
         72402e6c 7e3fbbd8 a921120d 00d19af2
-
 ```
 
 Blake2b hash of the `new_challenge` file for participant #6:
