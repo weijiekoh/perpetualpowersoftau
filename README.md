@@ -15,6 +15,7 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 | 0003 | Roman Semenov | [Keybase](https://keybase.io/poma) | [0003_roman_response](./0003_roman_response/README.md) |
 | 0004 | Paul Peregud | [Keybase](https://keybase.io/pepesha) | [0004_paul_response](./0004_paul_response/README.md) |
 | 0005 | Muhd Amrullah| [Keybase](https://keybase.io/muhdamrullah) | [0005_amrullah_response](./0005_amrullah_response/README.md) |
+| 0006 | Zachary Williamson | | [0006_zac_response](./0006_zac_response/README.md) |
 
 ## Procedure
 
@@ -101,9 +102,7 @@ cd phase2-bn254/powersoftau && \
 cargo build --release
 ```
 
-Download the `challenge_nnnn` file from the coordinator. To speed up the download, we highly recommend that you use the `axel` tool or any utility that lets you download large files over multiple connections.
-
-The filename might be something like `challenge_0004`. Rename it to `challenge`:
+Download the `challenge_nnnn` file from the coordinator. The filename might be something like `challenge_0004`. Rename it to `challenge`:
 
 ```bash
 mv challenge_nnnn challenge

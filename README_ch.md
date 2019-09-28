@@ -13,6 +13,7 @@ Semaphore项目团队正在发起一个多方参与的可信配置第一阶段�
 | 0003 | Roman Semenov | [Keybase](https://keybase.io/poma) | [0003_roman_response](./0003_roman_response/README.md) |
 | 0004 | Paul Peregud | [Keybase](https://keybase.io/pepesha) | [0004_paul_response](./0004_paul_response/README.md) |
 | 0005 | Muhd Amrullah| [Keybase](https://keybase.io/muhdamrullah) | [0005_amrullah_response](./0005_amrullah_response/README.md) |
+| 0006 | Zachary Williamson | | [0006_zac_response](./0006_zac_response/README.md) |
 
 ## 流程
 
