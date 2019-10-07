@@ -16,7 +16,7 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 | 0004 | Paul Peregud | [Keybase](https://keybase.io/pepesha) | [0004_paul_response](./0004_paul_response/README.md) |
 | 0005 | Muhd Amrullah| [Keybase](https://keybase.io/muhdamrullah) | [0005_amrullah_response](./0005_amrullah_response/README.md) |
 | 0006 | Zachary Williamson | | [0006_zac_response](./0006_zac_response/README.md) |
-| 0007 | Youssef El Housni | | [0007_youssef_response](./0007_youssef_response/README.md) |
+| 0007 | Youssef El Housni | [Keybase](https://keybase.io/youssefhousni) | [0007_youssef_response](./0007_youssef_response/README.md) |
 
 ## Procedure
 
