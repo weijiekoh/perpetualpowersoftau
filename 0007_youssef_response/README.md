@@ -25,6 +25,17 @@ Hash of the [`response`](https://ppot.blob.core.windows.net/public/response_0007
         c5f2342b 860d0975 4c450972 72d99b26
 ```
 
+Blake2b hash of the `new_challenge` file for participant #8:
+```
+        10e6b25c 4b066b59 a5b837d2 460a78b1
+        59edb6cb 2018ae0a a74b7555 499c9690
+        b16b4f38 99fa8147 b9bc4602 5b634eef
+        8e998fa2 44f9fe64 4df29ee9 a0944e7a
+
+```
+
+The above `new_challenge` file: https://ppot.blob.core.windows.net/public/challenge_0008
+
 Youssef's attestation (from `youssefelhousni_attestation.txt`):
 
 ```
