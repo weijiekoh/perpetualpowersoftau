@@ -15,7 +15,7 @@ Semaphore项目团队正在发起一个多方参与的可信配置第一阶段�
 | 0005 | Muhd Amrullah| [Keybase](https://keybase.io/muhdamrullah) | [0005_amrullah_response](./0005_amrullah_response/README.md) |
 | 0006 | Zachary Williamson | [Keybase](https://keybase.pub/zacaztecprotocol/) | [0006_zac_response](./0006_zac_response/README.md) |
 | 0007 | Youssef El Housni | [Keybase](https://keybase.io/youssefhousni) | [0007_youssef_response](./0007_youssef_response/README.md) |
-| 0008 | Mike Lapinski |  | [0008_mike_response](./0008_mike_response/README.md) |
+| 0008 | Mike Lapinski | [Keybase](https://keybase.io/mtlapinski) | [0008_mike_response](./0008_mike_response/README.md) |
 
 ## 流程
 
