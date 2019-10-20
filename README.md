@@ -18,6 +18,7 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 | 0006 | Zachary Williamson | [Keybase](https://keybase.pub/zacaztecprotocol/) | [0006_zac_response](./0006_zac_response/README.md) |
 | 0007 | Youssef El Housni | [Keybase](https://keybase.io/youssefhousni) | [0007_youssef_response](./0007_youssef_response/README.md) |
 | 0008 | Mike Lapinski | [Keybase](https://keybase.io/mtlapinski) | [0008_mike_response](./0008_mike_response/README.md) |
+| 0009 | Brecht Devos | [Keybase](https://keybase.io/brechtpd) | [0009_brecht_response](./0009_brecht_response/README.md) |
 
 ## Procedure
 
