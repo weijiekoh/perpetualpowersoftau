@@ -25,12 +25,16 @@ Hash of the [`response`](https://ppot.blob.core.windows.net/public/response_0009
         49337de4 9ec3ac48 1f2092db aac7a1de
 ```
 
-<!--Blake2b hash of the `new_challenge` file for participant #10:-->
+Blake2b hash of the `new_challenge` file for participant #10:
 
-<!--```-->
-<!--```-->
+```
+        7fde382d 1bc12ae7 d3d99879 648e416b
+        0540f39d 5e8f4945 229a7faa e97c3630
+        9d54bf8b b8a0813c 67f89d19 9b2111b9
+        0adb93c2 6b80fdd4 e3fe3640 860b7731
+```
 
-<!--The above `new_challenge` file: https://ppot.blob.core.windows.net/public/challenge_0010-->
+The above `new_challenge` file: https://ppot.blob.core.windows.net/public/challenge_0010
 
 Brecht's attestation (from `brecht_attestation.txt`):
 
