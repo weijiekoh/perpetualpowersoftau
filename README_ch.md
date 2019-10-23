@@ -17,6 +17,7 @@ Semaphore项目团队正在发起一个多方参与的可信配置第一阶段�
 | 0007 | Youssef El Housni | [Keybase](https://keybase.io/youssefhousni) | [0007_youssef_response](./0007_youssef_response/README.md) |
 | 0008 | Mike Lapinski | [Keybase](https://keybase.io/mtlapinski) | [0008_mike_response](./0008_mike_response/README.md) |
 | 0009 | Brecht Devos | [Keybase](https://keybase.io/brechtpd) | [0009_brecht_response](./0009_brecht_response/README.md) |
+| 0010 | Vano Narimanidze | [Keybase](https://keybase.io/Power_VANO) | [0010_vano_response](./0010_vano_response/README.md) |
 
 ## 流程
 
