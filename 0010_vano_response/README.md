@@ -25,12 +25,16 @@ Hash of the [`response`](https://ppot.blob.core.windows.net/public/response_0010
         4fe885d6 0bd6d8fb 7cd47eef c93b778b
 ```
 
-<!--Blake2b hash of the `new_challenge` file for participant #11:-->
+Blake2b hash of the `new_challenge` file for participant #11:
 
-<!--```-->
-<!--```-->
+```
+        ac890865 8234b4f0 b8f4e3c3 0f6acc34
+        38d3f297 734b62b9 c7b1157f 93d7eed2
+        ba05c59d e663cebc 08049076 3cfbee1e
+        5e231123 7714661e 67b43cca 921da027
+```
 
-<!--The above `new_challenge` file: https://ppot.blob.core.windows.net/public/challenge_0011-->
+The above `new_challenge` file: https://ppot.blob.core.windows.net/public/challenge_0011
 
 Vano's attestation (from `power_vano_attestation.txt`):
 
