@@ -4,7 +4,7 @@
 
 This repo was forked from the Semaphore team which is conducting phase 1 of a multi-party trusted setup ceremony based on the Zcash Powers of Tau ceremony for the BN254 curve. We thank them very much for their repo!
 
-The goal is to securely generate zk-SNARK parameters for circuits of up to `2 ^ 27` (130+ million) constraints, over the BLS12-381 curve (https://electriccoin.co/blog/new-snark-curve/). This means that the process will generate twice as many minus one (260+ million) powers of tau.
+The goal is to securely generate zk-SNARK parameters for circuits of up to `2 ^ 27` (130+ million) constraints, over the [BLS12-381 curve](https://electriccoin.co/blog/new-snark-curve/). This means that the process will generate twice as many minus one (260+ million) powers of tau.
 
 As long as one party in the ceremony behaves honestly and is not comprimised, the entire setup is trustworthy.
 
