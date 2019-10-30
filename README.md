@@ -1,8 +1,8 @@
-# Perpetual Powers of Tau
+# Perpetual Powers of Tau (for BLS381)
 
 [中文](./README_ch.md)
 
-This repo was forked from the Semaphore team which is conducting phase 1 of a multi-party trusted setup ceremony based on the Zcash Powers of Tau ceremony for the BN254 curve. We thank them very much for their repo!
+This repo was forked from the Semaphore team which is conducting phase 1 of a multi-party trusted setup ceremony based on the Zcash Powers of Tau ceremony for the BN254 curve. We thank them very much for their work and [repo](https://github.com/weijiekoh/perpetualpowersoftau)!
 
 The goal is to securely generate zk-SNARK parameters for circuits of up to `2 ^ 27` (130+ million) constraints, over the [BLS12-381 curve](https://electriccoin.co/blog/new-snark-curve/). This means that the process will generate twice as many minus one (260+ million) powers of tau.
 
