@@ -2,7 +2,9 @@
 
 [中文](./README_ch.md)
 
-The Semaphore team is conducting phase 1 of a multi-party trusted setup ceremony based on the Zcash Powers of Tau ceremony. The goal is to securely generate zk-SNARK parameters for circuits of up to `2 ^ 28` (260+ million) constraints. This means that the process will generate twice as many minus one (530+ million) powers of tau.
+This repo was forked from the Semaphore team which is conducting phase 1 of a multi-party trusted setup ceremony based on the Zcash Powers of Tau ceremony for the BN254 curve. We thank them very much for their repo!
+
+The goal is to securely generate zk-SNARK parameters for circuits of up to `2 ^ 27` (130+ million) constraints, over the BLS12-381 curve (https://electriccoin.co/blog/new-snark-curve/). This means that the process will generate twice as many minus one (260+ million) powers of tau.
 
 As long as one party in the ceremony behaves honestly and is not comprimised, the entire setup is trustworthy.
 
@@ -10,16 +12,7 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 
 | Participant ID | Identity | GPG key | Attestation |
 |-|-|-|-|
-| 0001 | Koh Wei Jie | [Keybase](https://keybase.io/contactkohweijie) | [0001_weijie_response](./0001_weijie_response/README.md) |
-| 0002 | Kobi Gurkan | [Keybase](https://keybase.io/kobigurk) | [0002_kobi_response](./0002_kobi_response/README.md) |
-| 0003 | Roman Semenov | [Keybase](https://keybase.io/poma) | [0003_roman_response](./0003_roman_response/README.md) |
-| 0004 | Paul Peregud | [Keybase](https://keybase.io/pepesha) | [0004_paul_response](./0004_paul_response/README.md) |
-| 0005 | Muhd Amrullah| [Keybase](https://keybase.io/muhdamrullah) | [0005_amrullah_response](./0005_amrullah_response/README.md) |
-| 0006 | Zachary Williamson | [Keybase](https://keybase.pub/zacaztecprotocol/) | [0006_zac_response](./0006_zac_response/README.md) |
-| 0007 | Youssef El Housni | [Keybase](https://keybase.io/youssefhousni) | [0007_youssef_response](./0007_youssef_response/README.md) |
-| 0008 | Mike Lapinski | [Keybase](https://keybase.io/mtlapinski) | [0008_mike_response](./0008_mike_response/README.md) |
-| 0009 | Brecht Devos | [Keybase](https://keybase.io/brechtpd) | [0009_brecht_response](./0009_brecht_response/README.md) |
-| 0010 | Vano Narimanidze | [Keybase](https://keybase.io/Power_VANO) | [0010_vano_response](./0010_vano_response/README.md) |
+| 0001 | Ariel Gabizon | [Keybase](https://keybase.io/contactkohweijie) | [0001_ariel_response](./0001_ariel_response/README.md) |
 
 ## Procedure
 
