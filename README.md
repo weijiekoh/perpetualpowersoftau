@@ -94,8 +94,8 @@ First, set up a Linux machine and install Rust and Cargo following instructions 
 Download and compile the required source code:
 
 ```bash
-git clone https://github.com/kobigurk/phase2-bn254.git --branch ppot_ceremony && \
-cd phase2-bn254/powersoftau && \
+git clone https://github.com/arielgabizon/powersoftau && \
+cd powersoftau && \
 cargo build --release
 ```
 
@@ -108,18 +108,18 @@ mv challenge_nnnn challenge
 Run the computation with `challenge` in your working directory:
 
 ```bash
-/path/to/phase2-bn254/powersoftau/target/release/compute_constrained
+/path/to/powersoftau/target/release/compute_constrained
 ```
 
 You will see this prompt:
 
 ```
-Will contribute to accumulator for 2^28 powers of tau
-In total will generate up to 536870912 powers
+Will contribute to accumulator for 2^27 powers of tau
+In total will generate up to 268435456‬ powers
 Type some random text and press [ENTER] to provide additional entropy...
 ```
 
-Make sure that it says `2^28 powers of tau`, and then enter random text as prompted. You should try to provide as much entropy as possible from sources which are truly hard to replicate. See below for examples derived from Zcash's own ceremony.
+Make sure that it says `2^27 powers of tau`, and then enter random text as prompted. You should try to provide as much entropy as possible from sources which are truly hard to replicate. See below for examples derived from Zcash's own ceremony.
 
 The compuation will run for about 24 hours on a fast machine. Please try your best to avoid electronic surveillance or tampering during this time.
 
