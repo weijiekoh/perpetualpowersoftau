@@ -143,7 +143,7 @@ Finally, document the process you used, following the template here: https://git
 
 Sign it with your GPG key and post it to the mailing list.
 
-## Signing an attestation with an Ethereum account instead of GPG
+<--## Signing an attestation with an Ethereum account instead of GPG
 
 If you wish to sign your attestation using an Ethereum account instead of GPG, please SHA256 hash your attestation and use an account publicly associated with your identity and store it in this [Notary contract](https://etherscan.io/address/0x62700146f115fe08ca37be4a3a91935b28dfbc08#writeContract) using the `register(bytes32 _hash)` function. Send the transaction hash to the coordinator, who will include it in the transcript.
 
@@ -164,7 +164,7 @@ contract Notary {
     }
 }
 ```
-
+-->
 ## Examples of entropy sources
 
 1. `/dev/urandom` from one or more devices
