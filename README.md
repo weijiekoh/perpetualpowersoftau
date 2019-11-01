@@ -2,9 +2,9 @@
 <!--[中文](./README_ch.md)-->
 This repo was forked from the Semaphore team which is conducting phase 1 of a multi-party trusted setup ceremony based on the Zcash Powers of Tau ceremony for the BN254 curve. We thank them very much for their work and [repo](https://github.com/weijiekoh/perpetualpowersoftau)!
 
-The goal is to securely generate zk-SNARK parameters for circuits of up to `2 ^ 27` (130+ million) constraints, over the [BLS12-381 curve](https://electriccoin.co/blog/new-snark-curve/). This means that the process will generate twice as many minus one (260+ million) powers of tau. The initial motivation for this is the launch of the Filecoin network(https://github.com/weijiekoh/perpetualpowersoftau) which will require circuits of this size; however the parameters will surve other projects wanting to use Groth16 over this curve; and incidentally, will also be usable for circuits up to size `2^28` for the new [PLONK](https://eprint.iacr.org/2019/953.pdf) system
+The goal is to securely generate zk-SNARK parameters for circuits of up to `2 ^ 27` (130+ million) constraints, over the [BLS12-381 curve](https://electriccoin.co/blog/new-snark-curve/). This means that the process will generate twice as many minus one (260+ million) powers of tau. The initial motivation for this is the launch of the Filecoin network which will require circuits of this size; however the parameters will surve other projects wanting to use Groth16 over this curve; and incidentally, will also be usable for circuits up to size `2^28` for the new [PLONK](https://eprint.iacr.org/2019/953.pdf) system.
 
-As long as one party in the ceremony behaves honestly and is not comprimised, the entire setup is trustworthy.
+As long as one party in the ceremony behaves honestly and is not comprimised, the entire setup is trustworthy. 
 
 ## Ceremony progress
 
@@ -69,9 +69,9 @@ Additionally, it should contain each participant's GPG signature of their attest
 
 ## Logistics
 
-Each challenge file is about 72G in size and each response file is about 36G. The computation is quite heavy, and can take 7-8 hours on a 16 core machine.
+Each challenge file is about **72GB** in size and each response file is about **36GB**. The computation is quite heavy, and can take **7-8 hours on a 16 core machine**.
 
-The coordinator is using Microsoft Azure compute VMs to generate `new_challenge` files, and Blob Storage to host challenges and responses.
+The coordinator is using AWS compute VMs to generate `new_challenge` files, and Blob Storage to host challenges and responses.
 
 Each participant can transfer their response to the coordinator via `sftp`. This process is semi-interactive as it this requires either the participant to provide their SSH public key in advance, or the coordinator to send them a private key. Alternatively, they can use any of the following interactive methods:
 
@@ -81,15 +81,17 @@ Each participant can transfer their response to the coordinator via `sftp`. This
 
 ## Coordination
 
-A mailing list has been set up to coordinate the ceremony:
+A slack channel has been set up to discuss the ceremony - please join the fil-trustedsetup room in our [Slack](https://github.com/filecoin-project/community#chat) or via email at trustedsetup@protocol.ai.
 
-https://groups.google.com/a/ethereum.org/forum/?hl=en#!forum/perpetual-powers-of-tau-ceremony-group
+## Prereqs for the ceremony
+
+* Set up a Linux machine and install Rust and Cargo following instructions [here](https://www.rust-lang.org).
+* Ensure you have at least 110 GB of space free on your machine
+* Ensure you have a GPG key set up (instructions [here](https://help.github.com/en/github/authenticating-to-github/generating-a-new-gpg-key))
 
 ## Instructions for each participant
 
-First, set up a Linux machine and **install Rust and Cargo** following instructions [here](https://www.rust-lang.org).
-
-Download and compile the required source code:
+First download and compile the required source code:
 
 ```bash
 git clone https://github.com/arielgabizon/powersoftau && \
@@ -119,12 +121,12 @@ Type some random text and press [ENTER] to provide additional entropy...
 
 Make sure that it says `2^27 powers of tau`, and then enter random text as prompted. You should try to provide as much entropy as possible from sources which are truly hard to replicate. See below for examples derived from Zcash's own ceremony.
 
-The compuation will run for about 24 hours on a fast machine. Please try your best to avoid electronic surveillance or tampering during this time.
+The computation will run for about several hours on a fast machine. Please try your best to avoid electronic surveillance or tampering during this time.
 
 When it is done, you will see something like this:
 
 ```
-Finihsing writing your contribution to `./response`...
+Finishing writing your contribution to `./response`...
 Done!
 
 Your contribution has been written to `./response`
@@ -141,7 +143,7 @@ Upload the response file to the coordinator's server using SFTP or rsync. We wil
 
 Finally, document the process you used, following the template here: https://github.com/weijiekoh/perpetualpowersoftau/tree/master/0001_weijie_response
 
-Sign it with your GPG key and post it to the mailing list.
+Sign it with your GPG key and create a PR to the repo.
 
 <!--## Signing an attestation with an Ethereum account instead of GPG
 
