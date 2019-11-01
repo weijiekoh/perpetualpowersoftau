@@ -81,7 +81,7 @@ Each participant can transfer their response to the coordinator via `sftp`. This
 
 ## Coordination
 
-A slack channel has been set up to discuss the ceremony - please join the fil-trustedsetup room in our [Slack](https://github.com/filecoin-project/community#chat) or via email at trustedsetup@protocol.ai.
+A slack channel has been set up to discuss the ceremony - please join the fil-trustedsetup room in our [Slack](https://app.slack.com/client/TEHTVS1L6/CQ49B1NNS) or email us at trustedsetup@protocol.ai.
 
 ## Prereqs for the ceremony
 
