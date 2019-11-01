@@ -1,22 +1,34 @@
 Hash of the [`challenge`](https://ppot.blob.core.windows.net/public/challenge_0011) file for verification:
 
 ```
+        ac890865 8234b4f0 b8f4e3c3 0f6acc34
+        38d3f297 734b62b9 c7b1157f 93d7eed2
+        ba05c59d e663cebc 08049076 3cfbee1e
+        5e231123 7714661e 67b43cca 921da027
 ```
 
 `response` was based on the hash:
 
 ```
+        ac890865 8234b4f0 b8f4e3c3 0f6acc34
+        38d3f297 734b62b9 c7b1157f 93d7eed2
+        ba05c59d e663cebc 08049076 3cfbee1e
+        5e231123 7714661e 67b43cca 921da027
 ```
 
 Hash of the [`response`](https://ppot.blob.core.windows.net/public/response_0011_zhiniang) file for verification:
 
 ```
+        c72fa936 1a701827 9f9a2d78 501dc242
+        53e62a2f e871f056 3c8dd530 c4ee6761
+        e8bad30e 2e4cabc8 21b159c8 7fc554e7
+        18faf6e7 b303bc5e c0865ff8 86fbea48
 ```
 
-Blake2b hash of the `new_challenge` file for participant #12:
+<!--Blake2b hash of the `new_challenge` file for participant #12:-->
 
-```
-```
+<!--```-->
+<!--```-->
 
 The above `new_challenge` file: https://ppot.blob.core.windows.net/public/challenge_0012
 
