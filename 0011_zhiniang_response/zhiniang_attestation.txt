@@ -1,0 +1,69 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Attestation to response 0011
+
+Date: 28-31 October 2019
+
+Name: Zhiniang Peng (Security researcher, Qihoo 360)
+
+Location: Physical location of me and the computation machine is in Beijing
+
+Device(s): Windows 10 1903 with Ubuntu subsystem in VMWare
+
+Challenge Blake2b: 
+
+	ac890865 8234b4f0 b8f4e3c3 0f6acc34
+	38d3f297 734b62b9 c7b1157f 93d7eed2
+	ba05c59d e663cebc 08049076 3cfbee1e
+	5e231123 7714661e 67b43cca 921da027
+
+URL: https://ppot.blob.core.windows.net/public/challenge_0011
+
+`challenge` file claims that it was based on the original contribution with a hash:
+
+	ed65fac5 4967c6ee abfd8350 2eceb53c
+	a7ccd0bf d35353ee c5350c37 06988b8b
+	f1590b10 fe8388ab fbeb088c 8843fb80
+	4fe885d6 0bd6d8fb 7cd47eef c93b778b
+
+Software used: https://github.com/kobigurk/phase2-bn254/commit/7ba98555fd974458273f831d6063ea77cea15853
+
+Response Blake2b: 
+
+	c72fa936 1a701827 9f9a2d78 501dc242
+	53e62a2f e871f056 3c8dd530 c4ee6761
+	e8bad30e 2e4cabc8 21b159c8 7fc554e7
+	18faf6e7 b303bc5e c0865ff8 86fbea48
+
+
+Entropy sources: Random key mash on keyboard + /dev/random
+
+Time taken: around 12 hours
+
+Side channel defenses: I have not told anyone what I was going to do. 
+
+Postprocessing:
+
+I copied the Blake2b hash from the CLI output of compute_constrained;
+I uploaded the response file as "response" using SFTP to the server provided by Wei Jie.
+I shutdown the VM;
+I deleted the VM.
+-----BEGIN PGP SIGNATURE-----
+Version: Keybase OpenPGP v2.1.3
+Comment: https://keybase.io/crypto
+
+wsFcBAABCgAGBQJdurUKAAoJECCFV7xjWdJY040QAI/SqMep71jTMAkQ6TPHBe04
+Dkb9GYOepxWj/sMZ+EVrv4lkm6id78VcXUwG0qjHincGwFjmhBYO8W5mVKUzL6Cd
+fWXV19+0NWqGz6sxtMJPZV7nDJmtEMzsrJuUf5TW5FgBAL0t6SrFUMMgjmqfrSJw
+Gck3D5VFbrzPXhybz+7zdgZ9zWCS4gcz3pJh+gW0Fc4pKz/fc0ycUJih13onp7E+
+15BmS5eq6fdSXPeTtUHmeMizDB5vNjt76zTa17oMHacGlhC69185puli3iJENfTm
+Vvj1gzmO8JZVt/m0SmCA3zuFEEtOM2jyxAEjfIizWoR8aAjuuMVc+jBXKU3n8BqW
+lhlWuuWPRWwGst45USdX9oCziomRT7SMCD6ilS0spFiZDlc9a1GV5rbpklCkrOrF
+zQx37GYPV1fFCP6Pc8wi+TNSBrNDZspWDA6hDjbwYtK0Typ8XTbeIILUEr7W+pEi
+exBBLANv9XXYAfo7RWoiRgmH2roq7IGU5y8Vm0MPTZjpP+2GyQ4zlx95h/8OPXd9
+AjpAgu2I+Y2VoTby7cqFN3HrJDGwnOqz+5wMXbnGoF3bdYVV+tCmvac8URQSzjpC
+9byxzp4TaY8Iry0cHcn/n30aqZAytgqdzIfqQOMDgEvOy1T+nTizzceJ7MbK55ch
+gnBardHeG4Zu5wUVzBxZ
+=vn9c
+-----END PGP SIGNATURE-----
