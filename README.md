@@ -69,7 +69,7 @@ Additionally, it should contain each participant's GPG signature of their attest
 
 ## Logistics
 
-Each challenge file is about 97G in size and each response file is about 49G. An Azure compute VM (Standard F4s with 4 vcpus and 8GB memory) takes about 24 hours to generate.
+Each challenge file is about 72G in size and each response file is about 36G. The computation is quite heavy, and can take 7-8 hours on a 16 core machine.
 
 The coordinator is using Microsoft Azure compute VMs to generate `new_challenge` files, and Blob Storage to host challenges and responses.
 
