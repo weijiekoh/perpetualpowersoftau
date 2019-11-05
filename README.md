@@ -8,9 +8,9 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 
 ## Ceremony progress
 
-| Participant ID | Identity | GPG key | Attestation |
+| Participant ID | Identity | GPG key | Attestation | 
 |-|-|-|-|
-| 0001 | Ariel Gabizon | [Keybase](https://keybase.io/contactkohweijie) | [0001_ariel_response](./0001_ariel_response/README.md) |
+| 0001 | Ariel Gabizon | [_](https://sites.google.com/site/arielgabizon1/) | [0001_ariel_response](./0001_ariel_response/README.md) |
 | 0002 | Friedel Ziegelmayer | [Keybase](https://keybase.io/contactkohweijie) | [0002_friedel_response](./0002_friedel_response/README.md) |
 
 ## Procedure
