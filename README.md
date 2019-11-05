@@ -8,9 +8,9 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 
 ## Ceremony progress
 
-| Participant ID | Identity | GPG key | Attestation |
+| Participant ID | Identity | GPG key | Attestation | 
 |-|-|-|-|
-| 0001 | Ariel Gabizon | [Keybase](https://keybase.io/contactkohweijie) | [0001_ariel_response](./0001_ariel_response/README.md) |
+| 0001 | Ariel Gabizon | [_](https://sites.google.com/site/arielgabizon1/) | [0001_ariel_response](./0001_ariel_response/) |
 | 0002 | Friedel Ziegelmayer | [Keybase](https://keybase.io/contactkohweijie) | [0002_friedel_response](./0002_friedel_response/README.md) |
 
 ## Procedure
@@ -140,34 +140,17 @@ The BLAKE2b hash of `./response` is:
 Thank you for your participation, much appreciated! :)
 ```
 
-Upload the response file to the coordinator's server using SFTP or rsync. We will provide you with options and guidance on how to do this.
+Upload the response file to the coordinator's server according to the instructions given by the coordinator (currently: using `rsync` with the ssh key you have provided)
 
-Finally, document the process you used, following the template here: https://github.com/weijiekoh/perpetualpowersoftau/tree/master/0001_weijie_response
+Finally, document the process you used in a file named `README.md`, following the template here: https://github.com/weijiekoh/perpetualpowersoftau/tree/master/0001_weijie_response
 
-Sign it with your GPG key and create a PR to the repo.
+Sign it with your GPG key and create a PR to the repo, adding your attestation and signature in the subfolder
+`perpetualpowersoftau/<participant_num>_<your_name>_response`
 
-<!--## Signing an attestation with an Ethereum account instead of GPG
+e.g.
+`perpetualpowersoftau/0001_ariel_response/`
 
-If you wish to sign your attestation using an Ethereum account instead of GPG, please SHA256 hash your attestation and use an account publicly associated with your identity and store it in this [Notary contract](https://etherscan.io/address/0x62700146f115fe08ca37be4a3a91935b28dfbc08#writeContract) using the `register(bytes32 _hash)` function. Send the transaction hash to the coordinator, who will include it in the transcript.
-
-This Notary contract is simply:
-
-```solidity
-pragma solidity 0.5.11;
-
-contract Notary {
-    mapping (bytes32 => bool) public hashes ;
-    
-    function register(bytes32 _hash) public {
-        hashes[_hash] = true;
-    }
-    
-    function check(bytes32 _hash) public view returns (bool) {
-        return hashes[_hash];
-    }
-}
-```
--->
+send to the coordinator a link to a public profile of yours, where your GPG public key is listed (e.g. a keybase profile)
 ## Examples of entropy sources
 
 1. `/dev/urandom` from one or more devices
