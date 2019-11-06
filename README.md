@@ -147,13 +147,10 @@ Here are three ways to do this.
 
 1. (easiest) Simply tweet the hash of your response file (or similar on any social media platform where you have a public account). Send the coordinator a link to the tweet.
 2. Document the process you used in a file named `README.md`, following the template here: https://github.com/weijiekoh/perpetualpowersoftau/tree/master/0001_weijie_response
-
 Sign it with your GPG key and create a PR to the repo, adding your attestation and signature in the subfolder
 `perpetualpowersoftau/<participant_num>_<your_name>_response`
-
 e.g.
 `perpetualpowersoftau/0001_ariel_response/`
-
 send to the coordinator a link to a public profile of yours, where your GPG public key is listed (e.g. a keybase profile)
 3. Same as previous, but instead of signing with a GPG key, link to the attestation on the repo in a tweet.
  
