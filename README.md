@@ -21,6 +21,7 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 | 0009 | Brecht Devos | [Keybase](https://keybase.io/brechtpd) | [0009_brecht_response](./0009_brecht_response/README.md) |
 | 0010 | Vano Narimanidze | [Keybase](https://keybase.io/Power_VANO) | [0010_vano_response](./0010_vano_response/README.md) |
 | 0011 | Zhiniang Peng | [Keybase](https://keybase.io/zhiniang_peng) | [0011_zhiniang_response](./0011_zhiniang_response/README.md) |
+| 0012 | Daniel Wang| [Keybase](https://keybase.io/danielw_loopring) | [0012_danielw_response](./0012_danielw_response/README.md) |
 
 ## Procedure
 
