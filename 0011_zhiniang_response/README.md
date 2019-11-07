@@ -34,7 +34,11 @@ Blake2b hash of the `new_challenge` file for participant #12:
         f8d6afb2 71bf2a11 24bcf4b2 143f0477
 ```
 
-The above `new_challenge` file: https://ppot.blob.core.windows.net/public/challenge_0012
+The above `new_challenge` file: https://ppot.blob.core.windows.net/public/challenge_0012_20191105
+
+Note that the file at
+`https://ppot.blob.core.windows.net/public/challenge_0012` may not be the
+correct one; please verify the hash.
 
 Zhiniang's attestation (from `zhiniang_attestation.txt`):
 
