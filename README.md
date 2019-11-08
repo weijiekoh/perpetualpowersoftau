@@ -13,6 +13,7 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 | 0001 | Ariel Gabizon | [GPG](https://sites.google.com/site/arielgabizon1/) | [0001_ariel_response](./0001_ariel_response/) |
 | 0002 | Friedel Ziegelmayer | [Keybase](https://keybase.io/contactkohweijie) | [0002_friedel_response](./0002_friedel_response/README.md) |
 | 0003 | Black Dengkf | [Github](https://github.com/Dengminer) | [0003_Dengkf_response](./0003_Dengkf_response/README.md) |
+| 0004 | IPFSMain | | [twitter](https://twitter.com/IPFSMain/status/1192855448098992129) | 
 
 ## Procedure
 
@@ -144,10 +145,10 @@ Thank you for your participation, much appreciated! :)
 Upload the response file to the coordinator's server according to the instructions given by the coordinator (currently: using `rsync` with the ssh key you have provided)
 
 ### Add an attestation
-Finally, to give credibility to the process, you must make an attestation of your participation with some link to your real-world identity.
+Finally, to give credibility to the process, you must make an attestation of your participation with some link to your real-world identity; *this is essential for the credibility of the ceremony, and you should not sign-up in case you're not comfortable doing this.*
 Here are three ways to do this.
 
-1. (easiest) Simply tweet the hash of your response file (or similar on any social media platform where you have a public account). Send the coordinator a link to the tweet.
+1. (easiest) Simply tweet the hash of your response file (or similar on any social media platform where you have a public account, e.g. make a moment on Wechat). Send the coordinator a link to the tweet.
 2. Document the process you used in a file named `README.md`, following the template here: https://github.com/weijiekoh/perpetualpowersoftau/tree/master/0001_weijie_response
 Sign it with your GPG key and create a PR to the repo, adding your attestation and signature in the subfolder
 `perpetualpowersoftau/<participant_num>_<your_name>_response`
@@ -155,6 +156,8 @@ e.g.
 `perpetualpowersoftau/0001_ariel_response/`
 send to the coordinator a link to a public profile of yours, where your GPG public key is listed (e.g. a keybase profile)
 3. Same as previous, but instead of signing with a GPG key, link to the attestation on the repo in a tweet.
+
+**PLEASE NOTE: If you do not submit your attestation we will be unable to use your contribution.**
  
 ## Examples of entropy sources
 
