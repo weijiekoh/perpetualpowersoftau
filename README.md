@@ -142,6 +142,7 @@ Thank you for your participation, much appreciated! :)
 
 Upload the response file to the coordinator's server according to the instructions given by the coordinator (currently: using `rsync` with the ssh key you have provided)
 
+### Add an attestation
 Finally, to give credibility to the process, you must make an attestation of your participation with some link to your real-world identity.
 Here are three ways to do this.
 
