@@ -13,7 +13,7 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 | 0001 | Ariel Gabizon | [_](https://sites.google.com/site/arielgabizon1/) | [0001_ariel_response](./0001_ariel_response/) |
 | 0002 | Friedel Ziegelmayer | [Keybase](https://keybase.io/contactkohweijie) | [0002_friedel_response](./0002_friedel_response/README.md) |
 | 0003 | IPFSBlack | TBD | TBD |
-| 0004 | Neo | TBD | TBD |
+| 0004 | IPFSMain | | [twitter](https://twitter.com/IPFSMain/status/1192855448098992129) | 
 
 ## Procedure
 
@@ -148,7 +148,7 @@ Upload the response file to the coordinator's server according to the instructio
 Finally, to give credibility to the process, you must make an attestation of your participation with some link to your real-world identity.
 Here are three ways to do this.
 
-1. (easiest) Simply tweet the hash of your response file (or similar on any social media platform where you have a public account). Send the coordinator a link to the tweet.
+1. (easiest) Simply tweet the hash of your response file (or similar on any social media platform where you have a public account, e.g. make a moment on Wechat). Send the coordinator a link to the tweet.
 2. Document the process you used in a file named `README.md`, following the template here: https://github.com/weijiekoh/perpetualpowersoftau/tree/master/0001_weijie_response
 Sign it with your GPG key and create a PR to the repo, adding your attestation and signature in the subfolder
 `perpetualpowersoftau/<participant_num>_<your_name>_response`
