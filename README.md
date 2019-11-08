@@ -12,6 +12,8 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 |-|-|-|-|
 | 0001 | Ariel Gabizon | [_](https://sites.google.com/site/arielgabizon1/) | [0001_ariel_response](./0001_ariel_response/) |
 | 0002 | Friedel Ziegelmayer | [Keybase](https://keybase.io/contactkohweijie) | [0002_friedel_response](./0002_friedel_response/README.md) |
+| 0003 | IPFSBlack | TBD | TBD |
+| 0004 | Neo | TBD | TBD |
 
 ## Procedure
 
@@ -154,6 +156,8 @@ e.g.
 `perpetualpowersoftau/0001_ariel_response/`
 send to the coordinator a link to a public profile of yours, where your GPG public key is listed (e.g. a keybase profile)
 3. Same as previous, but instead of signing with a GPG key, link to the attestation on the repo in a tweet.
+
+**PLEASE NOTE: If you do not submit your attestation we will be unable to use your contribution.**
  
 ## Examples of entropy sources
 
