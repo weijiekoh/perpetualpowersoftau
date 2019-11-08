@@ -27,10 +27,14 @@ Hash of the [`response`](https://ppot.blob.core.windows.net/public/response_0012
 
 Blake2b hash of the `new_challenge` file for participant #13:
 
-<!--```-->
-<!--```-->
+```
+        e83607eb 942b3ac1 394dfb2a 36b465a0
+        3bcea042 a8bceafe 16daa05d 7dc143dd
+        d9c3e807 7490083b be2839ad 8be6bbdd
+        f1e90896 d14eab37 0ea33fd0 c0d3c11e
+```
 
-<!--The above `new_challenge` file: https://ppot.blob.core.windows.net/public/challenge_0013-->
+The above `new_challenge` file: https://ppot.blob.core.windows.net/public/challenge_0013
 
 Daniel's attestation (from `danielw_attestation.md`):
 
