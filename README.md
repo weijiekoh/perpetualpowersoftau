@@ -145,7 +145,7 @@ Thank you for your participation, much appreciated! :)
 Upload the response file to the coordinator's server according to the instructions given by the coordinator (currently: using `rsync` with the ssh key you have provided)
 
 ### Add an attestation
-Finally, to give credibility to the process, you must make an attestation of your participation with some link to your real-world identity.
+Finally, to give credibility to the process, you must make an attestation of your participation with some link to your real-world identity; *this is essential for the credibility of the ceremony, and you should not sign-up in case you're not comfortable doing this.*
 Here are three ways to do this.
 
 1. (easiest) Simply tweet the hash of your response file (or similar on any social media platform where you have a public account, e.g. make a moment on Wechat). Send the coordinator a link to the tweet.
