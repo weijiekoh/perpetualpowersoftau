@@ -14,6 +14,10 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 | 0002 | Friedel Ziegelmayer | [Keybase](https://keybase.io/contactkohweijie) | [0002_friedel_response](./0002_friedel_response/README.md) |
 | 0003 | Black Dengkf | [Github](https://github.com/Dengminer) | [0003_Dengkf_response](./0003_Dengkf_response/README.md) |
 | 0004 | IPFSMain | | [twitter](https://twitter.com/IPFSMain/status/1192855448098992129) | 
+| 0005 | Ajust | | [twitter](https://twitter.com/fireflyblock/status/1193526751546077185?s=05) | 
+
+
+sh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOn1SVGKN/v0OGzMhvYqnvaY9sRWfalmW8LUlmj9nnd9 root@iZj6cbfxfdyulbuw974ahmZ
 
 ## Procedure
 
