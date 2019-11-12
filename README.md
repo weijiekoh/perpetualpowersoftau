@@ -14,6 +14,7 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 | 0002 | Friedel Ziegelmayer | [Keybase](https://keybase.io/contactkohweijie) | [0002_friedel_response](./0002_friedel_response/README.md) |
 | 0003 | Black Dengkf | [Github](https://github.com/Dengminer) | [0003_Dengkf_response](./0003_Dengkf_response/README.md) |
 | 0004 | IPFSMain | | [twitter](https://twitter.com/IPFSMain/status/1192855448098992129) | 
+| 0005 | Helmsman | [Github](https://github.com/IPFS-grandhelmsman) | [0005_helmsman_response](./0005_grandhelmsman_response/README.md) |
 
 ## Procedure
 
