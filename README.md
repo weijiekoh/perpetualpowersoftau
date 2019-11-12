@@ -15,7 +15,7 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 | 0003 | Black Dengkf | [Github](https://github.com/Dengminer) | [0003_Dengkf_response](./0003_Dengkf_response/README.md) |
 | 0004 | IPFSMain | | [twitter](https://twitter.com/IPFSMain/status/1192855448098992129) | 
 | 0005 | Ajust | | [twitter](https://twitter.com/fireflyblock/status/1193526751546077185?s=05) | 
-| 0006 | Helmsman | [Github](https://github.com/IPFS-grandhelmsman) | [0006_helmsman_response](./0006_grandhelmsman_response/README.md) |
+| 0006 | Helmsman | [Keybase](https://keybase.io/grandhelmsman) | [0006_helmsman_response](./0006_grandhelmsman_response/README.md) |
 
 ## Procedure
 
