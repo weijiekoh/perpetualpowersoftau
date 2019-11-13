@@ -116,6 +116,12 @@ Run the computation with `challenge` in your working directory:
 /path/to/powersoftau/target/release/compute_constrained
 ```
 
+We actually recommend you record the program output in a file, and later send it to the coordinator; e.g. instead of above, use:
+```bash
+/path/to/powersoftau/target/release/compute_constrained | tee output.log
+```
+
+
 You will see this prompt:
 
 ```
@@ -125,6 +131,16 @@ Type some random text and press [ENTER] to provide additional entropy...
 ```
 
 Make sure that it says `2^27 powers of tau`, and then enter random text as prompted. You should try to provide as much entropy as possible from sources which are truly hard to replicate. See below for examples derived from Zcash's own ceremony.
+
+After a few minutes, it will write down the hash of the challenge file:
+```
+`challenge` file contains decompressed points and has a hash:
+    4ef1fd9f f3154310 a773f3a4 fedecfa8
+    14eec883 794e1e2f c7eb8ce4 3173e138
+    0f2426d7 b8c6a097 4bfe3dd3 ae42d018
+    6e0cf742 64b8e6ca c93b0a55 fd3b33bf
+```
+We recommend you keep a record of this hash.
 
 The computation will run for about several hours on a fast machine. Please try your best to avoid electronic surveillance or tampering during this time.
 
