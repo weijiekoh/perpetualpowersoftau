@@ -143,7 +143,7 @@ The BLAKE2b hash of `./response` is:
         507f5f0e 5c87d756 85b487ed 89a6fb50 
 Thank you for your participation, much appreciated! :)
 ```
-*Save the hash of the response in a file for your attestation*. Upload the response file to the coordinator's server according to the instructions given by the coordinator (currently: using `rsync` with the ssh key you have provided)
+Save the hash of the response in a file for your attestation. Upload the response file to the coordinator's server according to the instructions given by the coordinator (currently: using `rsync` with the ssh key you have provided)
 
 ### Add an attestation
 Finally, to give credibility to the process, you must make an attestation of your participation with some link to your real-world identity; *this is essential for the credibility of the ceremony, and you should not sign-up in case you're not comfortable doing this.*
