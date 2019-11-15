@@ -13,10 +13,10 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 | 0001 | Ariel Gabizon | [GPG](https://sites.google.com/site/arielgabizon1/) | [0001_ariel_response](./0001_ariel_response/) |
 | 0002 | Friedel Ziegelmayer | [Keybase](https://keybase.io/contactkohweijie) | [0002_friedel_response](./0002_friedel_response/README.md) |
 | 0003 | Black Dengkf | [Github](https://github.com/Dengminer) | [0003_Dengkf_response](./0003_Dengkf_response/README.md) |
-| 0004 | IPFSMain | | [twitter](https://twitter.com/IPFSMain/status/1192855448098992129) | 
+| 0004 | [IPFSMain](https://www.ipfsmain.cn/) | | [twitter](https://twitter.com/IPFSMain/status/1192855448098992129) | 
 | 0005 | Ajust | | [twitter](https://twitter.com/fireflyblock/status/1193526751546077185?s=05) | 
 | 0006 | Helmsman | [Keybase](https://keybase.io/grandhelmsman) | [0006_helmsman_response](./0006_grandhelmsman_response/README.md) |
-| 0007 | AZTEC Protocol | [Twitter](https://twitter.com/aztecprotocol/status/1195048176870404098?s=20) | [0007_aztec_response](./0007_aztec_response/README.md) |
+| 0007 | [AZTEC Protocol](https://www.aztecprotocol.com/) | [Twitter](https://twitter.com/aztecprotocol/status/1195048176870404098?s=20) | [0007_aztec_response](./0007_aztec_response/README.md) |
 
 ## Procedure
 
