@@ -166,14 +166,15 @@ Save the hash of the response in a file for your attestation. Upload the respons
 Finally, to give credibility to the process, you must make an attestation of your participation with some link to your real-world identity; *this is essential for the credibility of the ceremony, and you should not sign-up in case you're not comfortable doing this.*
 Here are three ways to do this.
 
-1. (easiest) Simply tweet the hash of your response file (or similar on any social media platform where you have a public account, e.g. make a moment on Wechat). Send the coordinator a link to the tweet. See [example](https://twitter.com/IPFSMain/status/1192855448098992129).
-2. Document the process you used in a file named `README.md`, following the template here: https://github.com/weijiekoh/perpetualpowersoftau/tree/master/0001_weijie_response
-Sign it with your GPG key and create a PR to the repo, adding your attestation and signature in the subfolder
+1. Document the process you used in a file named `README.md`, following the template here: https://github.com/weijiekoh/perpetualpowersoftau/tree/master/0001_weijie_response
+Please include identifying information like your real name.
+2. Sign it with your GPG key and create a PR to the repo, adding your attestation and signature in the subfolder
 `perpetualpowersoftau/<participant_num>_<your_name>_response`
 e.g.
-`perpetualpowersoftau/0001_ariel_response/`
-send to the coordinator a link to a public profile of yours, where your GPG public key is listed (e.g. a keybase profile)
-3. Same as previous, but instead of signing with a GPG key, link to the attestation on the repo in a tweet.
+`perpetualpowersoftau/0001_ariel_response/`.
+If you do not know how to submit a PR, you can send the coordinator your README file.
+3. Send the coordinator a link to a public profile of yours, where your GPG public key is listed (e.g. a keybase profile)
+4. If you can't  do the above, simply tweet the hash of your response file, *only do this from a twitter account containing your real name*. Send the coordinator a link to the tweet. See [example](https://twitter.com/IPFSMain/status/1192855448098992129).
 
 **PLEASE NOTE: If you do not submit your attestation we will be unable to use your contribution.**
  
