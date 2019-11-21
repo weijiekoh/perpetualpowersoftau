@@ -4,19 +4,20 @@ This repo was forked from the Semaphore team which is conducting phase 1 of a mu
 
 The goal is to securely generate zk-SNARK parameters for circuits of up to `2 ^ 27` (130+ million) constraints, over the [BLS12-381 curve](https://electriccoin.co/blog/new-snark-curve/). This means that the process will generate twice as many minus one (260+ million) powers of tau. The initial motivation for this is the launch of the Filecoin network which will require circuits of this size; however the parameters will serve other projects wanting to use Groth16 over this curve; and incidentally, will also be usable for circuits up to size `2^28` for the new [PLONK](https://eprint.iacr.org/2019/953.pdf) system.
 
-As long as one party in the ceremony behaves honestly and is not comprimised, the entire setup is trustworthy. 
+As long as one party in the ceremony behaves honestly and is not comprimised, the entire setup is trustworthy.
 
 ## Ceremony progress
 
-| Participant ID | Identity | GPG key | Attestation | 
+| Participant ID | Identity | GPG key | Attestation |
 |-|-|-|-|
 | 0001 | Ariel Gabizon | [GPG](https://sites.google.com/site/arielgabizon1/) | [0001_ariel_response](./0001_ariel_response/) |
 | 0002 | Friedel Ziegelmayer | [Keybase](https://keybase.io/contactkohweijie) | [0002_friedel_response](./0002_friedel_response/README.md) |
 | 0003 | Black Dengkf | [Github](https://api.github.com/users/Dengminer/gpg_keys) | [0003_Dengkf_response](./0003_Dengkf_response/README.md) |
-| 0004 | [IPFSMain](https://www.ipfsmain.cn/) | | [twitter](https://twitter.com/IPFSMain/status/1192855448098992129) | 
-| 0005 | [Firefly](http://www.fireflyblock.com/) | | [twitter](https://twitter.com/fireflyblock/status/1193526751546077185?s=05) | 
+| 0004 | [IPFSMain](https://www.ipfsmain.cn/) | | [twitter](https://twitter.com/IPFSMain/status/1192855448098992129) |
+| 0005 | [Firefly](http://www.fireflyblock.com/) | | [twitter](https://twitter.com/fireflyblock/status/1193526751546077185?s=05) |
 | 0006 | [Grand Helmsman](https://www.grandhelmsman.com/) | [Keybase](https://keybase.io/grandhelmsman) | [0006_helmsman_response](./0006_grandhelmsman_response/README.md) |
 | 0007 | [AZTEC Protocol](https://www.aztecprotocol.com/) | [Twitter](https://twitter.com/aztecprotocol/status/1195048176870404098?s=20) | [0007_aztec_response](./0007_aztec_response/README.md) |
+| 0009 | [CoinSummer](https://www.coinsummer.io/) | [Twitter](https://twitter.com/coin_summer/status/1197358327430168576) | [0009_coinsummer_response](./0009_coinsummer_response/README.md) |
 
 ## Procedure
 
@@ -154,10 +155,10 @@ Done!
 Your contribution has been written to `./response`
 
 The BLAKE2b hash of `./response` is:
-        12345678 90123456 78901234 56789012 
-        12345678 90123456 78901234 56789012 
-        0b5337cd bb05970d 4045a88e 55fe5b1d 
-        507f5f0e 5c87d756 85b487ed 89a6fb50 
+        12345678 90123456 78901234 56789012
+        12345678 90123456 78901234 56789012
+        0b5337cd bb05970d 4045a88e 55fe5b1d
+        507f5f0e 5c87d756 85b487ed 89a6fb50
 Thank you for your participation, much appreciated! :)
 ```
 Save the hash of the response in a file for your attestation. Upload the response file to the coordinator's server using this command:
@@ -181,7 +182,7 @@ If you do not know how to submit a PR, you can send the coordinator your README 
 4. If you can't  do the above, simply tweet the hash of your response file, *only do this from a twitter account containing your real name*. Send the coordinator a link to the tweet. See [example](https://twitter.com/IPFSMain/status/1192855448098992129).
 
 **PLEASE NOTE: If you do not submit your attestation we will be unable to use your contribution.**
- 
+
 ## Examples of entropy sources
 
 1. `/dev/urandom` from one or more devices
