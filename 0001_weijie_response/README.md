@@ -38,23 +38,19 @@ from my personal laptop. Additionally, I mashed keys on my keyboard for good
 measure. I admit that these measures were entirely unnecessary but I wanted to
 see if the binary would accept a large amount of entropy.
 
-**Time taken:** 1437 minutes, 15.459 seconds (23.95 hours)
+**Time taken:** Around 10-18 hours
 
-**Side channel defenses:** none
+**Side channel defenses:** The first few hours of the ceremony were performed
+in a makeshift Faraday cage made of aluminium foil and cling wrap. I also
+removed the wifi and Bluetooth card from the laptop before running the
+ceremony.
 
 **Postprocessing:**
 
-- I copied the Blake2b hash from the CLI output of `comupte_constrained`
-- I did not reboot the VM.
-- I uploaded the `response` file to Azure Blob Storage as
-  `response_0001_weijie` using the `az` CLI tool.
-- I used a different Azure VM to download `response_0001_weijie` and ran
-  `b2sum` to verify its integrity
+- I ran `verify_transform_constrained` to generate the new challenge file, and
+  rebooted the laptop. I then transferred the files to an external hard drive,
+  plugged that into a different laptop, and uploaded them to Azure Blob
+  Storage.
 
-**Do not trust this response.** I neither guarantee that I discarded the toxic
-waste, nor that an adversary has not gotten hold of it. I did not use a more
-secure setup as this was just a test run to sure that the process works,
-especially given the large file sizes and long compute time required. I will
-participate again in a more secure fashion later on in this ceremony. Even
-though this was a test run, I am including it in the ceremony to save time and
-as there is no downside to doing so.
+- I reformatted both SSDs in my laptop, and then used `hdparm` from a live USB
+  Linux distribution to securely erase them.
