@@ -18,6 +18,7 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 | 0006 | [Grand Helmsman](https://www.grandhelmsman.com/) | [Keybase](https://keybase.io/grandhelmsman) | [0006_helmsman_response](./0006_grandhelmsman_response/README.md) |
 | 0007 | [AZTEC Protocol](https://www.aztecprotocol.com/) | [Twitter](https://twitter.com/aztecprotocol/status/1195048176870404098?s=20) | [0007_aztec_response](./0007_aztec_response/README.md) |
 | 0009 | [CoinSummer](https://www.coinsummer.io/) | [Twitter](https://twitter.com/coin_summer/status/1197358327430168576) | [0009_coinsummer_response](./0009_coinsummer_response/README.md) |
+| 0010 | SkyIPFS| | [twitter](https://twitter.com/SkyIPFS/status/1198065889146359808) |
 
 ## Procedure
 
