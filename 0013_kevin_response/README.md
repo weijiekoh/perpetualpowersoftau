@@ -35,3 +35,31 @@ Blake2b hash of the `new_challenge` file for participant #14:
 ```
 
 The above `new_challenge` file: https://ppot.blob.core.windows.net/public/challenge_0014
+
+Kevin Lackner's attestation:
+
+```
+Date: Nov 10 2019
+
+Location: Piedmont CA
+
+Device:
+A spare Ubuntu box, physically located in my office.
+Files stored on an external drive.
+
+Challenge:
+$ b2sum challenge
+e83607eb942b3ac1394dfb2a36b465a03bcea042a8bceafe16daa05d7dc143ddd9c3e8077490083bbe2839ad8be6bbddf1e90896d14eab370ea33fd0c0d3c11e  challenge
+
+Response:
+$ b2sum response
+c22a8a2715feadad42217518ecca2788fb771d578aa1f8e0cef98ef57e6565b8bf5ab833298417de5cddff07520231b254ddc9c272817bf2aae0d4ec584500dc  response
+
+Afterwards:
+I securely erased the drive and used massive to upload the response.
+
+
+Kevin Lacker
+github.com/lacker
+twitter.com/lacker
+```
