@@ -25,6 +25,13 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 | 0013 | Kevin Lackner | [Keybase](https://keybase.io/lackner) | [0013_kevin_response](./0013_kevin_response/README.md) |
 | 0014 | Koh Wei Jie | [Keybase](https://keybase.io/contactkohweijie) | [0014_weijie_response](./0014_weijie_response/README.md) |
 
+## Transcript files
+
+| IPFS | Filename |
+| /ipfs/QmVTRqidSsZx5NyJVjmLeyGT6BgMLxMHhfVUxzPQR4w4zw | challenge_0002_kobi |
+| /ipfs/QmNiWx9x3szg2ZKbNx1Py7CssA97imyCZZy37CFX6dKKYD | challenge_0003 |
+| /ipfs/QmbuEJRTtZf65eHGYomewgJLdqqTwetQkedeXLSc2fjJTo | challenge_0004 |
+
 ## Procedure
 
 There is a coordinator and multiple participants. The ceremony occurs in sequential rounds. Each participant performs one or more rounds at a time. The coordinator decides the order in which the participants act. There can be an indefinite number of rounds.
