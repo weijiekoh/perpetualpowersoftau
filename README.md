@@ -20,6 +20,7 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 | 0008 | Porcu & Dig | [Github](https://github.com/porcuquine) | [0008_porcu_dig_response](./0008_porcu_dig_response/README.md) |
 | 0009 | [CoinSummer](https://www.coinsummer.io/) | [Twitter](https://twitter.com/coin_summer/status/1197358327430168576) | [0009_coinsummer_response](./0009_coinsummer_response/README.md) |
 | 0010 | SkyIPFS| | [Twitter](https://twitter.com/SkyIPFS/status/1198065889146359808) |
+| 0011 | reach.wang | [Keybase](https://keybase.io/jackytan) | [0010_reach.wang_response](./0010_reach.wang_response/README.md) |
 
 ## Procedure
 
