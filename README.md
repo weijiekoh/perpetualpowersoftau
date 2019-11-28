@@ -28,9 +28,12 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 ## Transcript files
 
 | IPFS | Filename |
+|-|-|
 | /ipfs/QmVTRqidSsZx5NyJVjmLeyGT6BgMLxMHhfVUxzPQR4w4zw | challenge_0002_kobi |
 | /ipfs/QmNiWx9x3szg2ZKbNx1Py7CssA97imyCZZy37CFX6dKKYD | challenge_0003 |
 | /ipfs/QmbuEJRTtZf65eHGYomewgJLdqqTwetQkedeXLSc2fjJTo | challenge_0004 |
+| /ipfs/QmUzjCQi681cAvHNzwjf5AQ7Kye17ft13uFKDU1V7QgvFE | challenge_0005 |
+
 
 ## Procedure
 
