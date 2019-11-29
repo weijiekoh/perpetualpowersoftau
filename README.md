@@ -24,10 +24,6 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 | 0012 | [QEDIT Team](https://qed-it.com/) | [Twitter](https://keybase.io/jackytan) | [0012_qedit_response](./0012_qedit_response/README.md) |
 
 
-
-
-https://github.com/arielgabizon/perpetualpowersoftau#ceremony-progress
-
 ## Procedure
 
 There is a coordinator and multiple participants. The ceremony occurs in sequential rounds. Each participant performs one or more rounds at a time. The coordinator decides the order in which the participants act. There can be an indefinite number of rounds.
