@@ -29,10 +29,18 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 
 | IPFS | Filename |
 |-|-|
-| /ipfs/QmVTRqidSsZx5NyJVjmLeyGT6BgMLxMHhfVUxzPQR4w4zw | challenge_0002_kobi |
-| /ipfs/QmNiWx9x3szg2ZKbNx1Py7CssA97imyCZZy37CFX6dKKYD | challenge_0003 |
-| /ipfs/QmbuEJRTtZf65eHGYomewgJLdqqTwetQkedeXLSc2fjJTo | challenge_0004 |
-| /ipfs/QmUzjCQi681cAvHNzwjf5AQ7Kye17ft13uFKDU1V7QgvFE | challenge_0005 |
+| `QmePmggNmSmzkJm3W1Kdz73FsUcdDpUGdvj466xTw9gjrg` | challenge_0002_kobi |
+| `QmSQXLTHVCNQQE2wF7q8n2vhNmLjzKpPXwsGSYkGboKefo` | challenge_0003 |
+| `QmZ4qMYTRWKSWce2g2pose7v6maKGrrGG8HvtWPqxXyKxM` | challenge_0004 |
+| `QmZfYvb1eeE1uXvBGQWFXq169Gh79qsdcho169MM2BJ3Z7` | challenge_0005 |
+| `QmeNukSckT7gkD354aQfzLh6T7ZGv51gPmQQEi18BmSpiC` | challenge_0006 |
+| `QmQpAUqQ1jx8ABwmvw1kjUhFUcN8JM4D14BkE2roBrYtux` | challenge_0007 |
+| `QmdRxyVimSRsAJ4HkD9AiMSCCM2qw5nrEAJVzUJXT4VpGT` | challenge_0008 |
+| `QmQ1tzZi7PdHKE8VJczfHNgZbGSUp73viuytBoofcTnW1C` | challenge_0009 |
+| `Qmd1gtTpWCy4LP1eskdF5jD8daGMvMz7oGVajMoKwHKsWA` | challenge_0010 |
+| `Qmbf4UtTzdy3Cz56nXeom2fecB6ngYcryyitiVmYDTB4Za` | challenge_0011 |
+| `QmYzPUEZ8BPjFMXXcPo1WA6zaHERthXLPGAMR8sPrGajA1` | challenge_0012 |
+| `QmY7MKhMN8heRK5Nwe5yhraepArWc5YZJCfarae7R9QuR4` | challenge_0013 |
 
 
 ## Procedure
