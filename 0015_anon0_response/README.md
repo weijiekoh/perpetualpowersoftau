@@ -48,4 +48,24 @@ ubuntu-1404-trusty-v20191107
 **Entropy sources:** For random seed: sha512(random photos of Christmas tree and and various toys in the floor) concatenated with random key mash on keyboard. 
 
 **Side channel defenses:** 2FA was activated on the Google Account, and the VM wasn't used for anything else.
+
+**Post-processing:**
+
+- I copied the Blake2b hash from the CLI output of compute_constrained;
+
+- I uploaded the response file as "response" using SFTP to the server provided by Wei Jie.
+
+- Verified with Wei Jie that the uploaded file has the expected Blake2b digest
+
+- Working folder gets deleted `rm -r tau`
+
+- Wipe out disk `shred -v --random-source=/dev/urandom -n10 /dev/sda2`
+
+- All logs get cleared `truncate -s 0 /var/log/*log`
+
+- History gets cleared `history -c`
+
+- Shutdown the VM
+
+- Delete the VM
 ```

@@ -20,3 +20,23 @@ Blake2b hash of the response file:
     0220dc2b 67af7012 12354f58 71b40d4a 
     0887b7b4 c485d2f3 43c65624 12ca5c31 
 ```
+
+**Post-processing:**
+
+- I copied the Blake2b hash from the CLI output of compute_constrained;
+
+- I uploaded the response file as "response" using SFTP to the server provided by Wei Jie.
+
+- Verified with Wei Jie that the uploaded file has the expected Blake2b digest
+
+- Working folder gets deleted `rm -r tau`
+
+- Wipe out disk `shred -v --random-source=/dev/urandom -n10 /dev/sda2`
+
+- All logs get cleared `truncate -s 0 /var/log/*log`
+
+- History gets cleared `history -c`
+
+- Shutdown the VM
+
+- Delete the VM
