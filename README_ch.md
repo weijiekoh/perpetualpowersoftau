@@ -22,6 +22,7 @@ Semaphore项目团队正在发起一个多方参与的可信配置第一阶段�
 | 0012 | Daniel Wang| [Keybase](https://keybase.io/danielw_loopring) | [0012_danielw_response](./0012_danielw_response/README.md) |
 | 0013 | Kevin Lackner | [Keybase](https://keybase.io/lackner) | [0013_kevin_response](./0013_kevin_response/README.md) |
 | 0014 | Koh Wei Jie | [Keybase](https://keybase.io/contactkohweijie) | [0014_weijie_response](./0014_weijie_response/README.md) |
+| 0015 | Anonymous Cryptographer | | [0015_anon0_response](./0015_anon0_response/README.md) |
 
 ## 流程
 
