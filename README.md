@@ -51,6 +51,10 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 | `QmS3hMyQ9hworRi27Hkc85eTUXDx6ciw2QzZd8KcUNHb2x` | response_0006_zac |
 | `Qmc3yEq5QmckJwaQY8P1qEWSvfBYqCqMzB3q4mHYrZbZEk` | response_0007_youssef |
 | `QmQiu9W8nutk8Bkh5yg3aaiCCmYKjbCm48g6B8hWK2KjDw` | response_0008_mike |
+| `QmRrkQD44brXuaB9uw4gNvoJ5dHnkS3f2GrEhW9Jtz4Kff` | response_0009_brecht |
+| `QmU3Zj589iK67W5pYHMJEiVTzHVCsL9AeGqnBLhq6kU2Ww` | response_0010_vano |
+| `QmYtrvaTBn7ro9EBpiaDf4NWMxAKttKXDLww8rP2zbfesH` | response_0011_zhiniang |
+| `QmXBJ5d86CJfZzcqSeaqVMuJki8V4wsLsPR5bsSG23QmtC` | response_0012_daniel |
 
 ## Procedure
 
