@@ -1,0 +1,4246 @@
+Attempting to download challenge_initial at Mon Nov 25 19:27:34 UTC 2019
+Successfully downloaded challenge_initial at Mon Nov 25 19:45:10 UTC 2019
+
+--------------------------------------------------
+ROUND 1
+Round start time: Mon Nov 25 19:45:10 UTC 2019
+
+Attempting to download response_0001_weijie at Mon Nov 25 19:45:10 UTC 2019
+Successfully downloaded response_0001_weijie at Mon Nov 25 19:54:01 UTC 2019
+
+Validation of response 1 begun at Mon Nov 25 19:54:01 UTC 2019
+Will verify and decompress a contribution to accumulator for 2^28 powers of tau
+Calculating previous challenge hash...
+Hash of the `challenge` file for verification:
+	93da9192 0d5a54a8 a0fde55c d9dc3a10 
+	c4f3eef7 68b62c09 48741370 864254b4 
+	c1920f3f 29d4ebc0 ef3acecf 2e2db63a 
+	755713d7 7e1ed773 47a56fbc 317c7a93 
+`response` was based on the hash:
+	93da9192 0d5a54a8 a0fde55c d9dc3a10 
+	c4f3eef7 68b62c09 48741370 864254b4 
+	c1920f3f 29d4ebc0 ef3acecf 2e2db63a 
+	755713d7 7e1ed773 47a56fbc 317c7a93 
+Hash of the `response` file for verification:
+	398b99a4 3f0214e0 2b7483ea 96b8ac0d 
+	1e2aa662 7b6e9e3b 9fe0b043 2803be29 
+	f014b567 8fd83cfa 0abee8ca 07d7655c 
+	b6682b52 7a7965aa 1f99f02a 89afb712 
+Verifying a contribution to contain proper powers and correspond to the public key...
+Done processing 2097151 powers of tau
+Done processing 4194303 powers of tau
+Done processing 6291455 powers of tau
+Done processing 8388607 powers of tau
+Done processing 10485759 powers of tau
+Done processing 12582911 powers of tau
+Done processing 14680063 powers of tau
+Done processing 16777215 powers of tau
+Done processing 18874367 powers of tau
+Done processing 20971519 powers of tau
+Done processing 23068671 powers of tau
+Done processing 25165823 powers of tau
+Done processing 27262975 powers of tau
+Done processing 29360127 powers of tau
+Done processing 31457279 powers of tau
+Done processing 33554431 powers of tau
+Done processing 35651583 powers of tau
+Done processing 37748735 powers of tau
+Done processing 39845887 powers of tau
+Done processing 41943039 powers of tau
+Done processing 44040191 powers of tau
+Done processing 46137343 powers of tau
+Done processing 48234495 powers of tau
+Done processing 50331647 powers of tau
+Done processing 52428799 powers of tau
+Done processing 54525951 powers of tau
+Done processing 56623103 powers of tau
+Done processing 58720255 powers of tau
+Done processing 60817407 powers of tau
+Done processing 62914559 powers of tau
+Done processing 65011711 powers of tau
+Done processing 67108863 powers of tau
+Done processing 69206015 powers of tau
+Done processing 71303167 powers of tau
+Done processing 73400319 powers of tau
+Done processing 75497471 powers of tau
+Done processing 77594623 powers of tau
+Done processing 79691775 powers of tau
+Done processing 81788927 powers of tau
+Done processing 83886079 powers of tau
+Done processing 85983231 powers of tau
+Done processing 88080383 powers of tau
+Done processing 90177535 powers of tau
+Done processing 92274687 powers of tau
+Done processing 94371839 powers of tau
+Done processing 96468991 powers of tau
+Done processing 98566143 powers of tau
+Done processing 100663295 powers of tau
+Done processing 102760447 powers of tau
+Done processing 104857599 powers of tau
+Done processing 106954751 powers of tau
+Done processing 109051903 powers of tau
+Done processing 111149055 powers of tau
+Done processing 113246207 powers of tau
+Done processing 115343359 powers of tau
+Done processing 117440511 powers of tau
+Done processing 119537663 powers of tau
+Done processing 121634815 powers of tau
+Done processing 123731967 powers of tau
+Done processing 125829119 powers of tau
+Done processing 127926271 powers of tau
+Done processing 130023423 powers of tau
+Done processing 132120575 powers of tau
+Done processing 134217727 powers of tau
+Done processing 136314879 powers of tau
+Done processing 138412031 powers of tau
+Done processing 140509183 powers of tau
+Done processing 142606335 powers of tau
+Done processing 144703487 powers of tau
+Done processing 146800639 powers of tau
+Done processing 148897791 powers of tau
+Done processing 150994943 powers of tau
+Done processing 153092095 powers of tau
+Done processing 155189247 powers of tau
+Done processing 157286399 powers of tau
+Done processing 159383551 powers of tau
+Done processing 161480703 powers of tau
+Done processing 163577855 powers of tau
+Done processing 165675007 powers of tau
+Done processing 167772159 powers of tau
+Done processing 169869311 powers of tau
+Done processing 171966463 powers of tau
+Done processing 174063615 powers of tau
+Done processing 176160767 powers of tau
+Done processing 178257919 powers of tau
+Done processing 180355071 powers of tau
+Done processing 182452223 powers of tau
+Done processing 184549375 powers of tau
+Done processing 186646527 powers of tau
+Done processing 188743679 powers of tau
+Done processing 190840831 powers of tau
+Done processing 192937983 powers of tau
+Done processing 195035135 powers of tau
+Done processing 197132287 powers of tau
+Done processing 199229439 powers of tau
+Done processing 201326591 powers of tau
+Done processing 203423743 powers of tau
+Done processing 205520895 powers of tau
+Done processing 207618047 powers of tau
+Done processing 209715199 powers of tau
+Done processing 211812351 powers of tau
+Done processing 213909503 powers of tau
+Done processing 216006655 powers of tau
+Done processing 218103807 powers of tau
+Done processing 220200959 powers of tau
+Done processing 222298111 powers of tau
+Done processing 224395263 powers of tau
+Done processing 226492415 powers of tau
+Done processing 228589567 powers of tau
+Done processing 230686719 powers of tau
+Done processing 232783871 powers of tau
+Done processing 234881023 powers of tau
+Done processing 236978175 powers of tau
+Done processing 239075327 powers of tau
+Done processing 241172479 powers of tau
+Done processing 243269631 powers of tau
+Done processing 245366783 powers of tau
+Done processing 247463935 powers of tau
+Done processing 249561087 powers of tau
+Done processing 251658239 powers of tau
+Done processing 253755391 powers of tau
+Done processing 255852543 powers of tau
+Done processing 257949695 powers of tau
+Done processing 260046847 powers of tau
+Done processing 262143999 powers of tau
+Done processing 264241151 powers of tau
+Done processing 266338303 powers of tau
+Done processing 268435455 powers of tau
+Done processing 270532607 powers of tau
+Done processing 272629759 powers of tau
+Done processing 274726911 powers of tau
+Done processing 276824063 powers of tau
+Done processing 278921215 powers of tau
+Done processing 281018367 powers of tau
+Done processing 283115519 powers of tau
+Done processing 285212671 powers of tau
+Done processing 287309823 powers of tau
+Done processing 289406975 powers of tau
+Done processing 291504127 powers of tau
+Done processing 293601279 powers of tau
+Done processing 295698431 powers of tau
+Done processing 297795583 powers of tau
+Done processing 299892735 powers of tau
+Done processing 301989887 powers of tau
+Done processing 304087039 powers of tau
+Done processing 306184191 powers of tau
+Done processing 308281343 powers of tau
+Done processing 310378495 powers of tau
+Done processing 312475647 powers of tau
+Done processing 314572799 powers of tau
+Done processing 316669951 powers of tau
+Done processing 318767103 powers of tau
+Done processing 320864255 powers of tau
+Done processing 322961407 powers of tau
+Done processing 325058559 powers of tau
+Done processing 327155711 powers of tau
+Done processing 329252863 powers of tau
+Done processing 331350015 powers of tau
+Done processing 333447167 powers of tau
+Done processing 335544319 powers of tau
+Done processing 337641471 powers of tau
+Done processing 339738623 powers of tau
+Done processing 341835775 powers of tau
+Done processing 343932927 powers of tau
+Done processing 346030079 powers of tau
+Done processing 348127231 powers of tau
+Done processing 350224383 powers of tau
+Done processing 352321535 powers of tau
+Done processing 354418687 powers of tau
+Done processing 356515839 powers of tau
+Done processing 358612991 powers of tau
+Done processing 360710143 powers of tau
+Done processing 362807295 powers of tau
+Done processing 364904447 powers of tau
+Done processing 367001599 powers of tau
+Done processing 369098751 powers of tau
+Done processing 371195903 powers of tau
+Done processing 373293055 powers of tau
+Done processing 375390207 powers of tau
+Done processing 377487359 powers of tau
+Done processing 379584511 powers of tau
+Done processing 381681663 powers of tau
+Done processing 383778815 powers of tau
+Done processing 385875967 powers of tau
+Done processing 387973119 powers of tau
+Done processing 390070271 powers of tau
+Done processing 392167423 powers of tau
+Done processing 394264575 powers of tau
+Done processing 396361727 powers of tau
+Done processing 398458879 powers of tau
+Done processing 400556031 powers of tau
+Done processing 402653183 powers of tau
+Done processing 404750335 powers of tau
+Done processing 406847487 powers of tau
+Done processing 408944639 powers of tau
+Done processing 411041791 powers of tau
+Done processing 413138943 powers of tau
+Done processing 415236095 powers of tau
+Done processing 417333247 powers of tau
+Done processing 419430399 powers of tau
+Done processing 421527551 powers of tau
+Done processing 423624703 powers of tau
+Done processing 425721855 powers of tau
+Done processing 427819007 powers of tau
+Done processing 429916159 powers of tau
+Done processing 432013311 powers of tau
+Done processing 434110463 powers of tau
+Done processing 436207615 powers of tau
+Done processing 438304767 powers of tau
+Done processing 440401919 powers of tau
+Done processing 442499071 powers of tau
+Done processing 444596223 powers of tau
+Done processing 446693375 powers of tau
+Done processing 448790527 powers of tau
+Done processing 450887679 powers of tau
+Done processing 452984831 powers of tau
+Done processing 455081983 powers of tau
+Done processing 457179135 powers of tau
+Done processing 459276287 powers of tau
+Done processing 461373439 powers of tau
+Done processing 463470591 powers of tau
+Done processing 465567743 powers of tau
+Done processing 467664895 powers of tau
+Done processing 469762047 powers of tau
+Done processing 471859199 powers of tau
+Done processing 473956351 powers of tau
+Done processing 476053503 powers of tau
+Done processing 478150655 powers of tau
+Done processing 480247807 powers of tau
+Done processing 482344959 powers of tau
+Done processing 484442111 powers of tau
+Done processing 486539263 powers of tau
+Done processing 488636415 powers of tau
+Done processing 490733567 powers of tau
+Done processing 492830719 powers of tau
+Done processing 494927871 powers of tau
+Done processing 497025023 powers of tau
+Done processing 499122175 powers of tau
+Done processing 501219327 powers of tau
+Done processing 503316479 powers of tau
+Done processing 505413631 powers of tau
+Done processing 507510783 powers of tau
+Done processing 509607935 powers of tau
+Done processing 511705087 powers of tau
+Done processing 513802239 powers of tau
+Done processing 515899391 powers of tau
+Done processing 517996543 powers of tau
+Done processing 520093695 powers of tau
+Done processing 522190847 powers of tau
+Done processing 524287999 powers of tau
+Done processing 526385151 powers of tau
+Done processing 528482303 powers of tau
+Done processing 530579455 powers of tau
+Done processing 532676607 powers of tau
+Done processing 534773759 powers of tau
+Done processing 536870910 powers of tau
+Verification succeeded!
+Verification succeeded! Writing to `./new_challenge`...
+Here's the BLAKE2b hash of the decompressed participant's response as `new_challenge` file:
+	5e72e26e 38b46d06 7b797eb5 929e18e7 
+	eda11ae0 cf429bb8 c04af72d 8a2633b5 
+	625f8cbe bb07b61b 510403d4 bf644357 
+	a80ea08d 7d5cc04d 58a8aa4d 2d9084ea 
+Done! `./new_challenge` contains the new challenge file. The other files
+were left alone.
+Validated response 1 is consistent at Tue Nov 26 10:37:57 UTC 2019
+
+Attempting to download challenge_0002_kobi at Tue Nov 26 10:37:57 UTC 2019
+Successfully downloaded challenge_0002_kobi at Tue Nov 26 10:55:27 UTC 2019
+
+Validation of challenge 2 begun at Tue Nov 26 10:55:27 UTC 2019
+Extracted expected hash of challenge 2:
+5e72e26e38b46d067b797eb5929e18e7eda11ae0cf429bb8c04af72d8a2633b5625f8cbebb07b61b510403d4bf644357a80ea08d7d5cc04d58a8aa4d2d9084ea
+Computed actual hash of challenge 2:
+5e72e26e38b46d067b797eb5929e18e7eda11ae0cf429bb8c04af72d8a2633b5625f8cbebb07b61b510403d4bf644357a80ea08d7d5cc04d58a8aa4d2d9084ea
+Validated challenge 2 is consistent at Tue Nov 26 11:13:16 UTC 2019
+
+--------------------------------------------------
+ROUND 2
+Round start time: Tue Nov 26 11:13:17 UTC 2019
+
+Attempting to download response_0002_kobi at Tue Nov 26 11:13:17 UTC 2019
+Successfully downloaded response_0002_kobi at Tue Nov 26 11:22:06 UTC 2019
+
+Validation of response 2 begun at Tue Nov 26 11:22:06 UTC 2019
+Will verify and decompress a contribution to accumulator for 2^28 powers of tau
+Calculating previous challenge hash...
+Hash of the `challenge` file for verification:
+	5e72e26e 38b46d06 7b797eb5 929e18e7 
+	eda11ae0 cf429bb8 c04af72d 8a2633b5 
+	625f8cbe bb07b61b 510403d4 bf644357 
+	a80ea08d 7d5cc04d 58a8aa4d 2d9084ea 
+`response` was based on the hash:
+	5e72e26e 38b46d06 7b797eb5 929e18e7 
+	eda11ae0 cf429bb8 c04af72d 8a2633b5 
+	625f8cbe bb07b61b 510403d4 bf644357 
+	a80ea08d 7d5cc04d 58a8aa4d 2d9084ea 
+Hash of the `response` file for verification:
+	edec0294 eb450803 ec0ef7e1 7573f238 
+	5663016b 6b47b9cc 8c9396cb 5ed36732 
+	fcc6b6e3 abf5f8ac 61d6761d d565b203 
+	936e475a 00f6e9ba 047e5991 4340fd1f 
+Verifying a contribution to contain proper powers and correspond to the public key...
+Done processing 2097151 powers of tau
+Done processing 4194303 powers of tau
+Done processing 6291455 powers of tau
+Done processing 8388607 powers of tau
+Done processing 10485759 powers of tau
+Done processing 12582911 powers of tau
+Done processing 14680063 powers of tau
+Done processing 16777215 powers of tau
+Done processing 18874367 powers of tau
+Done processing 20971519 powers of tau
+Done processing 23068671 powers of tau
+Done processing 25165823 powers of tau
+Done processing 27262975 powers of tau
+Done processing 29360127 powers of tau
+Done processing 31457279 powers of tau
+Done processing 33554431 powers of tau
+Done processing 35651583 powers of tau
+Done processing 37748735 powers of tau
+Done processing 39845887 powers of tau
+Done processing 41943039 powers of tau
+Done processing 44040191 powers of tau
+Done processing 46137343 powers of tau
+Done processing 48234495 powers of tau
+Done processing 50331647 powers of tau
+Done processing 52428799 powers of tau
+Done processing 54525951 powers of tau
+Done processing 56623103 powers of tau
+Done processing 58720255 powers of tau
+Done processing 60817407 powers of tau
+Done processing 62914559 powers of tau
+Done processing 65011711 powers of tau
+Done processing 67108863 powers of tau
+Done processing 69206015 powers of tau
+Done processing 71303167 powers of tau
+Done processing 73400319 powers of tau
+Done processing 75497471 powers of tau
+Done processing 77594623 powers of tau
+Done processing 79691775 powers of tau
+Done processing 81788927 powers of tau
+Done processing 83886079 powers of tau
+Done processing 85983231 powers of tau
+Done processing 88080383 powers of tau
+Done processing 90177535 powers of tau
+Done processing 92274687 powers of tau
+Done processing 94371839 powers of tau
+Done processing 96468991 powers of tau
+Done processing 98566143 powers of tau
+Done processing 100663295 powers of tau
+Done processing 102760447 powers of tau
+Done processing 104857599 powers of tau
+Done processing 106954751 powers of tau
+Done processing 109051903 powers of tau
+Done processing 111149055 powers of tau
+Done processing 113246207 powers of tau
+Done processing 115343359 powers of tau
+Done processing 117440511 powers of tau
+Done processing 119537663 powers of tau
+Done processing 121634815 powers of tau
+Done processing 123731967 powers of tau
+Done processing 125829119 powers of tau
+Done processing 127926271 powers of tau
+Done processing 130023423 powers of tau
+Done processing 132120575 powers of tau
+Done processing 134217727 powers of tau
+Done processing 136314879 powers of tau
+Done processing 138412031 powers of tau
+Done processing 140509183 powers of tau
+Done processing 142606335 powers of tau
+Done processing 144703487 powers of tau
+Done processing 146800639 powers of tau
+Done processing 148897791 powers of tau
+Done processing 150994943 powers of tau
+Done processing 153092095 powers of tau
+Done processing 155189247 powers of tau
+Done processing 157286399 powers of tau
+Done processing 159383551 powers of tau
+Done processing 161480703 powers of tau
+Done processing 163577855 powers of tau
+Done processing 165675007 powers of tau
+Done processing 167772159 powers of tau
+Done processing 169869311 powers of tau
+Done processing 171966463 powers of tau
+Done processing 174063615 powers of tau
+Done processing 176160767 powers of tau
+Done processing 178257919 powers of tau
+Done processing 180355071 powers of tau
+Done processing 182452223 powers of tau
+Done processing 184549375 powers of tau
+Done processing 186646527 powers of tau
+Done processing 188743679 powers of tau
+Done processing 190840831 powers of tau
+Done processing 192937983 powers of tau
+Done processing 195035135 powers of tau
+Done processing 197132287 powers of tau
+Done processing 199229439 powers of tau
+Done processing 201326591 powers of tau
+Done processing 203423743 powers of tau
+Done processing 205520895 powers of tau
+Done processing 207618047 powers of tau
+Done processing 209715199 powers of tau
+Done processing 211812351 powers of tau
+Done processing 213909503 powers of tau
+Done processing 216006655 powers of tau
+Done processing 218103807 powers of tau
+Done processing 220200959 powers of tau
+Done processing 222298111 powers of tau
+Done processing 224395263 powers of tau
+Done processing 226492415 powers of tau
+Done processing 228589567 powers of tau
+Done processing 230686719 powers of tau
+Done processing 232783871 powers of tau
+Done processing 234881023 powers of tau
+Done processing 236978175 powers of tau
+Done processing 239075327 powers of tau
+Done processing 241172479 powers of tau
+Done processing 243269631 powers of tau
+Done processing 245366783 powers of tau
+Done processing 247463935 powers of tau
+Done processing 249561087 powers of tau
+Done processing 251658239 powers of tau
+Done processing 253755391 powers of tau
+Done processing 255852543 powers of tau
+Done processing 257949695 powers of tau
+Done processing 260046847 powers of tau
+Done processing 262143999 powers of tau
+Done processing 264241151 powers of tau
+Done processing 266338303 powers of tau
+Done processing 268435455 powers of tau
+Done processing 270532607 powers of tau
+Done processing 272629759 powers of tau
+Done processing 274726911 powers of tau
+Done processing 276824063 powers of tau
+Done processing 278921215 powers of tau
+Done processing 281018367 powers of tau
+Done processing 283115519 powers of tau
+Done processing 285212671 powers of tau
+Done processing 287309823 powers of tau
+Done processing 289406975 powers of tau
+Done processing 291504127 powers of tau
+Done processing 293601279 powers of tau
+Done processing 295698431 powers of tau
+Done processing 297795583 powers of tau
+Done processing 299892735 powers of tau
+Done processing 301989887 powers of tau
+Done processing 304087039 powers of tau
+Done processing 306184191 powers of tau
+Done processing 308281343 powers of tau
+Done processing 310378495 powers of tau
+Done processing 312475647 powers of tau
+Done processing 314572799 powers of tau
+Done processing 316669951 powers of tau
+Done processing 318767103 powers of tau
+Done processing 320864255 powers of tau
+Done processing 322961407 powers of tau
+Done processing 325058559 powers of tau
+Done processing 327155711 powers of tau
+Done processing 329252863 powers of tau
+Done processing 331350015 powers of tau
+Done processing 333447167 powers of tau
+Done processing 335544319 powers of tau
+Done processing 337641471 powers of tau
+Done processing 339738623 powers of tau
+Done processing 341835775 powers of tau
+Done processing 343932927 powers of tau
+Done processing 346030079 powers of tau
+Done processing 348127231 powers of tau
+Done processing 350224383 powers of tau
+Done processing 352321535 powers of tau
+Done processing 354418687 powers of tau
+Done processing 356515839 powers of tau
+Done processing 358612991 powers of tau
+Done processing 360710143 powers of tau
+Done processing 362807295 powers of tau
+Done processing 364904447 powers of tau
+Done processing 367001599 powers of tau
+Done processing 369098751 powers of tau
+Done processing 371195903 powers of tau
+Done processing 373293055 powers of tau
+Done processing 375390207 powers of tau
+Done processing 377487359 powers of tau
+Done processing 379584511 powers of tau
+Done processing 381681663 powers of tau
+Done processing 383778815 powers of tau
+Done processing 385875967 powers of tau
+Done processing 387973119 powers of tau
+Done processing 390070271 powers of tau
+Done processing 392167423 powers of tau
+Done processing 394264575 powers of tau
+Done processing 396361727 powers of tau
+Done processing 398458879 powers of tau
+Done processing 400556031 powers of tau
+Done processing 402653183 powers of tau
+Done processing 404750335 powers of tau
+Done processing 406847487 powers of tau
+Done processing 408944639 powers of tau
+Done processing 411041791 powers of tau
+Done processing 413138943 powers of tau
+Done processing 415236095 powers of tau
+Done processing 417333247 powers of tau
+Done processing 419430399 powers of tau
+Done processing 421527551 powers of tau
+Done processing 423624703 powers of tau
+Done processing 425721855 powers of tau
+Done processing 427819007 powers of tau
+Done processing 429916159 powers of tau
+Done processing 432013311 powers of tau
+Done processing 434110463 powers of tau
+Done processing 436207615 powers of tau
+Done processing 438304767 powers of tau
+Done processing 440401919 powers of tau
+Done processing 442499071 powers of tau
+Done processing 444596223 powers of tau
+Done processing 446693375 powers of tau
+Done processing 448790527 powers of tau
+Done processing 450887679 powers of tau
+Done processing 452984831 powers of tau
+Done processing 455081983 powers of tau
+Done processing 457179135 powers of tau
+Done processing 459276287 powers of tau
+Done processing 461373439 powers of tau
+Done processing 463470591 powers of tau
+Done processing 465567743 powers of tau
+Done processing 467664895 powers of tau
+Done processing 469762047 powers of tau
+Done processing 471859199 powers of tau
+Done processing 473956351 powers of tau
+Done processing 476053503 powers of tau
+Done processing 478150655 powers of tau
+Done processing 480247807 powers of tau
+Done processing 482344959 powers of tau
+Done processing 484442111 powers of tau
+Done processing 486539263 powers of tau
+Done processing 488636415 powers of tau
+Done processing 490733567 powers of tau
+Done processing 492830719 powers of tau
+Done processing 494927871 powers of tau
+Done processing 497025023 powers of tau
+Done processing 499122175 powers of tau
+Done processing 501219327 powers of tau
+Done processing 503316479 powers of tau
+Done processing 505413631 powers of tau
+Done processing 507510783 powers of tau
+Done processing 509607935 powers of tau
+Done processing 511705087 powers of tau
+Done processing 513802239 powers of tau
+Done processing 515899391 powers of tau
+Done processing 517996543 powers of tau
+Done processing 520093695 powers of tau
+Done processing 522190847 powers of tau
+Done processing 524287999 powers of tau
+Done processing 526385151 powers of tau
+Done processing 528482303 powers of tau
+Done processing 530579455 powers of tau
+Done processing 532676607 powers of tau
+Done processing 534773759 powers of tau
+Done processing 536870910 powers of tau
+Verification succeeded!
+Verification succeeded! Writing to `./new_challenge`...
+Here's the BLAKE2b hash of the decompressed participant's response as `new_challenge` file:
+	9ff247f1 38a11751 05137ace d8c9766c 
+	5eeccef3 5b892c62 c55eae78 7301991b 
+	05b66649 b00c48f2 7501b30d 1538f5d8 
+	0e2da3ed f163a978 5fba5b47 352f7d04 
+Done! `./new_challenge` contains the new challenge file. The other files
+were left alone.
+Validated response 2 is consistent at Wed Nov 27 02:10:30 UTC 2019
+
+Attempting to download challenge_0003 at Wed Nov 27 02:10:30 UTC 2019
+Successfully downloaded challenge_0003 at Wed Nov 27 02:28:05 UTC 2019
+
+Validation of challenge 3 begun at Wed Nov 27 02:28:07 UTC 2019
+Extracted expected hash of challenge 3:
+9ff247f138a1175105137aced8c9766c5eeccef35b892c62c55eae787301991b05b66649b00c48f27501b30d1538f5d80e2da3edf163a9785fba5b47352f7d04
+Computed actual hash of challenge 3:
+9ff247f138a1175105137aced8c9766c5eeccef35b892c62c55eae787301991b05b66649b00c48f27501b30d1538f5d80e2da3edf163a9785fba5b47352f7d04
+Validated challenge 3 is consistent at Wed Nov 27 02:45:50 UTC 2019
+
+--------------------------------------------------
+ROUND 3
+Round start time: Wed Nov 27 02:45:50 UTC 2019
+
+Attempting to download response_0003_poma at Wed Nov 27 02:45:50 UTC 2019
+Successfully downloaded response_0003_poma at Wed Nov 27 02:54:40 UTC 2019
+
+Validation of response 3 begun at Wed Nov 27 02:54:40 UTC 2019
+Will verify and decompress a contribution to accumulator for 2^28 powers of tau
+Calculating previous challenge hash...
+Hash of the `challenge` file for verification:
+	9ff247f1 38a11751 05137ace d8c9766c 
+	5eeccef3 5b892c62 c55eae78 7301991b 
+	05b66649 b00c48f2 7501b30d 1538f5d8 
+	0e2da3ed f163a978 5fba5b47 352f7d04 
+`response` was based on the hash:
+	9ff247f1 38a11751 05137ace d8c9766c 
+	5eeccef3 5b892c62 c55eae78 7301991b 
+	05b66649 b00c48f2 7501b30d 1538f5d8 
+	0e2da3ed f163a978 5fba5b47 352f7d04 
+Hash of the `response` file for verification:
+	65c6c7bd f97d1259 ccac23b0 2fc35af4 
+	73818991 93a0b9d3 82c5bee5 2159d5d1 
+	1ceaa64c f8558471 3e954bdf a5c0e628 
+	ab75b48d 0fda7dfb 6d1690d9 5361201c 
+Verifying a contribution to contain proper powers and correspond to the public key...
+Done processing 2097151 powers of tau
+Done processing 4194303 powers of tau
+Done processing 6291455 powers of tau
+Done processing 8388607 powers of tau
+Done processing 10485759 powers of tau
+Done processing 12582911 powers of tau
+Done processing 14680063 powers of tau
+Done processing 16777215 powers of tau
+Done processing 18874367 powers of tau
+Done processing 20971519 powers of tau
+Done processing 23068671 powers of tau
+Done processing 25165823 powers of tau
+Done processing 27262975 powers of tau
+Done processing 29360127 powers of tau
+Done processing 31457279 powers of tau
+Done processing 33554431 powers of tau
+Done processing 35651583 powers of tau
+Done processing 37748735 powers of tau
+Done processing 39845887 powers of tau
+Done processing 41943039 powers of tau
+Done processing 44040191 powers of tau
+Done processing 46137343 powers of tau
+Done processing 48234495 powers of tau
+Done processing 50331647 powers of tau
+Done processing 52428799 powers of tau
+Done processing 54525951 powers of tau
+Done processing 56623103 powers of tau
+Done processing 58720255 powers of tau
+Done processing 60817407 powers of tau
+Done processing 62914559 powers of tau
+Done processing 65011711 powers of tau
+Done processing 67108863 powers of tau
+Done processing 69206015 powers of tau
+Done processing 71303167 powers of tau
+Done processing 73400319 powers of tau
+Done processing 75497471 powers of tau
+Done processing 77594623 powers of tau
+Done processing 79691775 powers of tau
+Done processing 81788927 powers of tau
+Done processing 83886079 powers of tau
+Done processing 85983231 powers of tau
+Done processing 88080383 powers of tau
+Done processing 90177535 powers of tau
+Done processing 92274687 powers of tau
+Done processing 94371839 powers of tau
+Done processing 96468991 powers of tau
+Done processing 98566143 powers of tau
+Done processing 100663295 powers of tau
+Done processing 102760447 powers of tau
+Done processing 104857599 powers of tau
+Done processing 106954751 powers of tau
+Done processing 109051903 powers of tau
+Done processing 111149055 powers of tau
+Done processing 113246207 powers of tau
+Done processing 115343359 powers of tau
+Done processing 117440511 powers of tau
+Done processing 119537663 powers of tau
+Done processing 121634815 powers of tau
+Done processing 123731967 powers of tau
+Done processing 125829119 powers of tau
+Done processing 127926271 powers of tau
+Done processing 130023423 powers of tau
+Done processing 132120575 powers of tau
+Done processing 134217727 powers of tau
+Done processing 136314879 powers of tau
+Done processing 138412031 powers of tau
+Done processing 140509183 powers of tau
+Done processing 142606335 powers of tau
+Done processing 144703487 powers of tau
+Done processing 146800639 powers of tau
+Done processing 148897791 powers of tau
+Done processing 150994943 powers of tau
+Done processing 153092095 powers of tau
+Done processing 155189247 powers of tau
+Done processing 157286399 powers of tau
+Done processing 159383551 powers of tau
+Done processing 161480703 powers of tau
+Done processing 163577855 powers of tau
+Done processing 165675007 powers of tau
+Done processing 167772159 powers of tau
+Done processing 169869311 powers of tau
+Done processing 171966463 powers of tau
+Done processing 174063615 powers of tau
+Done processing 176160767 powers of tau
+Done processing 178257919 powers of tau
+Done processing 180355071 powers of tau
+Done processing 182452223 powers of tau
+Done processing 184549375 powers of tau
+Done processing 186646527 powers of tau
+Done processing 188743679 powers of tau
+Done processing 190840831 powers of tau
+Done processing 192937983 powers of tau
+Done processing 195035135 powers of tau
+Done processing 197132287 powers of tau
+Done processing 199229439 powers of tau
+Done processing 201326591 powers of tau
+Done processing 203423743 powers of tau
+Done processing 205520895 powers of tau
+Done processing 207618047 powers of tau
+Done processing 209715199 powers of tau
+Done processing 211812351 powers of tau
+Done processing 213909503 powers of tau
+Done processing 216006655 powers of tau
+Done processing 218103807 powers of tau
+Done processing 220200959 powers of tau
+Done processing 222298111 powers of tau
+Done processing 224395263 powers of tau
+Done processing 226492415 powers of tau
+Done processing 228589567 powers of tau
+Done processing 230686719 powers of tau
+Done processing 232783871 powers of tau
+Done processing 234881023 powers of tau
+Done processing 236978175 powers of tau
+Done processing 239075327 powers of tau
+Done processing 241172479 powers of tau
+Done processing 243269631 powers of tau
+Done processing 245366783 powers of tau
+Done processing 247463935 powers of tau
+Done processing 249561087 powers of tau
+Done processing 251658239 powers of tau
+Done processing 253755391 powers of tau
+Done processing 255852543 powers of tau
+Done processing 257949695 powers of tau
+Done processing 260046847 powers of tau
+Done processing 262143999 powers of tau
+Done processing 264241151 powers of tau
+Done processing 266338303 powers of tau
+Done processing 268435455 powers of tau
+Done processing 270532607 powers of tau
+Done processing 272629759 powers of tau
+Done processing 274726911 powers of tau
+Done processing 276824063 powers of tau
+Done processing 278921215 powers of tau
+Done processing 281018367 powers of tau
+Done processing 283115519 powers of tau
+Done processing 285212671 powers of tau
+Done processing 287309823 powers of tau
+Done processing 289406975 powers of tau
+Done processing 291504127 powers of tau
+Done processing 293601279 powers of tau
+Done processing 295698431 powers of tau
+Done processing 297795583 powers of tau
+Done processing 299892735 powers of tau
+Done processing 301989887 powers of tau
+Done processing 304087039 powers of tau
+Done processing 306184191 powers of tau
+Done processing 308281343 powers of tau
+Done processing 310378495 powers of tau
+Done processing 312475647 powers of tau
+Done processing 314572799 powers of tau
+Done processing 316669951 powers of tau
+Done processing 318767103 powers of tau
+Done processing 320864255 powers of tau
+Done processing 322961407 powers of tau
+Done processing 325058559 powers of tau
+Done processing 327155711 powers of tau
+Done processing 329252863 powers of tau
+Done processing 331350015 powers of tau
+Done processing 333447167 powers of tau
+Done processing 335544319 powers of tau
+Done processing 337641471 powers of tau
+Done processing 339738623 powers of tau
+Done processing 341835775 powers of tau
+Done processing 343932927 powers of tau
+Done processing 346030079 powers of tau
+Done processing 348127231 powers of tau
+Done processing 350224383 powers of tau
+Done processing 352321535 powers of tau
+Done processing 354418687 powers of tau
+Done processing 356515839 powers of tau
+Done processing 358612991 powers of tau
+Done processing 360710143 powers of tau
+Done processing 362807295 powers of tau
+Done processing 364904447 powers of tau
+Done processing 367001599 powers of tau
+Done processing 369098751 powers of tau
+Done processing 371195903 powers of tau
+Done processing 373293055 powers of tau
+Done processing 375390207 powers of tau
+Done processing 377487359 powers of tau
+Done processing 379584511 powers of tau
+Done processing 381681663 powers of tau
+Done processing 383778815 powers of tau
+Done processing 385875967 powers of tau
+Done processing 387973119 powers of tau
+Done processing 390070271 powers of tau
+Done processing 392167423 powers of tau
+Done processing 394264575 powers of tau
+Done processing 396361727 powers of tau
+Done processing 398458879 powers of tau
+Done processing 400556031 powers of tau
+Done processing 402653183 powers of tau
+Done processing 404750335 powers of tau
+Done processing 406847487 powers of tau
+Done processing 408944639 powers of tau
+Done processing 411041791 powers of tau
+Done processing 413138943 powers of tau
+Done processing 415236095 powers of tau
+Done processing 417333247 powers of tau
+Done processing 419430399 powers of tau
+Done processing 421527551 powers of tau
+Done processing 423624703 powers of tau
+Done processing 425721855 powers of tau
+Done processing 427819007 powers of tau
+Done processing 429916159 powers of tau
+Done processing 432013311 powers of tau
+Done processing 434110463 powers of tau
+Done processing 436207615 powers of tau
+Done processing 438304767 powers of tau
+Done processing 440401919 powers of tau
+Done processing 442499071 powers of tau
+Done processing 444596223 powers of tau
+Done processing 446693375 powers of tau
+Done processing 448790527 powers of tau
+Done processing 450887679 powers of tau
+Done processing 452984831 powers of tau
+Done processing 455081983 powers of tau
+Done processing 457179135 powers of tau
+Done processing 459276287 powers of tau
+Done processing 461373439 powers of tau
+Done processing 463470591 powers of tau
+Done processing 465567743 powers of tau
+Done processing 467664895 powers of tau
+Done processing 469762047 powers of tau
+Done processing 471859199 powers of tau
+Done processing 473956351 powers of tau
+Done processing 476053503 powers of tau
+Done processing 478150655 powers of tau
+Done processing 480247807 powers of tau
+Done processing 482344959 powers of tau
+Done processing 484442111 powers of tau
+Done processing 486539263 powers of tau
+Done processing 488636415 powers of tau
+Done processing 490733567 powers of tau
+Done processing 492830719 powers of tau
+Done processing 494927871 powers of tau
+Done processing 497025023 powers of tau
+Done processing 499122175 powers of tau
+Done processing 501219327 powers of tau
+Done processing 503316479 powers of tau
+Done processing 505413631 powers of tau
+Done processing 507510783 powers of tau
+Done processing 509607935 powers of tau
+Done processing 511705087 powers of tau
+Done processing 513802239 powers of tau
+Done processing 515899391 powers of tau
+Done processing 517996543 powers of tau
+Done processing 520093695 powers of tau
+Done processing 522190847 powers of tau
+Done processing 524287999 powers of tau
+Done processing 526385151 powers of tau
+Done processing 528482303 powers of tau
+Done processing 530579455 powers of tau
+Done processing 532676607 powers of tau
+Done processing 534773759 powers of tau
+Done processing 536870910 powers of tau
+Verification succeeded!
+Verification succeeded! Writing to `./new_challenge`...
+Here's the BLAKE2b hash of the decompressed participant's response as `new_challenge` file:
+	01401c5e 781fc7c8 aae99b16 0f14a86b 
+	16a0a5e3 19d48fd0 4eaba3db 8a0fefa7 
+	bf0854bc 9bf67893 36b8680f 261151bc 
+	1d2aca16 3aa74c50 19c817bf dbc4d21d 
+Done! `./new_challenge` contains the new challenge file. The other files
+were left alone.
+Validated response 3 is consistent at Wed Nov 27 17:43:13 UTC 2019
+
+Attempting to download challenge_0004 at Wed Nov 27 17:43:13 UTC 2019
+Successfully downloaded challenge_0004 at Wed Nov 27 18:00:45 UTC 2019
+
+Validation of challenge 4 begun at Wed Nov 27 18:00:47 UTC 2019
+Extracted expected hash of challenge 4:
+01401c5e781fc7c8aae99b160f14a86b16a0a5e319d48fd04eaba3db8a0fefa7bf0854bc9bf6789336b8680f261151bc1d2aca163aa74c5019c817bfdbc4d21d
+Computed actual hash of challenge 4:
+01401c5e781fc7c8aae99b160f14a86b16a0a5e319d48fd04eaba3db8a0fefa7bf0854bc9bf6789336b8680f261151bc1d2aca163aa74c5019c817bfdbc4d21d
+Validated challenge 4 is consistent at Wed Nov 27 18:19:00 UTC 2019
+
+--------------------------------------------------
+ROUND 4
+Round start time: Wed Nov 27 18:19:00 UTC 2019
+
+Attempting to download response_0004_pepesha at Wed Nov 27 18:19:00 UTC 2019
+Successfully downloaded response_0004_pepesha at Wed Nov 27 18:27:48 UTC 2019
+
+Validation of response 4 begun at Wed Nov 27 18:27:49 UTC 2019
+Will verify and decompress a contribution to accumulator for 2^28 powers of tau
+Calculating previous challenge hash...
+Hash of the `challenge` file for verification:
+	01401c5e 781fc7c8 aae99b16 0f14a86b 
+	16a0a5e3 19d48fd0 4eaba3db 8a0fefa7 
+	bf0854bc 9bf67893 36b8680f 261151bc 
+	1d2aca16 3aa74c50 19c817bf dbc4d21d 
+`response` was based on the hash:
+	01401c5e 781fc7c8 aae99b16 0f14a86b 
+	16a0a5e3 19d48fd0 4eaba3db 8a0fefa7 
+	bf0854bc 9bf67893 36b8680f 261151bc 
+	1d2aca16 3aa74c50 19c817bf dbc4d21d 
+Hash of the `response` file for verification:
+	e66da21e 696219ed a217664b 8deb0a30 
+	b37f376b 16aae752 f5491015 2b2307f4 
+	508d04b4 124d4e95 8c391d41 6dfc04a8 
+	2db73c84 f8aa87f3 ba652eec 7b18b407 
+Verifying a contribution to contain proper powers and correspond to the public key...
+Done processing 2097151 powers of tau
+Done processing 4194303 powers of tau
+Done processing 6291455 powers of tau
+Done processing 8388607 powers of tau
+Done processing 10485759 powers of tau
+Done processing 12582911 powers of tau
+Done processing 14680063 powers of tau
+Done processing 16777215 powers of tau
+Done processing 18874367 powers of tau
+Done processing 20971519 powers of tau
+Done processing 23068671 powers of tau
+Done processing 25165823 powers of tau
+Done processing 27262975 powers of tau
+Done processing 29360127 powers of tau
+Done processing 31457279 powers of tau
+Done processing 33554431 powers of tau
+Done processing 35651583 powers of tau
+Done processing 37748735 powers of tau
+Done processing 39845887 powers of tau
+Done processing 41943039 powers of tau
+Done processing 44040191 powers of tau
+Done processing 46137343 powers of tau
+Done processing 48234495 powers of tau
+Done processing 50331647 powers of tau
+Done processing 52428799 powers of tau
+Done processing 54525951 powers of tau
+Done processing 56623103 powers of tau
+Done processing 58720255 powers of tau
+Done processing 60817407 powers of tau
+Done processing 62914559 powers of tau
+Done processing 65011711 powers of tau
+Done processing 67108863 powers of tau
+Done processing 69206015 powers of tau
+Done processing 71303167 powers of tau
+Done processing 73400319 powers of tau
+Done processing 75497471 powers of tau
+Done processing 77594623 powers of tau
+Done processing 79691775 powers of tau
+Done processing 81788927 powers of tau
+Done processing 83886079 powers of tau
+Done processing 85983231 powers of tau
+Done processing 88080383 powers of tau
+Done processing 90177535 powers of tau
+Done processing 92274687 powers of tau
+Done processing 94371839 powers of tau
+Done processing 96468991 powers of tau
+Done processing 98566143 powers of tau
+Done processing 100663295 powers of tau
+Done processing 102760447 powers of tau
+Done processing 104857599 powers of tau
+Done processing 106954751 powers of tau
+Done processing 109051903 powers of tau
+Done processing 111149055 powers of tau
+Done processing 113246207 powers of tau
+Done processing 115343359 powers of tau
+Done processing 117440511 powers of tau
+Done processing 119537663 powers of tau
+Done processing 121634815 powers of tau
+Done processing 123731967 powers of tau
+Done processing 125829119 powers of tau
+Done processing 127926271 powers of tau
+Done processing 130023423 powers of tau
+Done processing 132120575 powers of tau
+Done processing 134217727 powers of tau
+Done processing 136314879 powers of tau
+Done processing 138412031 powers of tau
+Done processing 140509183 powers of tau
+Done processing 142606335 powers of tau
+Done processing 144703487 powers of tau
+Done processing 146800639 powers of tau
+Done processing 148897791 powers of tau
+Done processing 150994943 powers of tau
+Done processing 153092095 powers of tau
+Done processing 155189247 powers of tau
+Done processing 157286399 powers of tau
+Done processing 159383551 powers of tau
+Done processing 161480703 powers of tau
+Done processing 163577855 powers of tau
+Done processing 165675007 powers of tau
+Done processing 167772159 powers of tau
+Done processing 169869311 powers of tau
+Done processing 171966463 powers of tau
+Done processing 174063615 powers of tau
+Done processing 176160767 powers of tau
+Done processing 178257919 powers of tau
+Done processing 180355071 powers of tau
+Done processing 182452223 powers of tau
+Done processing 184549375 powers of tau
+Done processing 186646527 powers of tau
+Done processing 188743679 powers of tau
+Done processing 190840831 powers of tau
+Done processing 192937983 powers of tau
+Done processing 195035135 powers of tau
+Done processing 197132287 powers of tau
+Done processing 199229439 powers of tau
+Done processing 201326591 powers of tau
+Done processing 203423743 powers of tau
+Done processing 205520895 powers of tau
+Done processing 207618047 powers of tau
+Done processing 209715199 powers of tau
+Done processing 211812351 powers of tau
+Done processing 213909503 powers of tau
+Done processing 216006655 powers of tau
+Done processing 218103807 powers of tau
+Done processing 220200959 powers of tau
+Done processing 222298111 powers of tau
+Done processing 224395263 powers of tau
+Done processing 226492415 powers of tau
+Done processing 228589567 powers of tau
+Done processing 230686719 powers of tau
+Done processing 232783871 powers of tau
+Done processing 234881023 powers of tau
+Done processing 236978175 powers of tau
+Done processing 239075327 powers of tau
+Done processing 241172479 powers of tau
+Done processing 243269631 powers of tau
+Done processing 245366783 powers of tau
+Done processing 247463935 powers of tau
+Done processing 249561087 powers of tau
+Done processing 251658239 powers of tau
+Done processing 253755391 powers of tau
+Done processing 255852543 powers of tau
+Done processing 257949695 powers of tau
+Done processing 260046847 powers of tau
+Done processing 262143999 powers of tau
+Done processing 264241151 powers of tau
+Done processing 266338303 powers of tau
+Done processing 268435455 powers of tau
+Done processing 270532607 powers of tau
+Done processing 272629759 powers of tau
+Done processing 274726911 powers of tau
+Done processing 276824063 powers of tau
+Done processing 278921215 powers of tau
+Done processing 281018367 powers of tau
+Done processing 283115519 powers of tau
+Done processing 285212671 powers of tau
+Done processing 287309823 powers of tau
+Done processing 289406975 powers of tau
+Done processing 291504127 powers of tau
+Done processing 293601279 powers of tau
+Done processing 295698431 powers of tau
+Done processing 297795583 powers of tau
+Done processing 299892735 powers of tau
+Done processing 301989887 powers of tau
+Done processing 304087039 powers of tau
+Done processing 306184191 powers of tau
+Done processing 308281343 powers of tau
+Done processing 310378495 powers of tau
+Done processing 312475647 powers of tau
+Done processing 314572799 powers of tau
+Done processing 316669951 powers of tau
+Done processing 318767103 powers of tau
+Done processing 320864255 powers of tau
+Done processing 322961407 powers of tau
+Done processing 325058559 powers of tau
+Done processing 327155711 powers of tau
+Done processing 329252863 powers of tau
+Done processing 331350015 powers of tau
+Done processing 333447167 powers of tau
+Done processing 335544319 powers of tau
+Done processing 337641471 powers of tau
+Done processing 339738623 powers of tau
+Done processing 341835775 powers of tau
+Done processing 343932927 powers of tau
+Done processing 346030079 powers of tau
+Done processing 348127231 powers of tau
+Done processing 350224383 powers of tau
+Done processing 352321535 powers of tau
+Done processing 354418687 powers of tau
+Done processing 356515839 powers of tau
+Done processing 358612991 powers of tau
+Done processing 360710143 powers of tau
+Done processing 362807295 powers of tau
+Done processing 364904447 powers of tau
+Done processing 367001599 powers of tau
+Done processing 369098751 powers of tau
+Done processing 371195903 powers of tau
+Done processing 373293055 powers of tau
+Done processing 375390207 powers of tau
+Done processing 377487359 powers of tau
+Done processing 379584511 powers of tau
+Done processing 381681663 powers of tau
+Done processing 383778815 powers of tau
+Done processing 385875967 powers of tau
+Done processing 387973119 powers of tau
+Done processing 390070271 powers of tau
+Done processing 392167423 powers of tau
+Done processing 394264575 powers of tau
+Done processing 396361727 powers of tau
+Done processing 398458879 powers of tau
+Done processing 400556031 powers of tau
+Done processing 402653183 powers of tau
+Done processing 404750335 powers of tau
+Done processing 406847487 powers of tau
+Done processing 408944639 powers of tau
+Done processing 411041791 powers of tau
+Done processing 413138943 powers of tau
+Done processing 415236095 powers of tau
+Done processing 417333247 powers of tau
+Done processing 419430399 powers of tau
+Done processing 421527551 powers of tau
+Done processing 423624703 powers of tau
+Done processing 425721855 powers of tau
+Done processing 427819007 powers of tau
+Done processing 429916159 powers of tau
+Done processing 432013311 powers of tau
+Done processing 434110463 powers of tau
+Done processing 436207615 powers of tau
+Done processing 438304767 powers of tau
+Done processing 440401919 powers of tau
+Done processing 442499071 powers of tau
+Done processing 444596223 powers of tau
+Done processing 446693375 powers of tau
+Done processing 448790527 powers of tau
+Done processing 450887679 powers of tau
+Done processing 452984831 powers of tau
+Done processing 455081983 powers of tau
+Done processing 457179135 powers of tau
+Done processing 459276287 powers of tau
+Done processing 461373439 powers of tau
+Done processing 463470591 powers of tau
+Done processing 465567743 powers of tau
+Done processing 467664895 powers of tau
+Done processing 469762047 powers of tau
+Done processing 471859199 powers of tau
+Done processing 473956351 powers of tau
+Done processing 476053503 powers of tau
+Done processing 478150655 powers of tau
+Done processing 480247807 powers of tau
+Done processing 482344959 powers of tau
+Done processing 484442111 powers of tau
+Done processing 486539263 powers of tau
+Done processing 488636415 powers of tau
+Done processing 490733567 powers of tau
+Done processing 492830719 powers of tau
+Done processing 494927871 powers of tau
+Done processing 497025023 powers of tau
+Done processing 499122175 powers of tau
+Done processing 501219327 powers of tau
+Done processing 503316479 powers of tau
+Done processing 505413631 powers of tau
+Done processing 507510783 powers of tau
+Done processing 509607935 powers of tau
+Done processing 511705087 powers of tau
+Done processing 513802239 powers of tau
+Done processing 515899391 powers of tau
+Done processing 517996543 powers of tau
+Done processing 520093695 powers of tau
+Done processing 522190847 powers of tau
+Done processing 524287999 powers of tau
+Done processing 526385151 powers of tau
+Done processing 528482303 powers of tau
+Done processing 530579455 powers of tau
+Done processing 532676607 powers of tau
+Done processing 534773759 powers of tau
+Done processing 536870910 powers of tau
+Verification succeeded!
+Verification succeeded! Writing to `./new_challenge`...
+Here's the BLAKE2b hash of the decompressed participant's response as `new_challenge` file:
+	635b55a6 a0c3c809 6843c9ab c06f40f0 
+	e60fac21 df00b5c2 e2edbcc2 e4f4e0c2 
+	f4d196f9 b34b95be 43e9f905 723e6a58 
+	da92df24 f2035d85 3841ce4f 3518ee60 
+Done! `./new_challenge` contains the new challenge file. The other files
+were left alone.
+Validated response 4 is consistent at Thu Nov 28 09:14:08 UTC 2019
+
+Attempting to download challenge_0005 at Thu Nov 28 09:14:08 UTC 2019
+Successfully downloaded challenge_0005 at Thu Nov 28 09:31:45 UTC 2019
+
+Validation of challenge 5 begun at Thu Nov 28 09:31:45 UTC 2019
+Extracted expected hash of challenge 5:
+635b55a6a0c3c8096843c9abc06f40f0e60fac21df00b5c2e2edbcc2e4f4e0c2f4d196f9b34b95be43e9f905723e6a58da92df24f2035d853841ce4f3518ee60
+Computed actual hash of challenge 5:
+635b55a6a0c3c8096843c9abc06f40f0e60fac21df00b5c2e2edbcc2e4f4e0c2f4d196f9b34b95be43e9f905723e6a58da92df24f2035d853841ce4f3518ee60
+Validated challenge 5 is consistent at Thu Nov 28 09:49:34 UTC 2019
+
+--------------------------------------------------
+ROUND 5
+Round start time: Thu Nov 28 09:49:34 UTC 2019
+
+Attempting to download response_0005_amrullah at Thu Nov 28 09:49:34 UTC 2019
+Successfully downloaded response_0005_amrullah at Thu Nov 28 09:58:22 UTC 2019
+
+Validation of response 5 begun at Thu Nov 28 09:58:23 UTC 2019
+Will verify and decompress a contribution to accumulator for 2^28 powers of tau
+Calculating previous challenge hash...
+Hash of the `challenge` file for verification:
+	635b55a6 a0c3c809 6843c9ab c06f40f0 
+	e60fac21 df00b5c2 e2edbcc2 e4f4e0c2 
+	f4d196f9 b34b95be 43e9f905 723e6a58 
+	da92df24 f2035d85 3841ce4f 3518ee60 
+`response` was based on the hash:
+	635b55a6 a0c3c809 6843c9ab c06f40f0 
+	e60fac21 df00b5c2 e2edbcc2 e4f4e0c2 
+	f4d196f9 b34b95be 43e9f905 723e6a58 
+	da92df24 f2035d85 3841ce4f 3518ee60 
+Hash of the `response` file for verification:
+	6201ec95 c960e694 4471bf9d ad3fe42c 
+	b1b47a86 6d9c27ea 1c44f418 2a5622d4 
+	663e5b4f 454d2a2a b7b7c546 397c46a7 
+	72402e6c 7e3fbbd8 a921120d 00d19af2 
+Verifying a contribution to contain proper powers and correspond to the public key...
+Done processing 2097151 powers of tau
+Done processing 4194303 powers of tau
+Done processing 6291455 powers of tau
+Done processing 8388607 powers of tau
+Done processing 10485759 powers of tau
+Done processing 12582911 powers of tau
+Done processing 14680063 powers of tau
+Done processing 16777215 powers of tau
+Done processing 18874367 powers of tau
+Done processing 20971519 powers of tau
+Done processing 23068671 powers of tau
+Done processing 25165823 powers of tau
+Done processing 27262975 powers of tau
+Done processing 29360127 powers of tau
+Done processing 31457279 powers of tau
+Done processing 33554431 powers of tau
+Done processing 35651583 powers of tau
+Done processing 37748735 powers of tau
+Done processing 39845887 powers of tau
+Done processing 41943039 powers of tau
+Done processing 44040191 powers of tau
+Done processing 46137343 powers of tau
+Done processing 48234495 powers of tau
+Done processing 50331647 powers of tau
+Done processing 52428799 powers of tau
+Done processing 54525951 powers of tau
+Done processing 56623103 powers of tau
+Done processing 58720255 powers of tau
+Done processing 60817407 powers of tau
+Done processing 62914559 powers of tau
+Done processing 65011711 powers of tau
+Done processing 67108863 powers of tau
+Done processing 69206015 powers of tau
+Done processing 71303167 powers of tau
+Done processing 73400319 powers of tau
+Done processing 75497471 powers of tau
+Done processing 77594623 powers of tau
+Done processing 79691775 powers of tau
+Done processing 81788927 powers of tau
+Done processing 83886079 powers of tau
+Done processing 85983231 powers of tau
+Done processing 88080383 powers of tau
+Done processing 90177535 powers of tau
+Done processing 92274687 powers of tau
+Done processing 94371839 powers of tau
+Done processing 96468991 powers of tau
+Done processing 98566143 powers of tau
+Done processing 100663295 powers of tau
+Done processing 102760447 powers of tau
+Done processing 104857599 powers of tau
+Done processing 106954751 powers of tau
+Done processing 109051903 powers of tau
+Done processing 111149055 powers of tau
+Done processing 113246207 powers of tau
+Done processing 115343359 powers of tau
+Done processing 117440511 powers of tau
+Done processing 119537663 powers of tau
+Done processing 121634815 powers of tau
+Done processing 123731967 powers of tau
+Done processing 125829119 powers of tau
+Done processing 127926271 powers of tau
+Done processing 130023423 powers of tau
+Done processing 132120575 powers of tau
+Done processing 134217727 powers of tau
+Done processing 136314879 powers of tau
+Done processing 138412031 powers of tau
+Done processing 140509183 powers of tau
+Done processing 142606335 powers of tau
+Done processing 144703487 powers of tau
+Done processing 146800639 powers of tau
+Done processing 148897791 powers of tau
+Done processing 150994943 powers of tau
+Done processing 153092095 powers of tau
+Done processing 155189247 powers of tau
+Done processing 157286399 powers of tau
+Done processing 159383551 powers of tau
+Done processing 161480703 powers of tau
+Done processing 163577855 powers of tau
+Done processing 165675007 powers of tau
+Done processing 167772159 powers of tau
+Done processing 169869311 powers of tau
+Done processing 171966463 powers of tau
+Done processing 174063615 powers of tau
+Done processing 176160767 powers of tau
+Done processing 178257919 powers of tau
+Done processing 180355071 powers of tau
+Done processing 182452223 powers of tau
+Done processing 184549375 powers of tau
+Done processing 186646527 powers of tau
+Done processing 188743679 powers of tau
+Done processing 190840831 powers of tau
+Done processing 192937983 powers of tau
+Done processing 195035135 powers of tau
+Done processing 197132287 powers of tau
+Done processing 199229439 powers of tau
+Done processing 201326591 powers of tau
+Done processing 203423743 powers of tau
+Done processing 205520895 powers of tau
+Done processing 207618047 powers of tau
+Done processing 209715199 powers of tau
+Done processing 211812351 powers of tau
+Done processing 213909503 powers of tau
+Done processing 216006655 powers of tau
+Done processing 218103807 powers of tau
+Done processing 220200959 powers of tau
+Done processing 222298111 powers of tau
+Done processing 224395263 powers of tau
+Done processing 226492415 powers of tau
+Done processing 228589567 powers of tau
+Done processing 230686719 powers of tau
+Done processing 232783871 powers of tau
+Done processing 234881023 powers of tau
+Done processing 236978175 powers of tau
+Done processing 239075327 powers of tau
+Done processing 241172479 powers of tau
+Done processing 243269631 powers of tau
+Done processing 245366783 powers of tau
+Done processing 247463935 powers of tau
+Done processing 249561087 powers of tau
+Done processing 251658239 powers of tau
+Done processing 253755391 powers of tau
+Done processing 255852543 powers of tau
+Done processing 257949695 powers of tau
+Done processing 260046847 powers of tau
+Done processing 262143999 powers of tau
+Done processing 264241151 powers of tau
+Done processing 266338303 powers of tau
+Done processing 268435455 powers of tau
+Done processing 270532607 powers of tau
+Done processing 272629759 powers of tau
+Done processing 274726911 powers of tau
+Done processing 276824063 powers of tau
+Done processing 278921215 powers of tau
+Done processing 281018367 powers of tau
+Done processing 283115519 powers of tau
+Done processing 285212671 powers of tau
+Done processing 287309823 powers of tau
+Done processing 289406975 powers of tau
+Done processing 291504127 powers of tau
+Done processing 293601279 powers of tau
+Done processing 295698431 powers of tau
+Done processing 297795583 powers of tau
+Done processing 299892735 powers of tau
+Done processing 301989887 powers of tau
+Done processing 304087039 powers of tau
+Done processing 306184191 powers of tau
+Done processing 308281343 powers of tau
+Done processing 310378495 powers of tau
+Done processing 312475647 powers of tau
+Done processing 314572799 powers of tau
+Done processing 316669951 powers of tau
+Done processing 318767103 powers of tau
+Done processing 320864255 powers of tau
+Done processing 322961407 powers of tau
+Done processing 325058559 powers of tau
+Done processing 327155711 powers of tau
+Done processing 329252863 powers of tau
+Done processing 331350015 powers of tau
+Done processing 333447167 powers of tau
+Done processing 335544319 powers of tau
+Done processing 337641471 powers of tau
+Done processing 339738623 powers of tau
+Done processing 341835775 powers of tau
+Done processing 343932927 powers of tau
+Done processing 346030079 powers of tau
+Done processing 348127231 powers of tau
+Done processing 350224383 powers of tau
+Done processing 352321535 powers of tau
+Done processing 354418687 powers of tau
+Done processing 356515839 powers of tau
+Done processing 358612991 powers of tau
+Done processing 360710143 powers of tau
+Done processing 362807295 powers of tau
+Done processing 364904447 powers of tau
+Done processing 367001599 powers of tau
+Done processing 369098751 powers of tau
+Done processing 371195903 powers of tau
+Done processing 373293055 powers of tau
+Done processing 375390207 powers of tau
+Done processing 377487359 powers of tau
+Done processing 379584511 powers of tau
+Done processing 381681663 powers of tau
+Done processing 383778815 powers of tau
+Done processing 385875967 powers of tau
+Done processing 387973119 powers of tau
+Done processing 390070271 powers of tau
+Done processing 392167423 powers of tau
+Done processing 394264575 powers of tau
+Done processing 396361727 powers of tau
+Done processing 398458879 powers of tau
+Done processing 400556031 powers of tau
+Done processing 402653183 powers of tau
+Done processing 404750335 powers of tau
+Done processing 406847487 powers of tau
+Done processing 408944639 powers of tau
+Done processing 411041791 powers of tau
+Done processing 413138943 powers of tau
+Done processing 415236095 powers of tau
+Done processing 417333247 powers of tau
+Done processing 419430399 powers of tau
+Done processing 421527551 powers of tau
+Done processing 423624703 powers of tau
+Done processing 425721855 powers of tau
+Done processing 427819007 powers of tau
+Done processing 429916159 powers of tau
+Done processing 432013311 powers of tau
+Done processing 434110463 powers of tau
+Done processing 436207615 powers of tau
+Done processing 438304767 powers of tau
+Done processing 440401919 powers of tau
+Done processing 442499071 powers of tau
+Done processing 444596223 powers of tau
+Done processing 446693375 powers of tau
+Done processing 448790527 powers of tau
+Done processing 450887679 powers of tau
+Done processing 452984831 powers of tau
+Done processing 455081983 powers of tau
+Done processing 457179135 powers of tau
+Done processing 459276287 powers of tau
+Done processing 461373439 powers of tau
+Done processing 463470591 powers of tau
+Done processing 465567743 powers of tau
+Done processing 467664895 powers of tau
+Done processing 469762047 powers of tau
+Done processing 471859199 powers of tau
+Done processing 473956351 powers of tau
+Done processing 476053503 powers of tau
+Done processing 478150655 powers of tau
+Done processing 480247807 powers of tau
+Done processing 482344959 powers of tau
+Done processing 484442111 powers of tau
+Done processing 486539263 powers of tau
+Done processing 488636415 powers of tau
+Done processing 490733567 powers of tau
+Done processing 492830719 powers of tau
+Done processing 494927871 powers of tau
+Done processing 497025023 powers of tau
+Done processing 499122175 powers of tau
+Done processing 501219327 powers of tau
+Done processing 503316479 powers of tau
+Done processing 505413631 powers of tau
+Done processing 507510783 powers of tau
+Done processing 509607935 powers of tau
+Done processing 511705087 powers of tau
+Done processing 513802239 powers of tau
+Done processing 515899391 powers of tau
+Done processing 517996543 powers of tau
+Done processing 520093695 powers of tau
+Done processing 522190847 powers of tau
+Done processing 524287999 powers of tau
+Done processing 526385151 powers of tau
+Done processing 528482303 powers of tau
+Done processing 530579455 powers of tau
+Done processing 532676607 powers of tau
+Done processing 534773759 powers of tau
+Done processing 536870910 powers of tau
+Verification succeeded!
+Verification succeeded! Writing to `./new_challenge`...
+Here's the BLAKE2b hash of the decompressed participant's response as `new_challenge` file:
+	a7b3c130 cd8dbd26 769cfbcb e4c9a4ef 
+	9055d13b ac932854 81c1007c acf51d29 
+	c00dd146 d73a6670 47f65200 ae227e01 
+	d589c609 04d263a4 1f5f187d 03fcc692 
+Done! `./new_challenge` contains the new challenge file. The other files
+were left alone.
+Validated response 5 is consistent at Fri Nov 29 00:47:22 UTC 2019
+
+Attempting to download challenge_0006 at Fri Nov 29 00:47:22 UTC 2019
+Successfully downloaded challenge_0006 at Fri Nov 29 01:04:55 UTC 2019
+
+Validation of challenge 6 begun at Fri Nov 29 01:04:55 UTC 2019
+Extracted expected hash of challenge 6:
+a7b3c130cd8dbd26769cfbcbe4c9a4ef9055d13bac93285481c1007cacf51d29c00dd146d73a667047f65200ae227e01d589c60904d263a41f5f187d03fcc692
+Computed actual hash of challenge 6:
+a7b3c130cd8dbd26769cfbcbe4c9a4ef9055d13bac93285481c1007cacf51d29c00dd146d73a667047f65200ae227e01d589c60904d263a41f5f187d03fcc692
+Validated challenge 6 is consistent at Fri Nov 29 01:22:44 UTC 2019
+
+--------------------------------------------------
+ROUND 6
+Round start time: Fri Nov 29 01:22:44 UTC 2019
+
+Attempting to download response_0006_zac at Fri Nov 29 01:22:44 UTC 2019
+Successfully downloaded response_0006_zac at Fri Nov 29 01:31:29 UTC 2019
+
+Validation of response 6 begun at Fri Nov 29 01:31:29 UTC 2019
+Will verify and decompress a contribution to accumulator for 2^28 powers of tau
+Calculating previous challenge hash...
+Hash of the `challenge` file for verification:
+	a7b3c130 cd8dbd26 769cfbcb e4c9a4ef 
+	9055d13b ac932854 81c1007c acf51d29 
+	c00dd146 d73a6670 47f65200 ae227e01 
+	d589c609 04d263a4 1f5f187d 03fcc692 
+`response` was based on the hash:
+	a7b3c130 cd8dbd26 769cfbcb e4c9a4ef 
+	9055d13b ac932854 81c1007c acf51d29 
+	c00dd146 d73a6670 47f65200 ae227e01 
+	d589c609 04d263a4 1f5f187d 03fcc692 
+Hash of the `response` file for verification:
+	fbb8512f 393ffd01 7c20b1b6 6f7f5cf2 
+	05f1de39 4fa987a7 03dc3fc6 c3957613 
+	b33e69a9 143ae272 cd3e02b1 4db3c5d4 
+	24ab0695 27e3e813 2a7b7ecf 8bbd05df 
+Verifying a contribution to contain proper powers and correspond to the public key...
+Done processing 2097151 powers of tau
+Done processing 4194303 powers of tau
+Done processing 6291455 powers of tau
+Done processing 8388607 powers of tau
+Done processing 10485759 powers of tau
+Done processing 12582911 powers of tau
+Done processing 14680063 powers of tau
+Done processing 16777215 powers of tau
+Done processing 18874367 powers of tau
+Done processing 20971519 powers of tau
+Done processing 23068671 powers of tau
+Done processing 25165823 powers of tau
+Done processing 27262975 powers of tau
+Done processing 29360127 powers of tau
+Done processing 31457279 powers of tau
+Done processing 33554431 powers of tau
+Done processing 35651583 powers of tau
+Done processing 37748735 powers of tau
+Done processing 39845887 powers of tau
+Done processing 41943039 powers of tau
+Done processing 44040191 powers of tau
+Done processing 46137343 powers of tau
+Done processing 48234495 powers of tau
+Done processing 50331647 powers of tau
+Done processing 52428799 powers of tau
+Done processing 54525951 powers of tau
+Done processing 56623103 powers of tau
+Done processing 58720255 powers of tau
+Done processing 60817407 powers of tau
+Done processing 62914559 powers of tau
+Done processing 65011711 powers of tau
+Done processing 67108863 powers of tau
+Done processing 69206015 powers of tau
+Done processing 71303167 powers of tau
+Done processing 73400319 powers of tau
+Done processing 75497471 powers of tau
+Done processing 77594623 powers of tau
+Done processing 79691775 powers of tau
+Done processing 81788927 powers of tau
+Done processing 83886079 powers of tau
+Done processing 85983231 powers of tau
+Done processing 88080383 powers of tau
+Done processing 90177535 powers of tau
+Done processing 92274687 powers of tau
+Done processing 94371839 powers of tau
+Done processing 96468991 powers of tau
+Done processing 98566143 powers of tau
+Done processing 100663295 powers of tau
+Done processing 102760447 powers of tau
+Done processing 104857599 powers of tau
+Done processing 106954751 powers of tau
+Done processing 109051903 powers of tau
+Done processing 111149055 powers of tau
+Done processing 113246207 powers of tau
+Done processing 115343359 powers of tau
+Done processing 117440511 powers of tau
+Done processing 119537663 powers of tau
+Done processing 121634815 powers of tau
+Done processing 123731967 powers of tau
+Done processing 125829119 powers of tau
+Done processing 127926271 powers of tau
+Done processing 130023423 powers of tau
+Done processing 132120575 powers of tau
+Done processing 134217727 powers of tau
+Done processing 136314879 powers of tau
+Done processing 138412031 powers of tau
+Done processing 140509183 powers of tau
+Done processing 142606335 powers of tau
+Done processing 144703487 powers of tau
+Done processing 146800639 powers of tau
+Done processing 148897791 powers of tau
+Done processing 150994943 powers of tau
+Done processing 153092095 powers of tau
+Done processing 155189247 powers of tau
+Done processing 157286399 powers of tau
+Done processing 159383551 powers of tau
+Done processing 161480703 powers of tau
+Done processing 163577855 powers of tau
+Done processing 165675007 powers of tau
+Done processing 167772159 powers of tau
+Done processing 169869311 powers of tau
+Done processing 171966463 powers of tau
+Done processing 174063615 powers of tau
+Done processing 176160767 powers of tau
+Done processing 178257919 powers of tau
+Done processing 180355071 powers of tau
+Done processing 182452223 powers of tau
+Done processing 184549375 powers of tau
+Done processing 186646527 powers of tau
+Done processing 188743679 powers of tau
+Done processing 190840831 powers of tau
+Done processing 192937983 powers of tau
+Done processing 195035135 powers of tau
+Done processing 197132287 powers of tau
+Done processing 199229439 powers of tau
+Done processing 201326591 powers of tau
+Done processing 203423743 powers of tau
+Done processing 205520895 powers of tau
+Done processing 207618047 powers of tau
+Done processing 209715199 powers of tau
+Done processing 211812351 powers of tau
+Done processing 213909503 powers of tau
+Done processing 216006655 powers of tau
+Done processing 218103807 powers of tau
+Done processing 220200959 powers of tau
+Done processing 222298111 powers of tau
+Done processing 224395263 powers of tau
+Done processing 226492415 powers of tau
+Done processing 228589567 powers of tau
+Done processing 230686719 powers of tau
+Done processing 232783871 powers of tau
+Done processing 234881023 powers of tau
+Done processing 236978175 powers of tau
+Done processing 239075327 powers of tau
+Done processing 241172479 powers of tau
+Done processing 243269631 powers of tau
+Done processing 245366783 powers of tau
+Done processing 247463935 powers of tau
+Done processing 249561087 powers of tau
+Done processing 251658239 powers of tau
+Done processing 253755391 powers of tau
+Done processing 255852543 powers of tau
+Done processing 257949695 powers of tau
+Done processing 260046847 powers of tau
+Done processing 262143999 powers of tau
+Done processing 264241151 powers of tau
+Done processing 266338303 powers of tau
+Done processing 268435455 powers of tau
+Done processing 270532607 powers of tau
+Done processing 272629759 powers of tau
+Done processing 274726911 powers of tau
+Done processing 276824063 powers of tau
+Done processing 278921215 powers of tau
+Done processing 281018367 powers of tau
+Done processing 283115519 powers of tau
+Done processing 285212671 powers of tau
+Done processing 287309823 powers of tau
+Done processing 289406975 powers of tau
+Done processing 291504127 powers of tau
+Done processing 293601279 powers of tau
+Done processing 295698431 powers of tau
+Done processing 297795583 powers of tau
+Done processing 299892735 powers of tau
+Done processing 301989887 powers of tau
+Done processing 304087039 powers of tau
+Done processing 306184191 powers of tau
+Done processing 308281343 powers of tau
+Done processing 310378495 powers of tau
+Done processing 312475647 powers of tau
+Done processing 314572799 powers of tau
+Done processing 316669951 powers of tau
+Done processing 318767103 powers of tau
+Done processing 320864255 powers of tau
+Done processing 322961407 powers of tau
+Done processing 325058559 powers of tau
+Done processing 327155711 powers of tau
+Done processing 329252863 powers of tau
+Done processing 331350015 powers of tau
+Done processing 333447167 powers of tau
+Done processing 335544319 powers of tau
+Done processing 337641471 powers of tau
+Done processing 339738623 powers of tau
+Done processing 341835775 powers of tau
+Done processing 343932927 powers of tau
+Done processing 346030079 powers of tau
+Done processing 348127231 powers of tau
+Done processing 350224383 powers of tau
+Done processing 352321535 powers of tau
+Done processing 354418687 powers of tau
+Done processing 356515839 powers of tau
+Done processing 358612991 powers of tau
+Done processing 360710143 powers of tau
+Done processing 362807295 powers of tau
+Done processing 364904447 powers of tau
+Done processing 367001599 powers of tau
+Done processing 369098751 powers of tau
+Done processing 371195903 powers of tau
+Done processing 373293055 powers of tau
+Done processing 375390207 powers of tau
+Done processing 377487359 powers of tau
+Done processing 379584511 powers of tau
+Done processing 381681663 powers of tau
+Done processing 383778815 powers of tau
+Done processing 385875967 powers of tau
+Done processing 387973119 powers of tau
+Done processing 390070271 powers of tau
+Done processing 392167423 powers of tau
+Done processing 394264575 powers of tau
+Done processing 396361727 powers of tau
+Done processing 398458879 powers of tau
+Done processing 400556031 powers of tau
+Done processing 402653183 powers of tau
+Done processing 404750335 powers of tau
+Done processing 406847487 powers of tau
+Done processing 408944639 powers of tau
+Done processing 411041791 powers of tau
+Done processing 413138943 powers of tau
+Done processing 415236095 powers of tau
+Done processing 417333247 powers of tau
+Done processing 419430399 powers of tau
+Done processing 421527551 powers of tau
+Done processing 423624703 powers of tau
+Done processing 425721855 powers of tau
+Done processing 427819007 powers of tau
+Done processing 429916159 powers of tau
+Done processing 432013311 powers of tau
+Done processing 434110463 powers of tau
+Done processing 436207615 powers of tau
+Done processing 438304767 powers of tau
+Done processing 440401919 powers of tau
+Done processing 442499071 powers of tau
+Done processing 444596223 powers of tau
+Done processing 446693375 powers of tau
+Done processing 448790527 powers of tau
+Done processing 450887679 powers of tau
+Done processing 452984831 powers of tau
+Done processing 455081983 powers of tau
+Done processing 457179135 powers of tau
+Done processing 459276287 powers of tau
+Done processing 461373439 powers of tau
+Done processing 463470591 powers of tau
+Done processing 465567743 powers of tau
+Done processing 467664895 powers of tau
+Done processing 469762047 powers of tau
+Done processing 471859199 powers of tau
+Done processing 473956351 powers of tau
+Done processing 476053503 powers of tau
+Done processing 478150655 powers of tau
+Done processing 480247807 powers of tau
+Done processing 482344959 powers of tau
+Done processing 484442111 powers of tau
+Done processing 486539263 powers of tau
+Done processing 488636415 powers of tau
+Done processing 490733567 powers of tau
+Done processing 492830719 powers of tau
+Done processing 494927871 powers of tau
+Done processing 497025023 powers of tau
+Done processing 499122175 powers of tau
+Done processing 501219327 powers of tau
+Done processing 503316479 powers of tau
+Done processing 505413631 powers of tau
+Done processing 507510783 powers of tau
+Done processing 509607935 powers of tau
+Done processing 511705087 powers of tau
+Done processing 513802239 powers of tau
+Done processing 515899391 powers of tau
+Done processing 517996543 powers of tau
+Done processing 520093695 powers of tau
+Done processing 522190847 powers of tau
+Done processing 524287999 powers of tau
+Done processing 526385151 powers of tau
+Done processing 528482303 powers of tau
+Done processing 530579455 powers of tau
+Done processing 532676607 powers of tau
+Done processing 534773759 powers of tau
+Done processing 536870910 powers of tau
+Verification succeeded!
+Verification succeeded! Writing to `./new_challenge`...
+Here's the BLAKE2b hash of the decompressed participant's response as `new_challenge` file:
+	3e1140e5 66971cbd e6308dc3 d3f2ef4e 
+	2c36bb4d b16704ed 0ffd26ee 7d80ccce 
+	f2b46aa4 6feadf3e 2da8c43e ccf7588a 
+	09e6cd94 85a4dd05 20af752d b0f24128 
+Done! `./new_challenge` contains the new challenge file. The other files
+were left alone.
+Validated response 6 is consistent at Fri Nov 29 16:16:56 UTC 2019
+
+Attempting to download challenge_0007 at Fri Nov 29 16:16:56 UTC 2019
+Successfully downloaded challenge_0007 at Fri Nov 29 16:34:30 UTC 2019
+
+Validation of challenge 7 begun at Fri Nov 29 16:34:30 UTC 2019
+Extracted expected hash of challenge 7:
+3e1140e566971cbde6308dc3d3f2ef4e2c36bb4db16704ed0ffd26ee7d80cccef2b46aa46feadf3e2da8c43eccf7588a09e6cd9485a4dd0520af752db0f24128
+Computed actual hash of challenge 7:
+3e1140e566971cbde6308dc3d3f2ef4e2c36bb4db16704ed0ffd26ee7d80cccef2b46aa46feadf3e2da8c43eccf7588a09e6cd9485a4dd0520af752db0f24128
+Validated challenge 7 is consistent at Fri Nov 29 16:52:33 UTC 2019
+
+--------------------------------------------------
+ROUND 7
+Round start time: Fri Nov 29 16:52:33 UTC 2019
+
+Attempting to download response_0007_youssef at Fri Nov 29 16:52:33 UTC 2019
+Successfully downloaded response_0007_youssef at Fri Nov 29 17:01:27 UTC 2019
+
+Validation of response 7 begun at Fri Nov 29 17:01:27 UTC 2019
+Will verify and decompress a contribution to accumulator for 2^28 powers of tau
+Calculating previous challenge hash...
+Hash of the `challenge` file for verification:
+	3e1140e5 66971cbd e6308dc3 d3f2ef4e 
+	2c36bb4d b16704ed 0ffd26ee 7d80ccce 
+	f2b46aa4 6feadf3e 2da8c43e ccf7588a 
+	09e6cd94 85a4dd05 20af752d b0f24128 
+`response` was based on the hash:
+	3e1140e5 66971cbd e6308dc3 d3f2ef4e 
+	2c36bb4d b16704ed 0ffd26ee 7d80ccce 
+	f2b46aa4 6feadf3e 2da8c43e ccf7588a 
+	09e6cd94 85a4dd05 20af752d b0f24128 
+Hash of the `response` file for verification:
+	f34b3fe3 bf71c731 424d0b95 16ac3751 
+	a2250b26 23648f74 58361bce 9616a233 
+	e5aef57e 8cdd0f3c 555e1e0e e4feeace 
+	c5f2342b 860d0975 4c450972 72d99b26 
+Verifying a contribution to contain proper powers and correspond to the public key...
+Done processing 2097151 powers of tau
+Done processing 4194303 powers of tau
+Done processing 6291455 powers of tau
+Done processing 8388607 powers of tau
+Done processing 10485759 powers of tau
+Done processing 12582911 powers of tau
+Done processing 14680063 powers of tau
+Done processing 16777215 powers of tau
+Done processing 18874367 powers of tau
+Done processing 20971519 powers of tau
+Done processing 23068671 powers of tau
+Done processing 25165823 powers of tau
+Done processing 27262975 powers of tau
+Done processing 29360127 powers of tau
+Done processing 31457279 powers of tau
+Done processing 33554431 powers of tau
+Done processing 35651583 powers of tau
+Done processing 37748735 powers of tau
+Done processing 39845887 powers of tau
+Done processing 41943039 powers of tau
+Done processing 44040191 powers of tau
+Done processing 46137343 powers of tau
+Done processing 48234495 powers of tau
+Done processing 50331647 powers of tau
+Done processing 52428799 powers of tau
+Done processing 54525951 powers of tau
+Done processing 56623103 powers of tau
+Done processing 58720255 powers of tau
+Done processing 60817407 powers of tau
+Done processing 62914559 powers of tau
+Done processing 65011711 powers of tau
+Done processing 67108863 powers of tau
+Done processing 69206015 powers of tau
+Done processing 71303167 powers of tau
+Done processing 73400319 powers of tau
+Done processing 75497471 powers of tau
+Done processing 77594623 powers of tau
+Done processing 79691775 powers of tau
+Done processing 81788927 powers of tau
+Done processing 83886079 powers of tau
+Done processing 85983231 powers of tau
+Done processing 88080383 powers of tau
+Done processing 90177535 powers of tau
+Done processing 92274687 powers of tau
+Done processing 94371839 powers of tau
+Done processing 96468991 powers of tau
+Done processing 98566143 powers of tau
+Done processing 100663295 powers of tau
+Done processing 102760447 powers of tau
+Done processing 104857599 powers of tau
+Done processing 106954751 powers of tau
+Done processing 109051903 powers of tau
+Done processing 111149055 powers of tau
+Done processing 113246207 powers of tau
+Done processing 115343359 powers of tau
+Done processing 117440511 powers of tau
+Done processing 119537663 powers of tau
+Done processing 121634815 powers of tau
+Done processing 123731967 powers of tau
+Done processing 125829119 powers of tau
+Done processing 127926271 powers of tau
+Done processing 130023423 powers of tau
+Done processing 132120575 powers of tau
+Done processing 134217727 powers of tau
+Done processing 136314879 powers of tau
+Done processing 138412031 powers of tau
+Done processing 140509183 powers of tau
+Done processing 142606335 powers of tau
+Done processing 144703487 powers of tau
+Done processing 146800639 powers of tau
+Done processing 148897791 powers of tau
+Done processing 150994943 powers of tau
+Done processing 153092095 powers of tau
+Done processing 155189247 powers of tau
+Done processing 157286399 powers of tau
+Done processing 159383551 powers of tau
+Done processing 161480703 powers of tau
+Done processing 163577855 powers of tau
+Done processing 165675007 powers of tau
+Done processing 167772159 powers of tau
+Done processing 169869311 powers of tau
+Done processing 171966463 powers of tau
+Done processing 174063615 powers of tau
+Done processing 176160767 powers of tau
+Done processing 178257919 powers of tau
+Done processing 180355071 powers of tau
+Done processing 182452223 powers of tau
+Done processing 184549375 powers of tau
+Done processing 186646527 powers of tau
+Done processing 188743679 powers of tau
+Done processing 190840831 powers of tau
+Done processing 192937983 powers of tau
+Done processing 195035135 powers of tau
+Done processing 197132287 powers of tau
+Done processing 199229439 powers of tau
+Done processing 201326591 powers of tau
+Done processing 203423743 powers of tau
+Done processing 205520895 powers of tau
+Done processing 207618047 powers of tau
+Done processing 209715199 powers of tau
+Done processing 211812351 powers of tau
+Done processing 213909503 powers of tau
+Done processing 216006655 powers of tau
+Done processing 218103807 powers of tau
+Done processing 220200959 powers of tau
+Done processing 222298111 powers of tau
+Done processing 224395263 powers of tau
+Done processing 226492415 powers of tau
+Done processing 228589567 powers of tau
+Done processing 230686719 powers of tau
+Done processing 232783871 powers of tau
+Done processing 234881023 powers of tau
+Done processing 236978175 powers of tau
+Done processing 239075327 powers of tau
+Done processing 241172479 powers of tau
+Done processing 243269631 powers of tau
+Done processing 245366783 powers of tau
+Done processing 247463935 powers of tau
+Done processing 249561087 powers of tau
+Done processing 251658239 powers of tau
+Done processing 253755391 powers of tau
+Done processing 255852543 powers of tau
+Done processing 257949695 powers of tau
+Done processing 260046847 powers of tau
+Done processing 262143999 powers of tau
+Done processing 264241151 powers of tau
+Done processing 266338303 powers of tau
+Done processing 268435455 powers of tau
+Done processing 270532607 powers of tau
+Done processing 272629759 powers of tau
+Done processing 274726911 powers of tau
+Done processing 276824063 powers of tau
+Done processing 278921215 powers of tau
+Done processing 281018367 powers of tau
+Done processing 283115519 powers of tau
+Done processing 285212671 powers of tau
+Done processing 287309823 powers of tau
+Done processing 289406975 powers of tau
+Done processing 291504127 powers of tau
+Done processing 293601279 powers of tau
+Done processing 295698431 powers of tau
+Done processing 297795583 powers of tau
+Done processing 299892735 powers of tau
+Done processing 301989887 powers of tau
+Done processing 304087039 powers of tau
+Done processing 306184191 powers of tau
+Done processing 308281343 powers of tau
+Done processing 310378495 powers of tau
+Done processing 312475647 powers of tau
+Done processing 314572799 powers of tau
+Done processing 316669951 powers of tau
+Done processing 318767103 powers of tau
+Done processing 320864255 powers of tau
+Done processing 322961407 powers of tau
+Done processing 325058559 powers of tau
+Done processing 327155711 powers of tau
+Done processing 329252863 powers of tau
+Done processing 331350015 powers of tau
+Done processing 333447167 powers of tau
+Done processing 335544319 powers of tau
+Done processing 337641471 powers of tau
+Done processing 339738623 powers of tau
+Done processing 341835775 powers of tau
+Done processing 343932927 powers of tau
+Done processing 346030079 powers of tau
+Done processing 348127231 powers of tau
+Done processing 350224383 powers of tau
+Done processing 352321535 powers of tau
+Done processing 354418687 powers of tau
+Done processing 356515839 powers of tau
+Done processing 358612991 powers of tau
+Done processing 360710143 powers of tau
+Done processing 362807295 powers of tau
+Done processing 364904447 powers of tau
+Done processing 367001599 powers of tau
+Done processing 369098751 powers of tau
+Done processing 371195903 powers of tau
+Done processing 373293055 powers of tau
+Done processing 375390207 powers of tau
+Done processing 377487359 powers of tau
+Done processing 379584511 powers of tau
+Done processing 381681663 powers of tau
+Done processing 383778815 powers of tau
+Done processing 385875967 powers of tau
+Done processing 387973119 powers of tau
+Done processing 390070271 powers of tau
+Done processing 392167423 powers of tau
+Done processing 394264575 powers of tau
+Done processing 396361727 powers of tau
+Done processing 398458879 powers of tau
+Done processing 400556031 powers of tau
+Done processing 402653183 powers of tau
+Done processing 404750335 powers of tau
+Done processing 406847487 powers of tau
+Done processing 408944639 powers of tau
+Done processing 411041791 powers of tau
+Done processing 413138943 powers of tau
+Done processing 415236095 powers of tau
+Done processing 417333247 powers of tau
+Done processing 419430399 powers of tau
+Done processing 421527551 powers of tau
+Done processing 423624703 powers of tau
+Done processing 425721855 powers of tau
+Done processing 427819007 powers of tau
+Done processing 429916159 powers of tau
+Done processing 432013311 powers of tau
+Done processing 434110463 powers of tau
+Done processing 436207615 powers of tau
+Done processing 438304767 powers of tau
+Done processing 440401919 powers of tau
+Done processing 442499071 powers of tau
+Done processing 444596223 powers of tau
+Done processing 446693375 powers of tau
+Done processing 448790527 powers of tau
+Done processing 450887679 powers of tau
+Done processing 452984831 powers of tau
+Done processing 455081983 powers of tau
+Done processing 457179135 powers of tau
+Done processing 459276287 powers of tau
+Done processing 461373439 powers of tau
+Done processing 463470591 powers of tau
+Done processing 465567743 powers of tau
+Done processing 467664895 powers of tau
+Done processing 469762047 powers of tau
+Done processing 471859199 powers of tau
+Done processing 473956351 powers of tau
+Done processing 476053503 powers of tau
+Done processing 478150655 powers of tau
+Done processing 480247807 powers of tau
+Done processing 482344959 powers of tau
+Done processing 484442111 powers of tau
+Done processing 486539263 powers of tau
+Done processing 488636415 powers of tau
+Done processing 490733567 powers of tau
+Done processing 492830719 powers of tau
+Done processing 494927871 powers of tau
+Done processing 497025023 powers of tau
+Done processing 499122175 powers of tau
+Done processing 501219327 powers of tau
+Done processing 503316479 powers of tau
+Done processing 505413631 powers of tau
+Done processing 507510783 powers of tau
+Done processing 509607935 powers of tau
+Done processing 511705087 powers of tau
+Done processing 513802239 powers of tau
+Done processing 515899391 powers of tau
+Done processing 517996543 powers of tau
+Done processing 520093695 powers of tau
+Done processing 522190847 powers of tau
+Done processing 524287999 powers of tau
+Done processing 526385151 powers of tau
+Done processing 528482303 powers of tau
+Done processing 530579455 powers of tau
+Done processing 532676607 powers of tau
+Done processing 534773759 powers of tau
+Done processing 536870910 powers of tau
+Verification succeeded!
+Verification succeeded! Writing to `./new_challenge`...
+Here's the BLAKE2b hash of the decompressed participant's response as `new_challenge` file:
+	10e6b25c 4b066b59 a5b837d2 460a78b1 
+	59edb6cb 2018ae0a a74b7555 499c9690 
+	b16b4f38 99fa8147 b9bc4602 5b634eef 
+	8e998fa2 44f9fe64 4df29ee9 a0944e7a 
+Done! `./new_challenge` contains the new challenge file. The other files
+were left alone.
+Validated response 7 is consistent at Sat Nov 30 07:44:42 UTC 2019
+
+Attempting to download challenge_0008 at Sat Nov 30 07:44:42 UTC 2019
+Successfully downloaded challenge_0008 at Sat Nov 30 08:02:13 UTC 2019
+
+Validation of challenge 8 begun at Sat Nov 30 08:02:13 UTC 2019
+Extracted expected hash of challenge 8:
+10e6b25c4b066b59a5b837d2460a78b159edb6cb2018ae0aa74b7555499c9690b16b4f3899fa8147b9bc46025b634eef8e998fa244f9fe644df29ee9a0944e7a
+Computed actual hash of challenge 8:
+10e6b25c4b066b59a5b837d2460a78b159edb6cb2018ae0aa74b7555499c9690b16b4f3899fa8147b9bc46025b634eef8e998fa244f9fe644df29ee9a0944e7a
+Validated challenge 8 is consistent at Sat Nov 30 08:20:07 UTC 2019
+
+--------------------------------------------------
+ROUND 8
+Round start time: Sat Nov 30 08:20:07 UTC 2019
+
+Attempting to download response_0008_mike at Sat Nov 30 08:20:07 UTC 2019
+Successfully downloaded response_0008_mike at Sat Nov 30 08:28:53 UTC 2019
+
+Validation of response 8 begun at Sat Nov 30 08:28:54 UTC 2019
+Will verify and decompress a contribution to accumulator for 2^28 powers of tau
+Calculating previous challenge hash...
+Hash of the `challenge` file for verification:
+	10e6b25c 4b066b59 a5b837d2 460a78b1 
+	59edb6cb 2018ae0a a74b7555 499c9690 
+	b16b4f38 99fa8147 b9bc4602 5b634eef 
+	8e998fa2 44f9fe64 4df29ee9 a0944e7a 
+`response` was based on the hash:
+	10e6b25c 4b066b59 a5b837d2 460a78b1 
+	59edb6cb 2018ae0a a74b7555 499c9690 
+	b16b4f38 99fa8147 b9bc4602 5b634eef 
+	8e998fa2 44f9fe64 4df29ee9 a0944e7a 
+Hash of the `response` file for verification:
+	cf0abf2f 06b4f5d1 3ab6ff1b 59e1ff40 
+	a9a2e9b4 fdf27eac 0b1345e8 c89cbc3f 
+	142d00d9 742d8e1a cc996425 cc626531 
+	fb1be7b2 86640d09 c2909072 f26b9a3e 
+Verifying a contribution to contain proper powers and correspond to the public key...
+Done processing 2097151 powers of tau
+Done processing 4194303 powers of tau
+Done processing 6291455 powers of tau
+Done processing 8388607 powers of tau
+Done processing 10485759 powers of tau
+Done processing 12582911 powers of tau
+Done processing 14680063 powers of tau
+Done processing 16777215 powers of tau
+Done processing 18874367 powers of tau
+Done processing 20971519 powers of tau
+Done processing 23068671 powers of tau
+Done processing 25165823 powers of tau
+Done processing 27262975 powers of tau
+Done processing 29360127 powers of tau
+Done processing 31457279 powers of tau
+Done processing 33554431 powers of tau
+Done processing 35651583 powers of tau
+Done processing 37748735 powers of tau
+Done processing 39845887 powers of tau
+Done processing 41943039 powers of tau
+Done processing 44040191 powers of tau
+Done processing 46137343 powers of tau
+Done processing 48234495 powers of tau
+Done processing 50331647 powers of tau
+Done processing 52428799 powers of tau
+Done processing 54525951 powers of tau
+Done processing 56623103 powers of tau
+Done processing 58720255 powers of tau
+Done processing 60817407 powers of tau
+Done processing 62914559 powers of tau
+Done processing 65011711 powers of tau
+Done processing 67108863 powers of tau
+Done processing 69206015 powers of tau
+Done processing 71303167 powers of tau
+Done processing 73400319 powers of tau
+Done processing 75497471 powers of tau
+Done processing 77594623 powers of tau
+Done processing 79691775 powers of tau
+Done processing 81788927 powers of tau
+Done processing 83886079 powers of tau
+Done processing 85983231 powers of tau
+Done processing 88080383 powers of tau
+Done processing 90177535 powers of tau
+Done processing 92274687 powers of tau
+Done processing 94371839 powers of tau
+Done processing 96468991 powers of tau
+Done processing 98566143 powers of tau
+Done processing 100663295 powers of tau
+Done processing 102760447 powers of tau
+Done processing 104857599 powers of tau
+Done processing 106954751 powers of tau
+Done processing 109051903 powers of tau
+Done processing 111149055 powers of tau
+Done processing 113246207 powers of tau
+Done processing 115343359 powers of tau
+Done processing 117440511 powers of tau
+Done processing 119537663 powers of tau
+Done processing 121634815 powers of tau
+Done processing 123731967 powers of tau
+Done processing 125829119 powers of tau
+Done processing 127926271 powers of tau
+Done processing 130023423 powers of tau
+Done processing 132120575 powers of tau
+Done processing 134217727 powers of tau
+Done processing 136314879 powers of tau
+Done processing 138412031 powers of tau
+Done processing 140509183 powers of tau
+Done processing 142606335 powers of tau
+Done processing 144703487 powers of tau
+Done processing 146800639 powers of tau
+Done processing 148897791 powers of tau
+Done processing 150994943 powers of tau
+Done processing 153092095 powers of tau
+Done processing 155189247 powers of tau
+Done processing 157286399 powers of tau
+Done processing 159383551 powers of tau
+Done processing 161480703 powers of tau
+Done processing 163577855 powers of tau
+Done processing 165675007 powers of tau
+Done processing 167772159 powers of tau
+Done processing 169869311 powers of tau
+Done processing 171966463 powers of tau
+Done processing 174063615 powers of tau
+Done processing 176160767 powers of tau
+Done processing 178257919 powers of tau
+Done processing 180355071 powers of tau
+Done processing 182452223 powers of tau
+Done processing 184549375 powers of tau
+Done processing 186646527 powers of tau
+Done processing 188743679 powers of tau
+Done processing 190840831 powers of tau
+Done processing 192937983 powers of tau
+Done processing 195035135 powers of tau
+Done processing 197132287 powers of tau
+Done processing 199229439 powers of tau
+Done processing 201326591 powers of tau
+Done processing 203423743 powers of tau
+Done processing 205520895 powers of tau
+Done processing 207618047 powers of tau
+Done processing 209715199 powers of tau
+Done processing 211812351 powers of tau
+Done processing 213909503 powers of tau
+Done processing 216006655 powers of tau
+Done processing 218103807 powers of tau
+Done processing 220200959 powers of tau
+Done processing 222298111 powers of tau
+Done processing 224395263 powers of tau
+Done processing 226492415 powers of tau
+Done processing 228589567 powers of tau
+Done processing 230686719 powers of tau
+Done processing 232783871 powers of tau
+Done processing 234881023 powers of tau
+Done processing 236978175 powers of tau
+Done processing 239075327 powers of tau
+Done processing 241172479 powers of tau
+Done processing 243269631 powers of tau
+Done processing 245366783 powers of tau
+Done processing 247463935 powers of tau
+Done processing 249561087 powers of tau
+Done processing 251658239 powers of tau
+Done processing 253755391 powers of tau
+Done processing 255852543 powers of tau
+Done processing 257949695 powers of tau
+Done processing 260046847 powers of tau
+Done processing 262143999 powers of tau
+Done processing 264241151 powers of tau
+Done processing 266338303 powers of tau
+Done processing 268435455 powers of tau
+Done processing 270532607 powers of tau
+Done processing 272629759 powers of tau
+Done processing 274726911 powers of tau
+Done processing 276824063 powers of tau
+Done processing 278921215 powers of tau
+Done processing 281018367 powers of tau
+Done processing 283115519 powers of tau
+Done processing 285212671 powers of tau
+Done processing 287309823 powers of tau
+Done processing 289406975 powers of tau
+Done processing 291504127 powers of tau
+Done processing 293601279 powers of tau
+Done processing 295698431 powers of tau
+Done processing 297795583 powers of tau
+Done processing 299892735 powers of tau
+Done processing 301989887 powers of tau
+Done processing 304087039 powers of tau
+Done processing 306184191 powers of tau
+Done processing 308281343 powers of tau
+Done processing 310378495 powers of tau
+Done processing 312475647 powers of tau
+Done processing 314572799 powers of tau
+Done processing 316669951 powers of tau
+Done processing 318767103 powers of tau
+Done processing 320864255 powers of tau
+Done processing 322961407 powers of tau
+Done processing 325058559 powers of tau
+Done processing 327155711 powers of tau
+Done processing 329252863 powers of tau
+Done processing 331350015 powers of tau
+Done processing 333447167 powers of tau
+Done processing 335544319 powers of tau
+Done processing 337641471 powers of tau
+Done processing 339738623 powers of tau
+Done processing 341835775 powers of tau
+Done processing 343932927 powers of tau
+Done processing 346030079 powers of tau
+Done processing 348127231 powers of tau
+Done processing 350224383 powers of tau
+Done processing 352321535 powers of tau
+Done processing 354418687 powers of tau
+Done processing 356515839 powers of tau
+Done processing 358612991 powers of tau
+Done processing 360710143 powers of tau
+Done processing 362807295 powers of tau
+Done processing 364904447 powers of tau
+Done processing 367001599 powers of tau
+Done processing 369098751 powers of tau
+Done processing 371195903 powers of tau
+Done processing 373293055 powers of tau
+Done processing 375390207 powers of tau
+Done processing 377487359 powers of tau
+Done processing 379584511 powers of tau
+Done processing 381681663 powers of tau
+Done processing 383778815 powers of tau
+Done processing 385875967 powers of tau
+Done processing 387973119 powers of tau
+Done processing 390070271 powers of tau
+Done processing 392167423 powers of tau
+Done processing 394264575 powers of tau
+Done processing 396361727 powers of tau
+Done processing 398458879 powers of tau
+Done processing 400556031 powers of tau
+Done processing 402653183 powers of tau
+Done processing 404750335 powers of tau
+Done processing 406847487 powers of tau
+Done processing 408944639 powers of tau
+Done processing 411041791 powers of tau
+Done processing 413138943 powers of tau
+Done processing 415236095 powers of tau
+Done processing 417333247 powers of tau
+Done processing 419430399 powers of tau
+Done processing 421527551 powers of tau
+Done processing 423624703 powers of tau
+Done processing 425721855 powers of tau
+Done processing 427819007 powers of tau
+Done processing 429916159 powers of tau
+Done processing 432013311 powers of tau
+Done processing 434110463 powers of tau
+Done processing 436207615 powers of tau
+Done processing 438304767 powers of tau
+Done processing 440401919 powers of tau
+Done processing 442499071 powers of tau
+Done processing 444596223 powers of tau
+Done processing 446693375 powers of tau
+Done processing 448790527 powers of tau
+Done processing 450887679 powers of tau
+Done processing 452984831 powers of tau
+Done processing 455081983 powers of tau
+Done processing 457179135 powers of tau
+Done processing 459276287 powers of tau
+Done processing 461373439 powers of tau
+Done processing 463470591 powers of tau
+Done processing 465567743 powers of tau
+Done processing 467664895 powers of tau
+Done processing 469762047 powers of tau
+Done processing 471859199 powers of tau
+Done processing 473956351 powers of tau
+Done processing 476053503 powers of tau
+Done processing 478150655 powers of tau
+Done processing 480247807 powers of tau
+Done processing 482344959 powers of tau
+Done processing 484442111 powers of tau
+Done processing 486539263 powers of tau
+Done processing 488636415 powers of tau
+Done processing 490733567 powers of tau
+Done processing 492830719 powers of tau
+Done processing 494927871 powers of tau
+Done processing 497025023 powers of tau
+Done processing 499122175 powers of tau
+Done processing 501219327 powers of tau
+Done processing 503316479 powers of tau
+Done processing 505413631 powers of tau
+Done processing 507510783 powers of tau
+Done processing 509607935 powers of tau
+Done processing 511705087 powers of tau
+Done processing 513802239 powers of tau
+Done processing 515899391 powers of tau
+Done processing 517996543 powers of tau
+Done processing 520093695 powers of tau
+Done processing 522190847 powers of tau
+Done processing 524287999 powers of tau
+Done processing 526385151 powers of tau
+Done processing 528482303 powers of tau
+Done processing 530579455 powers of tau
+Done processing 532676607 powers of tau
+Done processing 534773759 powers of tau
+Done processing 536870910 powers of tau
+Verification succeeded!
+Verification succeeded! Writing to `./new_challenge`...
+Here's the BLAKE2b hash of the decompressed participant's response as `new_challenge` file:
+	af1d28b6 e1c2e68f 5c871f3e 01856f25 
+	2ef4f745 a3e39e3d 2aa3bc40 7f82b4a5 
+	feb2ba4c 303f90fb 15c86929 0611b732 
+	be31f29a 15e5d609 6f555cd0 683e5421 
+Done! `./new_challenge` contains the new challenge file. The other files
+were left alone.
+Validated response 8 is consistent at Sat Nov 30 23:17:53 UTC 2019
+
+Attempting to download challenge_0009 at Sat Nov 30 23:17:53 UTC 2019
+Successfully downloaded challenge_0009 at Sat Nov 30 23:35:30 UTC 2019
+
+Validation of challenge 9 begun at Sat Nov 30 23:35:30 UTC 2019
+Extracted expected hash of challenge 9:
+af1d28b6e1c2e68f5c871f3e01856f252ef4f745a3e39e3d2aa3bc407f82b4a5feb2ba4c303f90fb15c869290611b732be31f29a15e5d6096f555cd0683e5421
+Computed actual hash of challenge 9:
+af1d28b6e1c2e68f5c871f3e01856f252ef4f745a3e39e3d2aa3bc407f82b4a5feb2ba4c303f90fb15c869290611b732be31f29a15e5d6096f555cd0683e5421
+Validated challenge 9 is consistent at Sat Nov 30 23:53:33 UTC 2019
+
+--------------------------------------------------
+ROUND 9
+Round start time: Sat Nov 30 23:53:33 UTC 2019
+
+Attempting to download response_0009_brecht at Sat Nov 30 23:53:33 UTC 2019
+Successfully downloaded response_0009_brecht at Sun Dec  1 00:02:18 UTC 2019
+
+Validation of response 9 begun at Sun Dec  1 00:02:18 UTC 2019
+Will verify and decompress a contribution to accumulator for 2^28 powers of tau
+Calculating previous challenge hash...
+Hash of the `challenge` file for verification:
+	af1d28b6 e1c2e68f 5c871f3e 01856f25 
+	2ef4f745 a3e39e3d 2aa3bc40 7f82b4a5 
+	feb2ba4c 303f90fb 15c86929 0611b732 
+	be31f29a 15e5d609 6f555cd0 683e5421 
+`response` was based on the hash:
+	af1d28b6 e1c2e68f 5c871f3e 01856f25 
+	2ef4f745 a3e39e3d 2aa3bc40 7f82b4a5 
+	feb2ba4c 303f90fb 15c86929 0611b732 
+	be31f29a 15e5d609 6f555cd0 683e5421 
+Hash of the `response` file for verification:
+	2f21e33e d267b2c5 31fbafb1 89beb370 
+	a30166bf f9d97c02 42b7f3fc c650022c 
+	61868f0e b2000578 d852fb4a 71ceb9e9 
+	49337de4 9ec3ac48 1f2092db aac7a1de 
+Verifying a contribution to contain proper powers and correspond to the public key...
+Done processing 2097151 powers of tau
+Done processing 4194303 powers of tau
+Done processing 6291455 powers of tau
+Done processing 8388607 powers of tau
+Done processing 10485759 powers of tau
+Done processing 12582911 powers of tau
+Done processing 14680063 powers of tau
+Done processing 16777215 powers of tau
+Done processing 18874367 powers of tau
+Done processing 20971519 powers of tau
+Done processing 23068671 powers of tau
+Done processing 25165823 powers of tau
+Done processing 27262975 powers of tau
+Done processing 29360127 powers of tau
+Done processing 31457279 powers of tau
+Done processing 33554431 powers of tau
+Done processing 35651583 powers of tau
+Done processing 37748735 powers of tau
+Done processing 39845887 powers of tau
+Done processing 41943039 powers of tau
+Done processing 44040191 powers of tau
+Done processing 46137343 powers of tau
+Done processing 48234495 powers of tau
+Done processing 50331647 powers of tau
+Done processing 52428799 powers of tau
+Done processing 54525951 powers of tau
+Done processing 56623103 powers of tau
+Done processing 58720255 powers of tau
+Done processing 60817407 powers of tau
+Done processing 62914559 powers of tau
+Done processing 65011711 powers of tau
+Done processing 67108863 powers of tau
+Done processing 69206015 powers of tau
+Done processing 71303167 powers of tau
+Done processing 73400319 powers of tau
+Done processing 75497471 powers of tau
+Done processing 77594623 powers of tau
+Done processing 79691775 powers of tau
+Done processing 81788927 powers of tau
+Done processing 83886079 powers of tau
+Done processing 85983231 powers of tau
+Done processing 88080383 powers of tau
+Done processing 90177535 powers of tau
+Done processing 92274687 powers of tau
+Done processing 94371839 powers of tau
+Done processing 96468991 powers of tau
+Done processing 98566143 powers of tau
+Done processing 100663295 powers of tau
+Done processing 102760447 powers of tau
+Done processing 104857599 powers of tau
+Done processing 106954751 powers of tau
+Done processing 109051903 powers of tau
+Done processing 111149055 powers of tau
+Done processing 113246207 powers of tau
+Done processing 115343359 powers of tau
+Done processing 117440511 powers of tau
+Done processing 119537663 powers of tau
+Done processing 121634815 powers of tau
+Done processing 123731967 powers of tau
+Done processing 125829119 powers of tau
+Done processing 127926271 powers of tau
+Done processing 130023423 powers of tau
+Done processing 132120575 powers of tau
+Done processing 134217727 powers of tau
+Done processing 136314879 powers of tau
+Done processing 138412031 powers of tau
+Done processing 140509183 powers of tau
+Done processing 142606335 powers of tau
+Done processing 144703487 powers of tau
+Done processing 146800639 powers of tau
+Done processing 148897791 powers of tau
+Done processing 150994943 powers of tau
+Done processing 153092095 powers of tau
+Done processing 155189247 powers of tau
+Done processing 157286399 powers of tau
+Done processing 159383551 powers of tau
+Done processing 161480703 powers of tau
+Done processing 163577855 powers of tau
+Done processing 165675007 powers of tau
+Done processing 167772159 powers of tau
+Done processing 169869311 powers of tau
+Done processing 171966463 powers of tau
+Done processing 174063615 powers of tau
+Done processing 176160767 powers of tau
+Done processing 178257919 powers of tau
+Done processing 180355071 powers of tau
+Done processing 182452223 powers of tau
+Done processing 184549375 powers of tau
+Done processing 186646527 powers of tau
+Done processing 188743679 powers of tau
+Done processing 190840831 powers of tau
+Done processing 192937983 powers of tau
+Done processing 195035135 powers of tau
+Done processing 197132287 powers of tau
+Done processing 199229439 powers of tau
+Done processing 201326591 powers of tau
+Done processing 203423743 powers of tau
+Done processing 205520895 powers of tau
+Done processing 207618047 powers of tau
+Done processing 209715199 powers of tau
+Done processing 211812351 powers of tau
+Done processing 213909503 powers of tau
+Done processing 216006655 powers of tau
+Done processing 218103807 powers of tau
+Done processing 220200959 powers of tau
+Done processing 222298111 powers of tau
+Done processing 224395263 powers of tau
+Done processing 226492415 powers of tau
+Done processing 228589567 powers of tau
+Done processing 230686719 powers of tau
+Done processing 232783871 powers of tau
+Done processing 234881023 powers of tau
+Done processing 236978175 powers of tau
+Done processing 239075327 powers of tau
+Done processing 241172479 powers of tau
+Done processing 243269631 powers of tau
+Done processing 245366783 powers of tau
+Done processing 247463935 powers of tau
+Done processing 249561087 powers of tau
+Done processing 251658239 powers of tau
+Done processing 253755391 powers of tau
+Done processing 255852543 powers of tau
+Done processing 257949695 powers of tau
+Done processing 260046847 powers of tau
+Done processing 262143999 powers of tau
+Done processing 264241151 powers of tau
+Done processing 266338303 powers of tau
+Done processing 268435455 powers of tau
+Done processing 270532607 powers of tau
+Done processing 272629759 powers of tau
+Done processing 274726911 powers of tau
+Done processing 276824063 powers of tau
+Done processing 278921215 powers of tau
+Done processing 281018367 powers of tau
+Done processing 283115519 powers of tau
+Done processing 285212671 powers of tau
+Done processing 287309823 powers of tau
+Done processing 289406975 powers of tau
+Done processing 291504127 powers of tau
+Done processing 293601279 powers of tau
+Done processing 295698431 powers of tau
+Done processing 297795583 powers of tau
+Done processing 299892735 powers of tau
+Done processing 301989887 powers of tau
+Done processing 304087039 powers of tau
+Done processing 306184191 powers of tau
+Done processing 308281343 powers of tau
+Done processing 310378495 powers of tau
+Done processing 312475647 powers of tau
+Done processing 314572799 powers of tau
+Done processing 316669951 powers of tau
+Done processing 318767103 powers of tau
+Done processing 320864255 powers of tau
+Done processing 322961407 powers of tau
+Done processing 325058559 powers of tau
+Done processing 327155711 powers of tau
+Done processing 329252863 powers of tau
+Done processing 331350015 powers of tau
+Done processing 333447167 powers of tau
+Done processing 335544319 powers of tau
+Done processing 337641471 powers of tau
+Done processing 339738623 powers of tau
+Done processing 341835775 powers of tau
+Done processing 343932927 powers of tau
+Done processing 346030079 powers of tau
+Done processing 348127231 powers of tau
+Done processing 350224383 powers of tau
+Done processing 352321535 powers of tau
+Done processing 354418687 powers of tau
+Done processing 356515839 powers of tau
+Done processing 358612991 powers of tau
+Done processing 360710143 powers of tau
+Done processing 362807295 powers of tau
+Done processing 364904447 powers of tau
+Done processing 367001599 powers of tau
+Done processing 369098751 powers of tau
+Done processing 371195903 powers of tau
+Done processing 373293055 powers of tau
+Done processing 375390207 powers of tau
+Done processing 377487359 powers of tau
+Done processing 379584511 powers of tau
+Done processing 381681663 powers of tau
+Done processing 383778815 powers of tau
+Done processing 385875967 powers of tau
+Done processing 387973119 powers of tau
+Done processing 390070271 powers of tau
+Done processing 392167423 powers of tau
+Done processing 394264575 powers of tau
+Done processing 396361727 powers of tau
+Done processing 398458879 powers of tau
+Done processing 400556031 powers of tau
+Done processing 402653183 powers of tau
+Done processing 404750335 powers of tau
+Done processing 406847487 powers of tau
+Done processing 408944639 powers of tau
+Done processing 411041791 powers of tau
+Done processing 413138943 powers of tau
+Done processing 415236095 powers of tau
+Done processing 417333247 powers of tau
+Done processing 419430399 powers of tau
+Done processing 421527551 powers of tau
+Done processing 423624703 powers of tau
+Done processing 425721855 powers of tau
+Done processing 427819007 powers of tau
+Done processing 429916159 powers of tau
+Done processing 432013311 powers of tau
+Done processing 434110463 powers of tau
+Done processing 436207615 powers of tau
+Done processing 438304767 powers of tau
+Done processing 440401919 powers of tau
+Done processing 442499071 powers of tau
+Done processing 444596223 powers of tau
+Done processing 446693375 powers of tau
+Done processing 448790527 powers of tau
+Done processing 450887679 powers of tau
+Done processing 452984831 powers of tau
+Done processing 455081983 powers of tau
+Done processing 457179135 powers of tau
+Done processing 459276287 powers of tau
+Done processing 461373439 powers of tau
+Done processing 463470591 powers of tau
+Done processing 465567743 powers of tau
+Done processing 467664895 powers of tau
+Done processing 469762047 powers of tau
+Done processing 471859199 powers of tau
+Done processing 473956351 powers of tau
+Done processing 476053503 powers of tau
+Done processing 478150655 powers of tau
+Done processing 480247807 powers of tau
+Done processing 482344959 powers of tau
+Done processing 484442111 powers of tau
+Done processing 486539263 powers of tau
+Done processing 488636415 powers of tau
+Done processing 490733567 powers of tau
+Done processing 492830719 powers of tau
+Done processing 494927871 powers of tau
+Done processing 497025023 powers of tau
+Done processing 499122175 powers of tau
+Done processing 501219327 powers of tau
+Done processing 503316479 powers of tau
+Done processing 505413631 powers of tau
+Done processing 507510783 powers of tau
+Done processing 509607935 powers of tau
+Done processing 511705087 powers of tau
+Done processing 513802239 powers of tau
+Done processing 515899391 powers of tau
+Done processing 517996543 powers of tau
+Done processing 520093695 powers of tau
+Done processing 522190847 powers of tau
+Done processing 524287999 powers of tau
+Done processing 526385151 powers of tau
+Done processing 528482303 powers of tau
+Done processing 530579455 powers of tau
+Done processing 532676607 powers of tau
+Done processing 534773759 powers of tau
+Done processing 536870910 powers of tau
+Verification succeeded!
+Verification succeeded! Writing to `./new_challenge`...
+Here's the BLAKE2b hash of the decompressed participant's response as `new_challenge` file:
+	7fde382d 1bc12ae7 d3d99879 648e416b 
+	0540f39d 5e8f4945 229a7faa e97c3630 
+	9d54bf8b b8a0813c 67f89d19 9b2111b9 
+	0adb93c2 6b80fdd4 e3fe3640 860b7731 
+Done! `./new_challenge` contains the new challenge file. The other files
+were left alone.
+Validated response 9 is consistent at Sun Dec  1 14:47:29 UTC 2019
+
+Attempting to download challenge_0010 at Sun Dec  1 14:47:29 UTC 2019
+Successfully downloaded challenge_0010 at Sun Dec  1 15:04:59 UTC 2019
+
+Validation of challenge 10 begun at Sun Dec  1 15:04:59 UTC 2019
+Extracted expected hash of challenge 10:
+7fde382d1bc12ae7d3d99879648e416b0540f39d5e8f4945229a7faae97c36309d54bf8bb8a0813c67f89d199b2111b90adb93c26b80fdd4e3fe3640860b7731
+Computed actual hash of challenge 10:
+7fde382d1bc12ae7d3d99879648e416b0540f39d5e8f4945229a7faae97c36309d54bf8bb8a0813c67f89d199b2111b90adb93c26b80fdd4e3fe3640860b7731
+Validated challenge 10 is consistent at Sun Dec  1 15:23:04 UTC 2019
+
+--------------------------------------------------
+ROUND 10
+Round start time: Sun Dec  1 15:23:04 UTC 2019
+
+Attempting to download response_0010_vano at Sun Dec  1 15:23:04 UTC 2019
+Successfully downloaded response_0010_vano at Sun Dec  1 15:31:51 UTC 2019
+
+Validation of response 10 begun at Sun Dec  1 15:31:51 UTC 2019
+Will verify and decompress a contribution to accumulator for 2^28 powers of tau
+Calculating previous challenge hash...
+Hash of the `challenge` file for verification:
+	7fde382d 1bc12ae7 d3d99879 648e416b 
+	0540f39d 5e8f4945 229a7faa e97c3630 
+	9d54bf8b b8a0813c 67f89d19 9b2111b9 
+	0adb93c2 6b80fdd4 e3fe3640 860b7731 
+`response` was based on the hash:
+	7fde382d 1bc12ae7 d3d99879 648e416b 
+	0540f39d 5e8f4945 229a7faa e97c3630 
+	9d54bf8b b8a0813c 67f89d19 9b2111b9 
+	0adb93c2 6b80fdd4 e3fe3640 860b7731 
+Hash of the `response` file for verification:
+	ed65fac5 4967c6ee abfd8350 2eceb53c 
+	a7ccd0bf d35353ee c5350c37 06988b8b 
+	f1590b10 fe8388ab fbeb088c 8843fb80 
+	4fe885d6 0bd6d8fb 7cd47eef c93b778b 
+Verifying a contribution to contain proper powers and correspond to the public key...
+Done processing 2097151 powers of tau
+Done processing 4194303 powers of tau
+Done processing 6291455 powers of tau
+Done processing 8388607 powers of tau
+Done processing 10485759 powers of tau
+Done processing 12582911 powers of tau
+Done processing 14680063 powers of tau
+Done processing 16777215 powers of tau
+Done processing 18874367 powers of tau
+Done processing 20971519 powers of tau
+Done processing 23068671 powers of tau
+Done processing 25165823 powers of tau
+Done processing 27262975 powers of tau
+Done processing 29360127 powers of tau
+Done processing 31457279 powers of tau
+Done processing 33554431 powers of tau
+Done processing 35651583 powers of tau
+Done processing 37748735 powers of tau
+Done processing 39845887 powers of tau
+Done processing 41943039 powers of tau
+Done processing 44040191 powers of tau
+Done processing 46137343 powers of tau
+Done processing 48234495 powers of tau
+Done processing 50331647 powers of tau
+Done processing 52428799 powers of tau
+Done processing 54525951 powers of tau
+Done processing 56623103 powers of tau
+Done processing 58720255 powers of tau
+Done processing 60817407 powers of tau
+Done processing 62914559 powers of tau
+Done processing 65011711 powers of tau
+Done processing 67108863 powers of tau
+Done processing 69206015 powers of tau
+Done processing 71303167 powers of tau
+Done processing 73400319 powers of tau
+Done processing 75497471 powers of tau
+Done processing 77594623 powers of tau
+Done processing 79691775 powers of tau
+Done processing 81788927 powers of tau
+Done processing 83886079 powers of tau
+Done processing 85983231 powers of tau
+Done processing 88080383 powers of tau
+Done processing 90177535 powers of tau
+Done processing 92274687 powers of tau
+Done processing 94371839 powers of tau
+Done processing 96468991 powers of tau
+Done processing 98566143 powers of tau
+Done processing 100663295 powers of tau
+Done processing 102760447 powers of tau
+Done processing 104857599 powers of tau
+Done processing 106954751 powers of tau
+Done processing 109051903 powers of tau
+Done processing 111149055 powers of tau
+Done processing 113246207 powers of tau
+Done processing 115343359 powers of tau
+Done processing 117440511 powers of tau
+Done processing 119537663 powers of tau
+Done processing 121634815 powers of tau
+Done processing 123731967 powers of tau
+Done processing 125829119 powers of tau
+Done processing 127926271 powers of tau
+Done processing 130023423 powers of tau
+Done processing 132120575 powers of tau
+Done processing 134217727 powers of tau
+Done processing 136314879 powers of tau
+Done processing 138412031 powers of tau
+Done processing 140509183 powers of tau
+Done processing 142606335 powers of tau
+Done processing 144703487 powers of tau
+Done processing 146800639 powers of tau
+Done processing 148897791 powers of tau
+Done processing 150994943 powers of tau
+Done processing 153092095 powers of tau
+Done processing 155189247 powers of tau
+Done processing 157286399 powers of tau
+Done processing 159383551 powers of tau
+Done processing 161480703 powers of tau
+Done processing 163577855 powers of tau
+Done processing 165675007 powers of tau
+Done processing 167772159 powers of tau
+Done processing 169869311 powers of tau
+Done processing 171966463 powers of tau
+Done processing 174063615 powers of tau
+Done processing 176160767 powers of tau
+Done processing 178257919 powers of tau
+Done processing 180355071 powers of tau
+Done processing 182452223 powers of tau
+Done processing 184549375 powers of tau
+Done processing 186646527 powers of tau
+Done processing 188743679 powers of tau
+Done processing 190840831 powers of tau
+Done processing 192937983 powers of tau
+Done processing 195035135 powers of tau
+Done processing 197132287 powers of tau
+Done processing 199229439 powers of tau
+Done processing 201326591 powers of tau
+Done processing 203423743 powers of tau
+Done processing 205520895 powers of tau
+Done processing 207618047 powers of tau
+Done processing 209715199 powers of tau
+Done processing 211812351 powers of tau
+Done processing 213909503 powers of tau
+Done processing 216006655 powers of tau
+Done processing 218103807 powers of tau
+Done processing 220200959 powers of tau
+Done processing 222298111 powers of tau
+Done processing 224395263 powers of tau
+Done processing 226492415 powers of tau
+Done processing 228589567 powers of tau
+Done processing 230686719 powers of tau
+Done processing 232783871 powers of tau
+Done processing 234881023 powers of tau
+Done processing 236978175 powers of tau
+Done processing 239075327 powers of tau
+Done processing 241172479 powers of tau
+Done processing 243269631 powers of tau
+Done processing 245366783 powers of tau
+Done processing 247463935 powers of tau
+Done processing 249561087 powers of tau
+Done processing 251658239 powers of tau
+Done processing 253755391 powers of tau
+Done processing 255852543 powers of tau
+Done processing 257949695 powers of tau
+Done processing 260046847 powers of tau
+Done processing 262143999 powers of tau
+Done processing 264241151 powers of tau
+Done processing 266338303 powers of tau
+Done processing 268435455 powers of tau
+Done processing 270532607 powers of tau
+Done processing 272629759 powers of tau
+Done processing 274726911 powers of tau
+Done processing 276824063 powers of tau
+Done processing 278921215 powers of tau
+Done processing 281018367 powers of tau
+Done processing 283115519 powers of tau
+Done processing 285212671 powers of tau
+Done processing 287309823 powers of tau
+Done processing 289406975 powers of tau
+Done processing 291504127 powers of tau
+Done processing 293601279 powers of tau
+Done processing 295698431 powers of tau
+Done processing 297795583 powers of tau
+Done processing 299892735 powers of tau
+Done processing 301989887 powers of tau
+Done processing 304087039 powers of tau
+Done processing 306184191 powers of tau
+Done processing 308281343 powers of tau
+Done processing 310378495 powers of tau
+Done processing 312475647 powers of tau
+Done processing 314572799 powers of tau
+Done processing 316669951 powers of tau
+Done processing 318767103 powers of tau
+Done processing 320864255 powers of tau
+Done processing 322961407 powers of tau
+Done processing 325058559 powers of tau
+Done processing 327155711 powers of tau
+Done processing 329252863 powers of tau
+Done processing 331350015 powers of tau
+Done processing 333447167 powers of tau
+Done processing 335544319 powers of tau
+Done processing 337641471 powers of tau
+Done processing 339738623 powers of tau
+Done processing 341835775 powers of tau
+Done processing 343932927 powers of tau
+Done processing 346030079 powers of tau
+Done processing 348127231 powers of tau
+Done processing 350224383 powers of tau
+Done processing 352321535 powers of tau
+Done processing 354418687 powers of tau
+Done processing 356515839 powers of tau
+Done processing 358612991 powers of tau
+Done processing 360710143 powers of tau
+Done processing 362807295 powers of tau
+Done processing 364904447 powers of tau
+Done processing 367001599 powers of tau
+Done processing 369098751 powers of tau
+Done processing 371195903 powers of tau
+Done processing 373293055 powers of tau
+Done processing 375390207 powers of tau
+Done processing 377487359 powers of tau
+Done processing 379584511 powers of tau
+Done processing 381681663 powers of tau
+Done processing 383778815 powers of tau
+Done processing 385875967 powers of tau
+Done processing 387973119 powers of tau
+Done processing 390070271 powers of tau
+Done processing 392167423 powers of tau
+Done processing 394264575 powers of tau
+Done processing 396361727 powers of tau
+Done processing 398458879 powers of tau
+Done processing 400556031 powers of tau
+Done processing 402653183 powers of tau
+Done processing 404750335 powers of tau
+Done processing 406847487 powers of tau
+Done processing 408944639 powers of tau
+Done processing 411041791 powers of tau
+Done processing 413138943 powers of tau
+Done processing 415236095 powers of tau
+Done processing 417333247 powers of tau
+Done processing 419430399 powers of tau
+Done processing 421527551 powers of tau
+Done processing 423624703 powers of tau
+Done processing 425721855 powers of tau
+Done processing 427819007 powers of tau
+Done processing 429916159 powers of tau
+Done processing 432013311 powers of tau
+Done processing 434110463 powers of tau
+Done processing 436207615 powers of tau
+Done processing 438304767 powers of tau
+Done processing 440401919 powers of tau
+Done processing 442499071 powers of tau
+Done processing 444596223 powers of tau
+Done processing 446693375 powers of tau
+Done processing 448790527 powers of tau
+Done processing 450887679 powers of tau
+Done processing 452984831 powers of tau
+Done processing 455081983 powers of tau
+Done processing 457179135 powers of tau
+Done processing 459276287 powers of tau
+Done processing 461373439 powers of tau
+Done processing 463470591 powers of tau
+Done processing 465567743 powers of tau
+Done processing 467664895 powers of tau
+Done processing 469762047 powers of tau
+Done processing 471859199 powers of tau
+Done processing 473956351 powers of tau
+Done processing 476053503 powers of tau
+Done processing 478150655 powers of tau
+Done processing 480247807 powers of tau
+Done processing 482344959 powers of tau
+Done processing 484442111 powers of tau
+Done processing 486539263 powers of tau
+Done processing 488636415 powers of tau
+Done processing 490733567 powers of tau
+Done processing 492830719 powers of tau
+Done processing 494927871 powers of tau
+Done processing 497025023 powers of tau
+Done processing 499122175 powers of tau
+Done processing 501219327 powers of tau
+Done processing 503316479 powers of tau
+Done processing 505413631 powers of tau
+Done processing 507510783 powers of tau
+Done processing 509607935 powers of tau
+Done processing 511705087 powers of tau
+Done processing 513802239 powers of tau
+Done processing 515899391 powers of tau
+Done processing 517996543 powers of tau
+Done processing 520093695 powers of tau
+Done processing 522190847 powers of tau
+Done processing 524287999 powers of tau
+Done processing 526385151 powers of tau
+Done processing 528482303 powers of tau
+Done processing 530579455 powers of tau
+Done processing 532676607 powers of tau
+Done processing 534773759 powers of tau
+Done processing 536870910 powers of tau
+Verification succeeded!
+Verification succeeded! Writing to `./new_challenge`...
+Here's the BLAKE2b hash of the decompressed participant's response as `new_challenge` file:
+	ac890865 8234b4f0 b8f4e3c3 0f6acc34 
+	38d3f297 734b62b9 c7b1157f 93d7eed2 
+	ba05c59d e663cebc 08049076 3cfbee1e 
+	5e231123 7714661e 67b43cca 921da027 
+Done! `./new_challenge` contains the new challenge file. The other files
+were left alone.
+Validated response 10 is consistent at Mon Dec  2 06:19:32 UTC 2019
+
+Attempting to download challenge_0011 at Mon Dec  2 06:19:32 UTC 2019
+Successfully downloaded challenge_0011 at Mon Dec  2 06:37:04 UTC 2019
+
+Validation of challenge 11 begun at Mon Dec  2 06:37:06 UTC 2019
+Extracted expected hash of challenge 11:
+ac8908658234b4f0b8f4e3c30f6acc3438d3f297734b62b9c7b1157f93d7eed2ba05c59de663cebc080490763cfbee1e5e2311237714661e67b43cca921da027
+Computed actual hash of challenge 11:
+ac8908658234b4f0b8f4e3c30f6acc3438d3f297734b62b9c7b1157f93d7eed2ba05c59de663cebc080490763cfbee1e5e2311237714661e67b43cca921da027
+Validated challenge 11 is consistent at Mon Dec  2 06:55:09 UTC 2019
+
+--------------------------------------------------
+ROUND 11
+Round start time: Mon Dec  2 06:55:09 UTC 2019
+
+Attempting to download response_0011_zhiniang at Mon Dec  2 06:55:09 UTC 2019
+Successfully downloaded response_0011_zhiniang at Mon Dec  2 07:03:53 UTC 2019
+
+Validation of response 11 begun at Mon Dec  2 07:03:53 UTC 2019
+Will verify and decompress a contribution to accumulator for 2^28 powers of tau
+Calculating previous challenge hash...
+Hash of the `challenge` file for verification:
+	ac890865 8234b4f0 b8f4e3c3 0f6acc34 
+	38d3f297 734b62b9 c7b1157f 93d7eed2 
+	ba05c59d e663cebc 08049076 3cfbee1e 
+	5e231123 7714661e 67b43cca 921da027 
+`response` was based on the hash:
+	ac890865 8234b4f0 b8f4e3c3 0f6acc34 
+	38d3f297 734b62b9 c7b1157f 93d7eed2 
+	ba05c59d e663cebc 08049076 3cfbee1e 
+	5e231123 7714661e 67b43cca 921da027 
+Hash of the `response` file for verification:
+	c72fa936 1a701827 9f9a2d78 501dc242 
+	53e62a2f e871f056 3c8dd530 c4ee6761 
+	e8bad30e 2e4cabc8 21b159c8 7fc554e7 
+	18faf6e7 b303bc5e c0865ff8 86fbea48 
+Verifying a contribution to contain proper powers and correspond to the public key...
+Done processing 2097151 powers of tau
+Done processing 4194303 powers of tau
+Done processing 6291455 powers of tau
+Done processing 8388607 powers of tau
+Done processing 10485759 powers of tau
+Done processing 12582911 powers of tau
+Done processing 14680063 powers of tau
+Done processing 16777215 powers of tau
+Done processing 18874367 powers of tau
+Done processing 20971519 powers of tau
+Done processing 23068671 powers of tau
+Done processing 25165823 powers of tau
+Done processing 27262975 powers of tau
+Done processing 29360127 powers of tau
+Done processing 31457279 powers of tau
+Done processing 33554431 powers of tau
+Done processing 35651583 powers of tau
+Done processing 37748735 powers of tau
+Done processing 39845887 powers of tau
+Done processing 41943039 powers of tau
+Done processing 44040191 powers of tau
+Done processing 46137343 powers of tau
+Done processing 48234495 powers of tau
+Done processing 50331647 powers of tau
+Done processing 52428799 powers of tau
+Done processing 54525951 powers of tau
+Done processing 56623103 powers of tau
+Done processing 58720255 powers of tau
+Done processing 60817407 powers of tau
+Done processing 62914559 powers of tau
+Done processing 65011711 powers of tau
+Done processing 67108863 powers of tau
+Done processing 69206015 powers of tau
+Done processing 71303167 powers of tau
+Done processing 73400319 powers of tau
+Done processing 75497471 powers of tau
+Done processing 77594623 powers of tau
+Done processing 79691775 powers of tau
+Done processing 81788927 powers of tau
+Done processing 83886079 powers of tau
+Done processing 85983231 powers of tau
+Done processing 88080383 powers of tau
+Done processing 90177535 powers of tau
+Done processing 92274687 powers of tau
+Done processing 94371839 powers of tau
+Done processing 96468991 powers of tau
+Done processing 98566143 powers of tau
+Done processing 100663295 powers of tau
+Done processing 102760447 powers of tau
+Done processing 104857599 powers of tau
+Done processing 106954751 powers of tau
+Done processing 109051903 powers of tau
+Done processing 111149055 powers of tau
+Done processing 113246207 powers of tau
+Done processing 115343359 powers of tau
+Done processing 117440511 powers of tau
+Done processing 119537663 powers of tau
+Done processing 121634815 powers of tau
+Done processing 123731967 powers of tau
+Done processing 125829119 powers of tau
+Done processing 127926271 powers of tau
+Done processing 130023423 powers of tau
+Done processing 132120575 powers of tau
+Done processing 134217727 powers of tau
+Done processing 136314879 powers of tau
+Done processing 138412031 powers of tau
+Done processing 140509183 powers of tau
+Done processing 142606335 powers of tau
+Done processing 144703487 powers of tau
+Done processing 146800639 powers of tau
+Done processing 148897791 powers of tau
+Done processing 150994943 powers of tau
+Done processing 153092095 powers of tau
+Done processing 155189247 powers of tau
+Done processing 157286399 powers of tau
+Done processing 159383551 powers of tau
+Done processing 161480703 powers of tau
+Done processing 163577855 powers of tau
+Done processing 165675007 powers of tau
+Done processing 167772159 powers of tau
+Done processing 169869311 powers of tau
+Done processing 171966463 powers of tau
+Done processing 174063615 powers of tau
+Done processing 176160767 powers of tau
+Done processing 178257919 powers of tau
+Done processing 180355071 powers of tau
+Done processing 182452223 powers of tau
+Done processing 184549375 powers of tau
+Done processing 186646527 powers of tau
+Done processing 188743679 powers of tau
+Done processing 190840831 powers of tau
+Done processing 192937983 powers of tau
+Done processing 195035135 powers of tau
+Done processing 197132287 powers of tau
+Done processing 199229439 powers of tau
+Done processing 201326591 powers of tau
+Done processing 203423743 powers of tau
+Done processing 205520895 powers of tau
+Done processing 207618047 powers of tau
+Done processing 209715199 powers of tau
+Done processing 211812351 powers of tau
+Done processing 213909503 powers of tau
+Done processing 216006655 powers of tau
+Done processing 218103807 powers of tau
+Done processing 220200959 powers of tau
+Done processing 222298111 powers of tau
+Done processing 224395263 powers of tau
+Done processing 226492415 powers of tau
+Done processing 228589567 powers of tau
+Done processing 230686719 powers of tau
+Done processing 232783871 powers of tau
+Done processing 234881023 powers of tau
+Done processing 236978175 powers of tau
+Done processing 239075327 powers of tau
+Done processing 241172479 powers of tau
+Done processing 243269631 powers of tau
+Done processing 245366783 powers of tau
+Done processing 247463935 powers of tau
+Done processing 249561087 powers of tau
+Done processing 251658239 powers of tau
+Done processing 253755391 powers of tau
+Done processing 255852543 powers of tau
+Done processing 257949695 powers of tau
+Done processing 260046847 powers of tau
+Done processing 262143999 powers of tau
+Done processing 264241151 powers of tau
+Done processing 266338303 powers of tau
+Done processing 268435455 powers of tau
+Done processing 270532607 powers of tau
+Done processing 272629759 powers of tau
+Done processing 274726911 powers of tau
+Done processing 276824063 powers of tau
+Done processing 278921215 powers of tau
+Done processing 281018367 powers of tau
+Done processing 283115519 powers of tau
+Done processing 285212671 powers of tau
+Done processing 287309823 powers of tau
+Done processing 289406975 powers of tau
+Done processing 291504127 powers of tau
+Done processing 293601279 powers of tau
+Done processing 295698431 powers of tau
+Done processing 297795583 powers of tau
+Done processing 299892735 powers of tau
+Done processing 301989887 powers of tau
+Done processing 304087039 powers of tau
+Done processing 306184191 powers of tau
+Done processing 308281343 powers of tau
+Done processing 310378495 powers of tau
+Done processing 312475647 powers of tau
+Done processing 314572799 powers of tau
+Done processing 316669951 powers of tau
+Done processing 318767103 powers of tau
+Done processing 320864255 powers of tau
+Done processing 322961407 powers of tau
+Done processing 325058559 powers of tau
+Done processing 327155711 powers of tau
+Done processing 329252863 powers of tau
+Done processing 331350015 powers of tau
+Done processing 333447167 powers of tau
+Done processing 335544319 powers of tau
+Done processing 337641471 powers of tau
+Done processing 339738623 powers of tau
+Done processing 341835775 powers of tau
+Done processing 343932927 powers of tau
+Done processing 346030079 powers of tau
+Done processing 348127231 powers of tau
+Done processing 350224383 powers of tau
+Done processing 352321535 powers of tau
+Done processing 354418687 powers of tau
+Done processing 356515839 powers of tau
+Done processing 358612991 powers of tau
+Done processing 360710143 powers of tau
+Done processing 362807295 powers of tau
+Done processing 364904447 powers of tau
+Done processing 367001599 powers of tau
+Done processing 369098751 powers of tau
+Done processing 371195903 powers of tau
+Done processing 373293055 powers of tau
+Done processing 375390207 powers of tau
+Done processing 377487359 powers of tau
+Done processing 379584511 powers of tau
+Done processing 381681663 powers of tau
+Done processing 383778815 powers of tau
+Done processing 385875967 powers of tau
+Done processing 387973119 powers of tau
+Done processing 390070271 powers of tau
+Done processing 392167423 powers of tau
+Done processing 394264575 powers of tau
+Done processing 396361727 powers of tau
+Done processing 398458879 powers of tau
+Done processing 400556031 powers of tau
+Done processing 402653183 powers of tau
+Done processing 404750335 powers of tau
+Done processing 406847487 powers of tau
+Done processing 408944639 powers of tau
+Done processing 411041791 powers of tau
+Done processing 413138943 powers of tau
+Done processing 415236095 powers of tau
+Done processing 417333247 powers of tau
+Done processing 419430399 powers of tau
+Done processing 421527551 powers of tau
+Done processing 423624703 powers of tau
+Done processing 425721855 powers of tau
+Done processing 427819007 powers of tau
+Done processing 429916159 powers of tau
+Done processing 432013311 powers of tau
+Done processing 434110463 powers of tau
+Done processing 436207615 powers of tau
+Done processing 438304767 powers of tau
+Done processing 440401919 powers of tau
+Done processing 442499071 powers of tau
+Done processing 444596223 powers of tau
+Done processing 446693375 powers of tau
+Done processing 448790527 powers of tau
+Done processing 450887679 powers of tau
+Done processing 452984831 powers of tau
+Done processing 455081983 powers of tau
+Done processing 457179135 powers of tau
+Done processing 459276287 powers of tau
+Done processing 461373439 powers of tau
+Done processing 463470591 powers of tau
+Done processing 465567743 powers of tau
+Done processing 467664895 powers of tau
+Done processing 469762047 powers of tau
+Done processing 471859199 powers of tau
+Done processing 473956351 powers of tau
+Done processing 476053503 powers of tau
+Done processing 478150655 powers of tau
+Done processing 480247807 powers of tau
+Done processing 482344959 powers of tau
+Done processing 484442111 powers of tau
+Done processing 486539263 powers of tau
+Done processing 488636415 powers of tau
+Done processing 490733567 powers of tau
+Done processing 492830719 powers of tau
+Done processing 494927871 powers of tau
+Done processing 497025023 powers of tau
+Done processing 499122175 powers of tau
+Done processing 501219327 powers of tau
+Done processing 503316479 powers of tau
+Done processing 505413631 powers of tau
+Done processing 507510783 powers of tau
+Done processing 509607935 powers of tau
+Done processing 511705087 powers of tau
+Done processing 513802239 powers of tau
+Done processing 515899391 powers of tau
+Done processing 517996543 powers of tau
+Done processing 520093695 powers of tau
+Done processing 522190847 powers of tau
+Done processing 524287999 powers of tau
+Done processing 526385151 powers of tau
+Done processing 528482303 powers of tau
+Done processing 530579455 powers of tau
+Done processing 532676607 powers of tau
+Done processing 534773759 powers of tau
+Done processing 536870910 powers of tau
+Verification succeeded!
+Verification succeeded! Writing to `./new_challenge`...
+Here's the BLAKE2b hash of the decompressed participant's response as `new_challenge` file:
+	f36bf303 7f19f750 dc8edb45 30522048 
+	4090acb5 12e96c50 149618fa 007d3b8f 
+	d9103148 f6d5c5d2 62449ca1 b332b43c 
+	f8d6afb2 71bf2a11 24bcf4b2 143f0477 
+Done! `./new_challenge` contains the new challenge file. The other files
+were left alone.
+Validated response 11 is consistent at Mon Dec  2 21:50:11 UTC 2019
+
+Attempting to download challenge_0012 at Mon Dec  2 21:50:11 UTC 2019
+Successfully downloaded challenge_0012 at Mon Dec  2 22:07:43 UTC 2019
+
+Validation of challenge 12 begun at Mon Dec  2 22:07:43 UTC 2019
+Extracted expected hash of challenge 12:
+f36bf3037f19f750dc8edb45305220484090acb512e96c50149618fa007d3b8fd9103148f6d5c5d262449ca1b332b43cf8d6afb271bf2a1124bcf4b2143f0477
+Computed actual hash of challenge 12:
+f36bf3037f19f750dc8edb45305220484090acb512e96c50149618fa007d3b8fd9103148f6d5c5d262449ca1b332b43cf8d6afb271bf2a1124bcf4b2143f0477
+Validated challenge 12 is consistent at Mon Dec  2 22:26:41 UTC 2019
+
+--------------------------------------------------
+ROUND 12
+Round start time: Mon Dec  2 22:26:41 UTC 2019
+
+Attempting to download response_0012_daniel at Mon Dec  2 22:26:41 UTC 2019
+Successfully downloaded response_0012_daniel at Mon Dec  2 22:35:30 UTC 2019
+
+Validation of response 12 begun at Mon Dec  2 22:35:30 UTC 2019
+Will verify and decompress a contribution to accumulator for 2^28 powers of tau
+Calculating previous challenge hash...
+Hash of the `challenge` file for verification:
+	f36bf303 7f19f750 dc8edb45 30522048 
+	4090acb5 12e96c50 149618fa 007d3b8f 
+	d9103148 f6d5c5d2 62449ca1 b332b43c 
+	f8d6afb2 71bf2a11 24bcf4b2 143f0477 
+`response` was based on the hash:
+	f36bf303 7f19f750 dc8edb45 30522048 
+	4090acb5 12e96c50 149618fa 007d3b8f 
+	d9103148 f6d5c5d2 62449ca1 b332b43c 
+	f8d6afb2 71bf2a11 24bcf4b2 143f0477 
+Hash of the `response` file for verification:
+	e38344af 2ccbb361 e5afe696 1a71a66b 
+	1a5f319f ce49143d 2218509b 59cc5d44 
+	04f3315f 3bde6a3c a556f3f4 9cc30578 
+	0b958f8c 65a0727b 0da32273 3bf8cde4 
+Verifying a contribution to contain proper powers and correspond to the public key...
+Done processing 2097151 powers of tau
+Done processing 4194303 powers of tau
+Done processing 6291455 powers of tau
+Done processing 8388607 powers of tau
+Done processing 10485759 powers of tau
+Done processing 12582911 powers of tau
+Done processing 14680063 powers of tau
+Done processing 16777215 powers of tau
+Done processing 18874367 powers of tau
+Done processing 20971519 powers of tau
+Done processing 23068671 powers of tau
+Done processing 25165823 powers of tau
+Done processing 27262975 powers of tau
+Done processing 29360127 powers of tau
+Done processing 31457279 powers of tau
+Done processing 33554431 powers of tau
+Done processing 35651583 powers of tau
+Done processing 37748735 powers of tau
+Done processing 39845887 powers of tau
+Done processing 41943039 powers of tau
+Done processing 44040191 powers of tau
+Done processing 46137343 powers of tau
+Done processing 48234495 powers of tau
+Done processing 50331647 powers of tau
+Done processing 52428799 powers of tau
+Done processing 54525951 powers of tau
+Done processing 56623103 powers of tau
+Done processing 58720255 powers of tau
+Done processing 60817407 powers of tau
+Done processing 62914559 powers of tau
+Done processing 65011711 powers of tau
+Done processing 67108863 powers of tau
+Done processing 69206015 powers of tau
+Done processing 71303167 powers of tau
+Done processing 73400319 powers of tau
+Done processing 75497471 powers of tau
+Done processing 77594623 powers of tau
+Done processing 79691775 powers of tau
+Done processing 81788927 powers of tau
+Done processing 83886079 powers of tau
+Done processing 85983231 powers of tau
+Done processing 88080383 powers of tau
+Done processing 90177535 powers of tau
+Done processing 92274687 powers of tau
+Done processing 94371839 powers of tau
+Done processing 96468991 powers of tau
+Done processing 98566143 powers of tau
+Done processing 100663295 powers of tau
+Done processing 102760447 powers of tau
+Done processing 104857599 powers of tau
+Done processing 106954751 powers of tau
+Done processing 109051903 powers of tau
+Done processing 111149055 powers of tau
+Done processing 113246207 powers of tau
+Done processing 115343359 powers of tau
+Done processing 117440511 powers of tau
+Done processing 119537663 powers of tau
+Done processing 121634815 powers of tau
+Done processing 123731967 powers of tau
+Done processing 125829119 powers of tau
+Done processing 127926271 powers of tau
+Done processing 130023423 powers of tau
+Done processing 132120575 powers of tau
+Done processing 134217727 powers of tau
+Done processing 136314879 powers of tau
+Done processing 138412031 powers of tau
+Done processing 140509183 powers of tau
+Done processing 142606335 powers of tau
+Done processing 144703487 powers of tau
+Done processing 146800639 powers of tau
+Done processing 148897791 powers of tau
+Done processing 150994943 powers of tau
+Done processing 153092095 powers of tau
+Done processing 155189247 powers of tau
+Done processing 157286399 powers of tau
+Done processing 159383551 powers of tau
+Done processing 161480703 powers of tau
+Done processing 163577855 powers of tau
+Done processing 165675007 powers of tau
+Done processing 167772159 powers of tau
+Done processing 169869311 powers of tau
+Done processing 171966463 powers of tau
+Done processing 174063615 powers of tau
+Done processing 176160767 powers of tau
+Done processing 178257919 powers of tau
+Done processing 180355071 powers of tau
+Done processing 182452223 powers of tau
+Done processing 184549375 powers of tau
+Done processing 186646527 powers of tau
+Done processing 188743679 powers of tau
+Done processing 190840831 powers of tau
+Done processing 192937983 powers of tau
+Done processing 195035135 powers of tau
+Done processing 197132287 powers of tau
+Done processing 199229439 powers of tau
+Done processing 201326591 powers of tau
+Done processing 203423743 powers of tau
+Done processing 205520895 powers of tau
+Done processing 207618047 powers of tau
+Done processing 209715199 powers of tau
+Done processing 211812351 powers of tau
+Done processing 213909503 powers of tau
+Done processing 216006655 powers of tau
+Done processing 218103807 powers of tau
+Done processing 220200959 powers of tau
+Done processing 222298111 powers of tau
+Done processing 224395263 powers of tau
+Done processing 226492415 powers of tau
+Done processing 228589567 powers of tau
+Done processing 230686719 powers of tau
+Done processing 232783871 powers of tau
+Done processing 234881023 powers of tau
+Done processing 236978175 powers of tau
+Done processing 239075327 powers of tau
+Done processing 241172479 powers of tau
+Done processing 243269631 powers of tau
+Done processing 245366783 powers of tau
+Done processing 247463935 powers of tau
+Done processing 249561087 powers of tau
+Done processing 251658239 powers of tau
+Done processing 253755391 powers of tau
+Done processing 255852543 powers of tau
+Done processing 257949695 powers of tau
+Done processing 260046847 powers of tau
+Done processing 262143999 powers of tau
+Done processing 264241151 powers of tau
+Done processing 266338303 powers of tau
+Done processing 268435455 powers of tau
+Done processing 270532607 powers of tau
+Done processing 272629759 powers of tau
+Done processing 274726911 powers of tau
+Done processing 276824063 powers of tau
+Done processing 278921215 powers of tau
+Done processing 281018367 powers of tau
+Done processing 283115519 powers of tau
+Done processing 285212671 powers of tau
+Done processing 287309823 powers of tau
+Done processing 289406975 powers of tau
+Done processing 291504127 powers of tau
+Done processing 293601279 powers of tau
+Done processing 295698431 powers of tau
+Done processing 297795583 powers of tau
+Done processing 299892735 powers of tau
+Done processing 301989887 powers of tau
+Done processing 304087039 powers of tau
+Done processing 306184191 powers of tau
+Done processing 308281343 powers of tau
+Done processing 310378495 powers of tau
+Done processing 312475647 powers of tau
+Done processing 314572799 powers of tau
+Done processing 316669951 powers of tau
+Done processing 318767103 powers of tau
+Done processing 320864255 powers of tau
+Done processing 322961407 powers of tau
+Done processing 325058559 powers of tau
+Done processing 327155711 powers of tau
+Done processing 329252863 powers of tau
+Done processing 331350015 powers of tau
+Done processing 333447167 powers of tau
+Done processing 335544319 powers of tau
+Done processing 337641471 powers of tau
+Done processing 339738623 powers of tau
+Done processing 341835775 powers of tau
+Done processing 343932927 powers of tau
+Done processing 346030079 powers of tau
+Done processing 348127231 powers of tau
+Done processing 350224383 powers of tau
+Done processing 352321535 powers of tau
+Done processing 354418687 powers of tau
+Done processing 356515839 powers of tau
+Done processing 358612991 powers of tau
+Done processing 360710143 powers of tau
+Done processing 362807295 powers of tau
+Done processing 364904447 powers of tau
+Done processing 367001599 powers of tau
+Done processing 369098751 powers of tau
+Done processing 371195903 powers of tau
+Done processing 373293055 powers of tau
+Done processing 375390207 powers of tau
+Done processing 377487359 powers of tau
+Done processing 379584511 powers of tau
+Done processing 381681663 powers of tau
+Done processing 383778815 powers of tau
+Done processing 385875967 powers of tau
+Done processing 387973119 powers of tau
+Done processing 390070271 powers of tau
+Done processing 392167423 powers of tau
+Done processing 394264575 powers of tau
+Done processing 396361727 powers of tau
+Done processing 398458879 powers of tau
+Done processing 400556031 powers of tau
+Done processing 402653183 powers of tau
+Done processing 404750335 powers of tau
+Done processing 406847487 powers of tau
+Done processing 408944639 powers of tau
+Done processing 411041791 powers of tau
+Done processing 413138943 powers of tau
+Done processing 415236095 powers of tau
+Done processing 417333247 powers of tau
+Done processing 419430399 powers of tau
+Done processing 421527551 powers of tau
+Done processing 423624703 powers of tau
+Done processing 425721855 powers of tau
+Done processing 427819007 powers of tau
+Done processing 429916159 powers of tau
+Done processing 432013311 powers of tau
+Done processing 434110463 powers of tau
+Done processing 436207615 powers of tau
+Done processing 438304767 powers of tau
+Done processing 440401919 powers of tau
+Done processing 442499071 powers of tau
+Done processing 444596223 powers of tau
+Done processing 446693375 powers of tau
+Done processing 448790527 powers of tau
+Done processing 450887679 powers of tau
+Done processing 452984831 powers of tau
+Done processing 455081983 powers of tau
+Done processing 457179135 powers of tau
+Done processing 459276287 powers of tau
+Done processing 461373439 powers of tau
+Done processing 463470591 powers of tau
+Done processing 465567743 powers of tau
+Done processing 467664895 powers of tau
+Done processing 469762047 powers of tau
+Done processing 471859199 powers of tau
+Done processing 473956351 powers of tau
+Done processing 476053503 powers of tau
+Done processing 478150655 powers of tau
+Done processing 480247807 powers of tau
+Done processing 482344959 powers of tau
+Done processing 484442111 powers of tau
+Done processing 486539263 powers of tau
+Done processing 488636415 powers of tau
+Done processing 490733567 powers of tau
+Done processing 492830719 powers of tau
+Done processing 494927871 powers of tau
+Done processing 497025023 powers of tau
+Done processing 499122175 powers of tau
+Done processing 501219327 powers of tau
+Done processing 503316479 powers of tau
+Done processing 505413631 powers of tau
+Done processing 507510783 powers of tau
+Done processing 509607935 powers of tau
+Done processing 511705087 powers of tau
+Done processing 513802239 powers of tau
+Done processing 515899391 powers of tau
+Done processing 517996543 powers of tau
+Done processing 520093695 powers of tau
+Done processing 522190847 powers of tau
+Done processing 524287999 powers of tau
+Done processing 526385151 powers of tau
+Done processing 528482303 powers of tau
+Done processing 530579455 powers of tau
+Done processing 532676607 powers of tau
+Done processing 534773759 powers of tau
+Done processing 536870910 powers of tau
+Verification succeeded!
+Verification succeeded! Writing to `./new_challenge`...
+Here's the BLAKE2b hash of the decompressed participant's response as `new_challenge` file:
+	e83607eb 942b3ac1 394dfb2a 36b465a0 
+	3bcea042 a8bceafe 16daa05d 7dc143dd 
+	d9c3e807 7490083b be2839ad 8be6bbdd 
+	f1e90896 d14eab37 0ea33fd0 c0d3c11e 
+Done! `./new_challenge` contains the new challenge file. The other files
+were left alone.
+Validated response 12 is consistent at Tue Dec  3 13:25:15 UTC 2019
+
+Attempting to download challenge_0013 at Tue Dec  3 13:25:15 UTC 2019
+Successfully downloaded challenge_0013 at Tue Dec  3 13:42:48 UTC 2019
+
+Validation of challenge 13 begun at Tue Dec  3 13:42:48 UTC 2019
+Extracted expected hash of challenge 13:
+e83607eb942b3ac1394dfb2a36b465a03bcea042a8bceafe16daa05d7dc143ddd9c3e8077490083bbe2839ad8be6bbddf1e90896d14eab370ea33fd0c0d3c11e
+Computed actual hash of challenge 13:
+e83607eb942b3ac1394dfb2a36b465a03bcea042a8bceafe16daa05d7dc143ddd9c3e8077490083bbe2839ad8be6bbddf1e90896d14eab370ea33fd0c0d3c11e
+Validated challenge 13 is consistent at Tue Dec  3 14:01:00 UTC 2019
+
+--------------------------------------------------
+ROUND 13
+Round start time: Tue Dec  3 14:01:00 UTC 2019
+
+Attempting to download response_0013_kevin at Tue Dec  3 14:01:00 UTC 2019
+Successfully downloaded response_0013_kevin at Tue Dec  3 14:09:42 UTC 2019
+
+Validation of response 13 begun at Tue Dec  3 14:09:42 UTC 2019
+Will verify and decompress a contribution to accumulator for 2^28 powers of tau
+Calculating previous challenge hash...
+Hash of the `challenge` file for verification:
+	e83607eb 942b3ac1 394dfb2a 36b465a0 
+	3bcea042 a8bceafe 16daa05d 7dc143dd 
+	d9c3e807 7490083b be2839ad 8be6bbdd 
+	f1e90896 d14eab37 0ea33fd0 c0d3c11e 
+`response` was based on the hash:
+	e83607eb 942b3ac1 394dfb2a 36b465a0 
+	3bcea042 a8bceafe 16daa05d 7dc143dd 
+	d9c3e807 7490083b be2839ad 8be6bbdd 
+	f1e90896 d14eab37 0ea33fd0 c0d3c11e 
+Hash of the `response` file for verification:
+	c22a8a27 15feadad 42217518 ecca2788 
+	fb771d57 8aa1f8e0 cef98ef5 7e6565b8 
+	bf5ab833 298417de 5cddff07 520231b2 
+	54ddc9c2 72817bf2 aae0d4ec 584500dc 
+Verifying a contribution to contain proper powers and correspond to the public key...
+Done processing 2097151 powers of tau
+Done processing 4194303 powers of tau
+Done processing 6291455 powers of tau
+Done processing 8388607 powers of tau
+Done processing 10485759 powers of tau
+Done processing 12582911 powers of tau
+Done processing 14680063 powers of tau
+Done processing 16777215 powers of tau
+Done processing 18874367 powers of tau
+Done processing 20971519 powers of tau
+Done processing 23068671 powers of tau
+Done processing 25165823 powers of tau
+Done processing 27262975 powers of tau
+Done processing 29360127 powers of tau
+Done processing 31457279 powers of tau
+Done processing 33554431 powers of tau
+Done processing 35651583 powers of tau
+Done processing 37748735 powers of tau
+Done processing 39845887 powers of tau
+Done processing 41943039 powers of tau
+Done processing 44040191 powers of tau
+Done processing 46137343 powers of tau
+Done processing 48234495 powers of tau
+Done processing 50331647 powers of tau
+Done processing 52428799 powers of tau
+Done processing 54525951 powers of tau
+Done processing 56623103 powers of tau
+Done processing 58720255 powers of tau
+Done processing 60817407 powers of tau
+Done processing 62914559 powers of tau
+Done processing 65011711 powers of tau
+Done processing 67108863 powers of tau
+Done processing 69206015 powers of tau
+Done processing 71303167 powers of tau
+Done processing 73400319 powers of tau
+Done processing 75497471 powers of tau
+Done processing 77594623 powers of tau
+Done processing 79691775 powers of tau
+Done processing 81788927 powers of tau
+Done processing 83886079 powers of tau
+Done processing 85983231 powers of tau
+Done processing 88080383 powers of tau
+Done processing 90177535 powers of tau
+Done processing 92274687 powers of tau
+Done processing 94371839 powers of tau
+Done processing 96468991 powers of tau
+Done processing 98566143 powers of tau
+Done processing 100663295 powers of tau
+Done processing 102760447 powers of tau
+Done processing 104857599 powers of tau
+Done processing 106954751 powers of tau
+Done processing 109051903 powers of tau
+Done processing 111149055 powers of tau
+Done processing 113246207 powers of tau
+Done processing 115343359 powers of tau
+Done processing 117440511 powers of tau
+Done processing 119537663 powers of tau
+Done processing 121634815 powers of tau
+Done processing 123731967 powers of tau
+Done processing 125829119 powers of tau
+Done processing 127926271 powers of tau
+Done processing 130023423 powers of tau
+Done processing 132120575 powers of tau
+Done processing 134217727 powers of tau
+Done processing 136314879 powers of tau
+Done processing 138412031 powers of tau
+Done processing 140509183 powers of tau
+Done processing 142606335 powers of tau
+Done processing 144703487 powers of tau
+Done processing 146800639 powers of tau
+Done processing 148897791 powers of tau
+Done processing 150994943 powers of tau
+Done processing 153092095 powers of tau
+Done processing 155189247 powers of tau
+Done processing 157286399 powers of tau
+Done processing 159383551 powers of tau
+Done processing 161480703 powers of tau
+Done processing 163577855 powers of tau
+Done processing 165675007 powers of tau
+Done processing 167772159 powers of tau
+Done processing 169869311 powers of tau
+Done processing 171966463 powers of tau
+Done processing 174063615 powers of tau
+Done processing 176160767 powers of tau
+Done processing 178257919 powers of tau
+Done processing 180355071 powers of tau
+Done processing 182452223 powers of tau
+Done processing 184549375 powers of tau
+Done processing 186646527 powers of tau
+Done processing 188743679 powers of tau
+Done processing 190840831 powers of tau
+Done processing 192937983 powers of tau
+Done processing 195035135 powers of tau
+Done processing 197132287 powers of tau
+Done processing 199229439 powers of tau
+Done processing 201326591 powers of tau
+Done processing 203423743 powers of tau
+Done processing 205520895 powers of tau
+Done processing 207618047 powers of tau
+Done processing 209715199 powers of tau
+Done processing 211812351 powers of tau
+Done processing 213909503 powers of tau
+Done processing 216006655 powers of tau
+Done processing 218103807 powers of tau
+Done processing 220200959 powers of tau
+Done processing 222298111 powers of tau
+Done processing 224395263 powers of tau
+Done processing 226492415 powers of tau
+Done processing 228589567 powers of tau
+Done processing 230686719 powers of tau
+Done processing 232783871 powers of tau
+Done processing 234881023 powers of tau
+Done processing 236978175 powers of tau
+Done processing 239075327 powers of tau
+Done processing 241172479 powers of tau
+Done processing 243269631 powers of tau
+Done processing 245366783 powers of tau
+Done processing 247463935 powers of tau
+Done processing 249561087 powers of tau
+Done processing 251658239 powers of tau
+Done processing 253755391 powers of tau
+Done processing 255852543 powers of tau
+Done processing 257949695 powers of tau
+Done processing 260046847 powers of tau
+Done processing 262143999 powers of tau
+Done processing 264241151 powers of tau
+Done processing 266338303 powers of tau
+Done processing 268435455 powers of tau
+Done processing 270532607 powers of tau
+Done processing 272629759 powers of tau
+Done processing 274726911 powers of tau
+Done processing 276824063 powers of tau
+Done processing 278921215 powers of tau
+Done processing 281018367 powers of tau
+Done processing 283115519 powers of tau
+Done processing 285212671 powers of tau
+Done processing 287309823 powers of tau
+Done processing 289406975 powers of tau
+Done processing 291504127 powers of tau
+Done processing 293601279 powers of tau
+Done processing 295698431 powers of tau
+Done processing 297795583 powers of tau
+Done processing 299892735 powers of tau
+Done processing 301989887 powers of tau
+Done processing 304087039 powers of tau
+Done processing 306184191 powers of tau
+Done processing 308281343 powers of tau
+Done processing 310378495 powers of tau
+Done processing 312475647 powers of tau
+Done processing 314572799 powers of tau
+Done processing 316669951 powers of tau
+Done processing 318767103 powers of tau
+Done processing 320864255 powers of tau
+Done processing 322961407 powers of tau
+Done processing 325058559 powers of tau
+Done processing 327155711 powers of tau
+Done processing 329252863 powers of tau
+Done processing 331350015 powers of tau
+Done processing 333447167 powers of tau
+Done processing 335544319 powers of tau
+Done processing 337641471 powers of tau
+Done processing 339738623 powers of tau
+Done processing 341835775 powers of tau
+Done processing 343932927 powers of tau
+Done processing 346030079 powers of tau
+Done processing 348127231 powers of tau
+Done processing 350224383 powers of tau
+Done processing 352321535 powers of tau
+Done processing 354418687 powers of tau
+Done processing 356515839 powers of tau
+Done processing 358612991 powers of tau
+Done processing 360710143 powers of tau
+Done processing 362807295 powers of tau
+Done processing 364904447 powers of tau
+Done processing 367001599 powers of tau
+Done processing 369098751 powers of tau
+Done processing 371195903 powers of tau
+Done processing 373293055 powers of tau
+Done processing 375390207 powers of tau
+Done processing 377487359 powers of tau
+Done processing 379584511 powers of tau
+Done processing 381681663 powers of tau
+Done processing 383778815 powers of tau
+Done processing 385875967 powers of tau
+Done processing 387973119 powers of tau
+Done processing 390070271 powers of tau
+Done processing 392167423 powers of tau
+Done processing 394264575 powers of tau
+Done processing 396361727 powers of tau
+Done processing 398458879 powers of tau
+Done processing 400556031 powers of tau
+Done processing 402653183 powers of tau
+Done processing 404750335 powers of tau
+Done processing 406847487 powers of tau
+Done processing 408944639 powers of tau
+Done processing 411041791 powers of tau
+Done processing 413138943 powers of tau
+Done processing 415236095 powers of tau
+Done processing 417333247 powers of tau
+Done processing 419430399 powers of tau
+Done processing 421527551 powers of tau
+Done processing 423624703 powers of tau
+Done processing 425721855 powers of tau
+Done processing 427819007 powers of tau
+Done processing 429916159 powers of tau
+Done processing 432013311 powers of tau
+Done processing 434110463 powers of tau
+Done processing 436207615 powers of tau
+Done processing 438304767 powers of tau
+Done processing 440401919 powers of tau
+Done processing 442499071 powers of tau
+Done processing 444596223 powers of tau
+Done processing 446693375 powers of tau
+Done processing 448790527 powers of tau
+Done processing 450887679 powers of tau
+Done processing 452984831 powers of tau
+Done processing 455081983 powers of tau
+Done processing 457179135 powers of tau
+Done processing 459276287 powers of tau
+Done processing 461373439 powers of tau
+Done processing 463470591 powers of tau
+Done processing 465567743 powers of tau
+Done processing 467664895 powers of tau
+Done processing 469762047 powers of tau
+Done processing 471859199 powers of tau
+Done processing 473956351 powers of tau
+Done processing 476053503 powers of tau
+Done processing 478150655 powers of tau
+Done processing 480247807 powers of tau
+Done processing 482344959 powers of tau
+Done processing 484442111 powers of tau
+Done processing 486539263 powers of tau
+Done processing 488636415 powers of tau
+Done processing 490733567 powers of tau
+Done processing 492830719 powers of tau
+Done processing 494927871 powers of tau
+Done processing 497025023 powers of tau
+Done processing 499122175 powers of tau
+Done processing 501219327 powers of tau
+Done processing 503316479 powers of tau
+Done processing 505413631 powers of tau
+Done processing 507510783 powers of tau
+Done processing 509607935 powers of tau
+Done processing 511705087 powers of tau
+Done processing 513802239 powers of tau
+Done processing 515899391 powers of tau
+Done processing 517996543 powers of tau
+Done processing 520093695 powers of tau
+Done processing 522190847 powers of tau
+Done processing 524287999 powers of tau
+Done processing 526385151 powers of tau
+Done processing 528482303 powers of tau
+Done processing 530579455 powers of tau
+Done processing 532676607 powers of tau
+Done processing 534773759 powers of tau
+Done processing 536870910 powers of tau
+Verification succeeded!
+Verification succeeded! Writing to `./new_challenge`...
+Here's the BLAKE2b hash of the decompressed participant's response as `new_challenge` file:
+	a85053ff 17c3c395 e4c6ede7 4fe7df4d 
+	85e64700 bff1a066 c429a515 db5fbbb4 
+	04958b99 9304c2ae b8b537d3 55a38651 
+	9fb531f7 34e8bd17 eeb7c85c aab3501e 
+Done! `./new_challenge` contains the new challenge file. The other files
+were left alone.
+Validated response 13 is consistent at Wed Dec  4 05:06:39 UTC 2019
+
+Attempting to download challenge_0014 at Wed Dec  4 05:06:39 UTC 2019
+Attempting to download challenge_0014 at Wed Dec  4 05:11:42 UTC 2019
+Attempting to download challenge_0014 at Wed Dec  4 05:20:12 UTC 2019
+Successfully downloaded challenge_0014 at Wed Dec  4 05:24:17 UTC 2019
+
+Validation of challenge 14 begun at Wed Dec  4 05:24:17 UTC 2019
+Extracted expected hash of challenge 14:
+a85053ff17c3c395e4c6ede74fe7df4d85e64700bff1a066c429a515db5fbbb404958b999304c2aeb8b537d355a386519fb531f734e8bd17eeb7c85caab3501e
+Computed actual hash of challenge 14:
+a85053ff17c3c395e4c6ede74fe7df4d85e64700bff1a066c429a515db5fbbb404958b999304c2aeb8b537d355a386519fb531f734e8bd17eeb7c85caab3501e
+Validated challenge 14 is consistent at Wed Dec  4 05:42:13 UTC 2019
+
+--------------------------------------------------
+ROUND 14
+Round start time: Wed Dec  4 05:42:13 UTC 2019
+
+Attempting to download response_0014_weijie at Wed Dec  4 05:42:13 UTC 2019
+Successfully downloaded response_0014_weijie at Wed Dec  4 05:51:02 UTC 2019
+
+Validation of response 14 begun at Wed Dec  4 05:51:02 UTC 2019
+Will verify and decompress a contribution to accumulator for 2^28 powers of tau
+Calculating previous challenge hash...
+Hash of the `challenge` file for verification:
+	a85053ff 17c3c395 e4c6ede7 4fe7df4d 
+	85e64700 bff1a066 c429a515 db5fbbb4 
+	04958b99 9304c2ae b8b537d3 55a38651 
+	9fb531f7 34e8bd17 eeb7c85c aab3501e 
+`response` was based on the hash:
+	a85053ff 17c3c395 e4c6ede7 4fe7df4d 
+	85e64700 bff1a066 c429a515 db5fbbb4 
+	04958b99 9304c2ae b8b537d3 55a38651 
+	9fb531f7 34e8bd17 eeb7c85c aab3501e 
+Hash of the `response` file for verification:
+	1fb91ad1 54ef9d58 b03f7cc8 9ada45ed 
+	94b7a3a9 748c8f08 a6f2655f fd31483e 
+	6b012d28 e47544cb 50e8c8fe 1f3cc72e 
+	1305b7ad bdc49b80 68876d19 4b5d0a60 
+Verifying a contribution to contain proper powers and correspond to the public key...
+Done processing 2097151 powers of tau
+Done processing 4194303 powers of tau
+Done processing 6291455 powers of tau
+Done processing 8388607 powers of tau
+Done processing 10485759 powers of tau
+Done processing 12582911 powers of tau
+Done processing 14680063 powers of tau
+Done processing 16777215 powers of tau
+Done processing 18874367 powers of tau
+Done processing 20971519 powers of tau
+Done processing 23068671 powers of tau
+Done processing 25165823 powers of tau
+Done processing 27262975 powers of tau
+Done processing 29360127 powers of tau
+Done processing 31457279 powers of tau
+Done processing 33554431 powers of tau
+Done processing 35651583 powers of tau
+Done processing 37748735 powers of tau
+Done processing 39845887 powers of tau
+Done processing 41943039 powers of tau
+Done processing 44040191 powers of tau
+Done processing 46137343 powers of tau
+Done processing 48234495 powers of tau
+Done processing 50331647 powers of tau
+Done processing 52428799 powers of tau
+Done processing 54525951 powers of tau
+Done processing 56623103 powers of tau
+Done processing 58720255 powers of tau
+Done processing 60817407 powers of tau
+Done processing 62914559 powers of tau
+Done processing 65011711 powers of tau
+Done processing 67108863 powers of tau
+Done processing 69206015 powers of tau
+Done processing 71303167 powers of tau
+Done processing 73400319 powers of tau
+Done processing 75497471 powers of tau
+Done processing 77594623 powers of tau
+Done processing 79691775 powers of tau
+Done processing 81788927 powers of tau
+Done processing 83886079 powers of tau
+Done processing 85983231 powers of tau
+Done processing 88080383 powers of tau
+Done processing 90177535 powers of tau
+Done processing 92274687 powers of tau
+Done processing 94371839 powers of tau
+Done processing 96468991 powers of tau
+Done processing 98566143 powers of tau
+Done processing 100663295 powers of tau
+Done processing 102760447 powers of tau
+Done processing 104857599 powers of tau
+Done processing 106954751 powers of tau
+Done processing 109051903 powers of tau
+Done processing 111149055 powers of tau
+Done processing 113246207 powers of tau
+Done processing 115343359 powers of tau
+Done processing 117440511 powers of tau
+Done processing 119537663 powers of tau
+Done processing 121634815 powers of tau
+Done processing 123731967 powers of tau
+Done processing 125829119 powers of tau
+Done processing 127926271 powers of tau
+Done processing 130023423 powers of tau
+Done processing 132120575 powers of tau
+Done processing 134217727 powers of tau
+Done processing 136314879 powers of tau
+Done processing 138412031 powers of tau
+Done processing 140509183 powers of tau
+Done processing 142606335 powers of tau
+Done processing 144703487 powers of tau
+Done processing 146800639 powers of tau
+Done processing 148897791 powers of tau
+Done processing 150994943 powers of tau
+Done processing 153092095 powers of tau
+Done processing 155189247 powers of tau
+Done processing 157286399 powers of tau
+Done processing 159383551 powers of tau
+Done processing 161480703 powers of tau
+Done processing 163577855 powers of tau
+Done processing 165675007 powers of tau
+Done processing 167772159 powers of tau
+Done processing 169869311 powers of tau
+Done processing 171966463 powers of tau
+Done processing 174063615 powers of tau
+Done processing 176160767 powers of tau
+Done processing 178257919 powers of tau
+Done processing 180355071 powers of tau
+Done processing 182452223 powers of tau
+Done processing 184549375 powers of tau
+Done processing 186646527 powers of tau
+Done processing 188743679 powers of tau
+Done processing 190840831 powers of tau
+Done processing 192937983 powers of tau
+Done processing 195035135 powers of tau
+Done processing 197132287 powers of tau
+Done processing 199229439 powers of tau
+Done processing 201326591 powers of tau
+Done processing 203423743 powers of tau
+Done processing 205520895 powers of tau
+Done processing 207618047 powers of tau
+Done processing 209715199 powers of tau
+Done processing 211812351 powers of tau
+Done processing 213909503 powers of tau
+Done processing 216006655 powers of tau
+Done processing 218103807 powers of tau
+Done processing 220200959 powers of tau
+Done processing 222298111 powers of tau
+Done processing 224395263 powers of tau
+Done processing 226492415 powers of tau
+Done processing 228589567 powers of tau
+Done processing 230686719 powers of tau
+Done processing 232783871 powers of tau
+Done processing 234881023 powers of tau
+Done processing 236978175 powers of tau
+Done processing 239075327 powers of tau
+Done processing 241172479 powers of tau
+Done processing 243269631 powers of tau
+Done processing 245366783 powers of tau
+Done processing 247463935 powers of tau
+Done processing 249561087 powers of tau
+Done processing 251658239 powers of tau
+Done processing 253755391 powers of tau
+Done processing 255852543 powers of tau
+Done processing 257949695 powers of tau
+Done processing 260046847 powers of tau
+Done processing 262143999 powers of tau
+Done processing 264241151 powers of tau
+Done processing 266338303 powers of tau
+Done processing 268435455 powers of tau
+Done processing 270532607 powers of tau
+Done processing 272629759 powers of tau
+Done processing 274726911 powers of tau
+Done processing 276824063 powers of tau
+Done processing 278921215 powers of tau
+Done processing 281018367 powers of tau
+Done processing 283115519 powers of tau
+Done processing 285212671 powers of tau
+Done processing 287309823 powers of tau
+Done processing 289406975 powers of tau
+Done processing 291504127 powers of tau
+Done processing 293601279 powers of tau
+Done processing 295698431 powers of tau
+Done processing 297795583 powers of tau
+Done processing 299892735 powers of tau
+Done processing 301989887 powers of tau
+Done processing 304087039 powers of tau
+Done processing 306184191 powers of tau
+Done processing 308281343 powers of tau
+Done processing 310378495 powers of tau
+Done processing 312475647 powers of tau
+Done processing 314572799 powers of tau
+Done processing 316669951 powers of tau
+Done processing 318767103 powers of tau
+Done processing 320864255 powers of tau
+Done processing 322961407 powers of tau
+Done processing 325058559 powers of tau
+Done processing 327155711 powers of tau
+Done processing 329252863 powers of tau
+Done processing 331350015 powers of tau
+Done processing 333447167 powers of tau
+Done processing 335544319 powers of tau
+Done processing 337641471 powers of tau
+Done processing 339738623 powers of tau
+Done processing 341835775 powers of tau
+Done processing 343932927 powers of tau
+Done processing 346030079 powers of tau
+Done processing 348127231 powers of tau
+Done processing 350224383 powers of tau
+Done processing 352321535 powers of tau
+Done processing 354418687 powers of tau
+Done processing 356515839 powers of tau
+Done processing 358612991 powers of tau
+Done processing 360710143 powers of tau
+Done processing 362807295 powers of tau
+Done processing 364904447 powers of tau
+Done processing 367001599 powers of tau
+Done processing 369098751 powers of tau
+Done processing 371195903 powers of tau
+Done processing 373293055 powers of tau
+Done processing 375390207 powers of tau
+Done processing 377487359 powers of tau
+Done processing 379584511 powers of tau
+Done processing 381681663 powers of tau
+Done processing 383778815 powers of tau
+Done processing 385875967 powers of tau
+Done processing 387973119 powers of tau
+Done processing 390070271 powers of tau
+Done processing 392167423 powers of tau
+Done processing 394264575 powers of tau
+Done processing 396361727 powers of tau
+Done processing 398458879 powers of tau
+Done processing 400556031 powers of tau
+Done processing 402653183 powers of tau
+Done processing 404750335 powers of tau
+Done processing 406847487 powers of tau
+Done processing 408944639 powers of tau
+Done processing 411041791 powers of tau
+Done processing 413138943 powers of tau
+Done processing 415236095 powers of tau
+Done processing 417333247 powers of tau
+Done processing 419430399 powers of tau
+Done processing 421527551 powers of tau
+Done processing 423624703 powers of tau
+Done processing 425721855 powers of tau
+Done processing 427819007 powers of tau
+Done processing 429916159 powers of tau
+Done processing 432013311 powers of tau
+Done processing 434110463 powers of tau
+Done processing 436207615 powers of tau
+Done processing 438304767 powers of tau
+Done processing 440401919 powers of tau
+Done processing 442499071 powers of tau
+Done processing 444596223 powers of tau
+Done processing 446693375 powers of tau
+Done processing 448790527 powers of tau
+Done processing 450887679 powers of tau
+Done processing 452984831 powers of tau
+Done processing 455081983 powers of tau
+Done processing 457179135 powers of tau
+Done processing 459276287 powers of tau
+Done processing 461373439 powers of tau
+Done processing 463470591 powers of tau
+Done processing 465567743 powers of tau
+Done processing 467664895 powers of tau
+Done processing 469762047 powers of tau
+Done processing 471859199 powers of tau
+Done processing 473956351 powers of tau
+Done processing 476053503 powers of tau
+Done processing 478150655 powers of tau
+Done processing 480247807 powers of tau
+Done processing 482344959 powers of tau
+Done processing 484442111 powers of tau
+Done processing 486539263 powers of tau
+Done processing 488636415 powers of tau
+Done processing 490733567 powers of tau
+Done processing 492830719 powers of tau
+Done processing 494927871 powers of tau
+Done processing 497025023 powers of tau
+Done processing 499122175 powers of tau
+Done processing 501219327 powers of tau
+Done processing 503316479 powers of tau
+Done processing 505413631 powers of tau
+Done processing 507510783 powers of tau
+Done processing 509607935 powers of tau
+Done processing 511705087 powers of tau
+Done processing 513802239 powers of tau
+Done processing 515899391 powers of tau
+Done processing 517996543 powers of tau
+Done processing 520093695 powers of tau
+Done processing 522190847 powers of tau
+Done processing 524287999 powers of tau
+Done processing 526385151 powers of tau
+Done processing 528482303 powers of tau
+Done processing 530579455 powers of tau
+Done processing 532676607 powers of tau
+Done processing 534773759 powers of tau
+Done processing 536870910 powers of tau
+Verification succeeded!
+Verification succeeded! Writing to `./new_challenge`...
+Here's the BLAKE2b hash of the decompressed participant's response as `new_challenge` file:
+	ad1d6f7d 105fe751 56ae95ab 9c289094 
+	5aca0552 61902a80 eb6b5f7c 98996f80 
+	5575ba0d 05dfddc8 df75506c b22911a4 
+	182a852b 4ee4953d 25c37841 cee60084 
+Done! `./new_challenge` contains the new challenge file. The other files
+were left alone.
+Validated response 14 is consistent at Wed Dec  4 20:57:33 UTC 2019
+
+Attempting to download challenge_0015 at Wed Dec  4 20:57:33 UTC 2019
+Successfully downloaded challenge_0015 at Wed Dec  4 21:15:09 UTC 2019
+
+Validation of challenge 15 begun at Wed Dec  4 21:15:09 UTC 2019
+Extracted expected hash of challenge 15:
+ad1d6f7d105fe75156ae95ab9c2890945aca055261902a80eb6b5f7c98996f805575ba0d05dfddc8df75506cb22911a4182a852b4ee4953d25c37841cee60084
+Computed actual hash of challenge 15:
+ad1d6f7d105fe75156ae95ab9c2890945aca055261902a80eb6b5f7c98996f805575ba0d05dfddc8df75506cb22911a4182a852b4ee4953d25c37841cee60084
+Validated challenge 15 is consistent at Wed Dec  4 21:33:05 UTC 2019
