@@ -25,6 +25,7 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 | 0013 | Kevin Lackner | [Keybase](https://keybase.io/lackner) | [0013_kevin_response](./0013_kevin_response/README.md) |
 | 0014 | Koh Wei Jie | [Keybase](https://keybase.io/contactkohweijie) | [0014_weijie_response](./0014_weijie_response/README.md) |
 | 0015 | Anonymous Cryptographer | | [0015_anon0_response](./0015_anon0_response/README.md) |
+| 0016 | Aurélien Nicolas | [Keybase](https://keybase.io/naure) | [0016_qedit_response](./0016_qedit_response/README.md) |
 
 ## Transcript files
 
@@ -60,6 +61,7 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 | `QmYSGujwVYCUkQiktdadsC2Dr16EZGstXePhCzHBp6sqL2` | response_0013_kevin |
 | `QmTQ2jJS2rDnZrXXNKM3XcHfWvfJPQy4tAnfKhLThT95YL` | response_0014_weijie |
 | `Qme4NoJyfmVqFgUUUounmxtk7C35iXhTCCjroJc4AxrL5V` | response_0015_anon0 |
+| `QmaFR9E8sV4o8xijkUwXQdkjS9hHESKPXZ1CerMXTDvvFM` | response_0016_aurel |
 
 ## Procedure
 
