@@ -1,44 +1,3 @@
-Hash of the [`challenge`](https://ppot.blob.core.windows.net/public/challenge_0016) file for verification:
-
-```
-	1dcfa3a3 2135ab8d 1adca012 b01a4e63
-	42be7688 022183fb 0e28d1ac 762dcf3a
-	4bf2cf25 71f83624 c37cbaa5 30676bd8
-	0fa00411 c6e586e5 47a70d95 4085d4cd
-```
-
-`response` was based on the hash:
-
-```
-	1dcfa3a3 2135ab8d 1adca012 b01a4e63
-	42be7688 022183fb 0e28d1ac 762dcf3a
-	4bf2cf25 71f83624 c37cbaa5 30676bd8
-	0fa00411 c6e586e5 47a70d95 4085d4cd
-```
-
-Hash of the [`response`](https://ppot.blob.core.windows.net/public/response_0016_aurel) file for verification:
-
-```
-	93a88218 13e1ae6b 59485741 002013e9
-	94faa680 5ee25e17 4787fcc9 63a3ae08
-	b2a71e4c 9d5563e4 fb91335d d6f98396
-	aa0536c5 fc19fc54 fcf164ab 99307249
-```
-
-Blake2b hash of the `new_challenge` file for participant #17:
-
-```
-	af608b45 96865150 0c5b4f09 1ea38f34
-	fa7bee9b 75192c28 719e200d a483cc1d
-	e9db8db4 2c73de9e 92fb47ac 8a4554e8
-	e91044b1 a9d471ab b67b64fa 7eb9337d
-```
-
-The above `new_challenge` file: https://ppot.blob.core.windows.net/public/challenge_0017
-
-Aurel's signed attestation:
-
-```
 Attestation to response 0016
 ============================
 
@@ -105,4 +64,3 @@ Here's the BLAKE2b hash of the decompressed participant's response as `new_chall
 - I logged out/in, ran some ad-hoc memory filling script for good measure, and turned off the server.
 
 - Signed this file using keybase (`naure`), made a PR on github (`naure`).
-```
