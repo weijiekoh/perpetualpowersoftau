@@ -39,64 +39,20 @@ The above `new_challenge` file: https://ppot.blob.core.windows.net/public/challe
 Philip's signed attestation:
 
 ```
-# powersoftau2019
-powers of tau setup + run for 2019 ceremony
+Attestation to response 0017
+============================
 
+**Date:** 9th/10th December 2019
 
-```
-mkdir ~/ppot_challenge
+**Name:** Philip Stehlik @ Centrifuge
 
-cd ~/ppot_challenge
-# get the challenge file 
-axel https://ppoteu.blob.core.windows.net/public/challenge_0016
+**Location:** Berlin
 
-mv ~/ppot_challenge/challenge_0016 ~/ppot_challenge/challenge
+**Device(s):** Centrifuge owned server AMD Ryzen 9 3900X running ubuntu linux
 
-sudo docker run -v ~/ppot_challenge:/tmp/ppot_challenge --name powersoftau -d --rm pstehlik/ppot:latest tail -f /dev/null
-```
+**Challenge:**
 
-```
-sudo docker exec -it powersoftau bash
-
-cd /tmp/ppot_challenge
-
-sha256sum challenge
-
-/tmp/ppot_ceremony/powersoftau/target/release/compute_constrained
-
-```
-
-
-transcript
-```
-create docker image with powers of tau binary
-
-published to pstehlik/ppot:latest
-
-
-on physical server host machine
-mkdir ~/ppot_challenge
-
-cd ~/ppot_challenge
-# get the challenge file 
-axel https://ppoteu.blob.core.windows.net/public/challenge_0017
-
-mv ~/ppot_challenge/challenge_0017 ~/ppot_challenge/challenge
-
-sudo docker run -v ~/ppot_challenge:/tmp/ppot_challenge --name powersoftau -d --rm pstehlik/ppot:latest tail -f /dev/null
-
-# enter docker container to execute computation
-# docker does not have any networking enabled
-sudo docker exec -it powersoftau bash
-
-cd /tmp/ppot_challenge
-
-# shamanically invoke and initiate the entropy source with a mixture of images, sounds, keyboard strokes, and other randomness into /tmp/ppot_challenge/entropysource
-
-cat /tmp/ppot_challenge/entropysource | openssl base64 | /tmp/ppot_ceremony/powersoftau/target/release/compute_constrained
-
-#----
-Calculating previous contribution hash...
+```bash
 challenge file contains decompressed points and has a hash:
         af608b45 96865150 0c5b4f09 1ea38f34
         fa7bee9b 75192c28 719e200d a483cc1d
@@ -108,31 +64,40 @@ challenge file claims (!!! Must not be blindly trusted) that it was based on the
         b2a71e4c 9d5563e4 fb91335d d6f98396
         aa0536c5 fc19fc54 fcf164ab 99307249
 Computing and writing your contribution, this could take a while...
+```
 
-# [...]
+- URL:     https://ppoteu.blob.core.windows.net/public/challenge_0017
 
+**Software used:** https://github.com/kobigurk/phase2-bn254/commit/bf852c168676a7afc5dd17b47ff9b8f394aeab8a
 
+Compiled and deployed as docker image pstehlik/ppot:latest - https://hub.docker.com/r/pstehlik/ppot
+
+Built from dockerfile at https://github.com/pstehlik/powersoftau2019/blob/master/Dockerfile
+
+**Response:**
+```bash
 The BLAKE2b hash of `./response` is:
         eaf5d6d3 821690bb 16070bc4 fed04f9f
         aa652baf 9d959ad9 ae394bc1 d51d3beb
         84d0ffd9 66328257 4956f171 79fa5fea
         e5b6e77c 7eb509f1 925e1b92 ccb9d51a
-
-time needed
-real    189m46.413s
-user    4336m13.233s
-sys     3m0.201s
-
-exit
-
-# on physical server machine 
-pstehlik@server1:~/ppot_challenge$ sha256sum response 
-2d222937a2542e55a526343010ef0f9c145ffde795b2ead5878a5686b167b31f  response
-
-#----
-
 ```
 
-Will be signed with PGP Key BE3B DE7E F630 00CE
-https://keybase.io/pstehlik/sigchain#3c1e05327ff60809514a6627ac938da16e83af0cabb848995e497090784cd3480f
+**Entropy sources:** shamanically invoked and initiated entropy source with a mixture of images, sounds, keyboard strokes, and other randomness
+
+**Time taken:** 3 hours
+
+**Side channel defenses:** Server locked in server room with alarm system enabled. Specific user for running computation. Docker configured to disable network access.
+
+**Postprocessing:**
+
+- I uploaded the response to an SFTP server provided by Wei Jie Koh.
+
+- Docker container stopped. Machine rebooted.
+
+- Signed this file using PGP BE3B DE7E F630 00CE and made a PR on github (`pstehlik`)
+
+- Signature at https://github.com/pstehlik/powersoftau2019/blob/master/transcript.md.sig
+
+- Keybase verification of PGP key https://keybase.io/pstehlik/sigchain#3c1e05327ff60809514a6627ac938da16e83af0cabb848995e497090784cd3480f
 ```
