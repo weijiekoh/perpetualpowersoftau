@@ -24,6 +24,7 @@ Semaphore项目团队正在发起一个多方参与的可信配置第一阶段�
 | 0014 | Koh Wei Jie | [Keybase](https://keybase.io/contactkohweijie) | [0014_weijie_response](./0014_weijie_response/README.md) |
 | 0015 | Anonymous Cryptographer | | [0015_anon0_response](./0015_anon0_response/README.md) |
 | 0016 | Aurélien Nicolas | [Keybase](https://keybase.io/naure) | [0016_qedit_response](./0016_qedit_response/README.md) |
+| 0017 | Philip Stehlik | [Keybase](https://keybase.io/pstehlik) | [0017_philip_response](./0017_philip_response/README.md) |
 
 ## 流程
 
