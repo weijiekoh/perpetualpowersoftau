@@ -28,6 +28,7 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 | 0016 | Aurélien Nicolas | [Keybase](https://keybase.io/naure) | [0016_qedit_response](./0016_qedit_response/README.md) |
 | 0017 | Philip Stehlik | [Keybase](https://keybase.io/pstehlik) | [0017_philip_response](./0017_philip_response/README.md) |
 | 0018 | Cody & Jennifer Burns | [Keybase](https://keybase.io/dontpanic) | [0018_cody_response](./0018_cody_response/README.md) |
+| 0019 | Petr Korolev | [Keybase](https://keybase.io/skywinder) | [0019_petr_response](./0019_petr_response/README.md) |
 
 ## Transcript files
 
