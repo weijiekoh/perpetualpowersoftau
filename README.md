@@ -51,6 +51,7 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 | `Qmdq2k8TJcKmZbVStqfT95fPc9xc3hJFRd2szFMjYDj2ke` | challenge_0016 |
 | `Qma9EftTTUy3d1aARcDJVAbSckEPNi54zUaVaWpFSZmgQZ` | challenge_0017 |
 | `QmPBEnbatu5FLuM3jhNbDVTVe6UZsLC12E5f6Puwu9q5g6` | challenge_0018 |
+| `QmekMXZsfBi8DRebYXraSa6r8jSAVo6fBBJeLoirdR7j8N` | challenge_0020 |
 | `QmcdU9c71mTZGQnUGkkoXTrwtjyoTLPE2qp196VGCVgCuw` | response_0001_weijie |
 | `QmPE7QAVRAVdDMMMP9rMbNyhZ8jo9pkZUm5ycRgogsHVAD` | response_0002_kobi |
 | `QmUcPEstiXAFxYGKxCswXEgky69LvDrCLKamySrugW2Z4i` | response_0003_poma |
@@ -69,6 +70,7 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 | `QmaFR9E8sV4o8xijkUwXQdkjS9hHESKPXZ1CerMXTDvvFM` | response_0016_aurel |
 | `Qmba1LQXD7gPHzrmjzPpzhX7Xb2oT1k3JQVS9Rqj1taxfp` | response_0017_philip |
 | `QmQM5LnyiM4B78k6bA5c1MRDNscG19SBH66A5Txdc8BZ5u` | response_0018_cody |
+| `QmZpi6iwSRtBi4HcRAdUMXBVqQAD8RQqat2yz4xtzVDgry` | response_0019_petr |
 
 ## Procedure
 
