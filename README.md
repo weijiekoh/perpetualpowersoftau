@@ -29,6 +29,7 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 | 0017 | Philip Stehlik | [Keybase](https://keybase.io/pstehlik) | [0017_philip_response](./0017_philip_response/README.md) |
 | 0018 | Cody & Jennifer Burns | [Keybase](https://keybase.io/dontpanic) | [0018_cody_response](./0018_cody_response/README.md) |
 | 0019 | Petr Korolev | [Keybase](https://keybase.io/skywinder) | [0019_petr_response](./0019_petr_response/README.md) |
+| 0020 | Eduardo Díez | [Keybase](https://keybase.io/eduadiez) | [0020_edu_response](./0020_edu_response/README.md) |
 
 ## Transcript files
 
@@ -72,6 +73,7 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 | `Qmba1LQXD7gPHzrmjzPpzhX7Xb2oT1k3JQVS9Rqj1taxfp` | response_0017_philip |
 | `QmQM5LnyiM4B78k6bA5c1MRDNscG19SBH66A5Txdc8BZ5u` | response_0018_cody |
 | `QmZpi6iwSRtBi4HcRAdUMXBVqQAD8RQqat2yz4xtzVDgry` | response_0019_petr |
+<!--| `` | response_0020_edu |-->
 
 ## Procedure
 
