@@ -28,6 +28,10 @@ e9d2416c 15ed22d9 c6b7c2f5 683c21e9
 Blake2b hash of the `new_challenge` file for participant #21:
 
 ```
+        0ba142a6 f4403ff4 1d6ab339 6708f4d0
+        d5e567f3 2d6b293b dcdad335 09533246
+        a475da20 b0cf3f2f b4bff3bb 6d82ccf4
+        7f43d5ea 6623de42 57d65f3f be285915
 ```
 
 The above `new_challenge` file: https://ppot.blob.core.windows.net/public/challenge_0021
