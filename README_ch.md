@@ -28,6 +28,7 @@ Semaphore项目团队正在发起一个多方参与的可信配置第一阶段�
 | 0018 | Cody & Jennifer Burns | [Keybase](https://keybase.io/dontpanic) | [0018_cody_response](./0018_cody_response/README.md) |
 | 0019 | Petr Korolev | [Keybase](https://keybase.io/skywinder) | [0019_petr_response](./0019_petr_response/README.md) |
 | 0020 | Eduardo Antuña | [Keybase](https://keybase.io/eduadiez) | [0020_edu_response](./0020_edu_response/README.md) |
+| 0021 | Raziel Finkelton | | [0021_rf_response](./0021_rf_response/README.md) |
 
 ## 流程
 

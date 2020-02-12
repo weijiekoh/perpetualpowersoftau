@@ -30,6 +30,7 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 | 0018 | Cody & Jennifer Burns | [Keybase](https://keybase.io/dontpanic) | [0018_cody_response](./0018_cody_response/README.md) |
 | 0019 | Petr Korolev | [Keybase](https://keybase.io/skywinder) | [0019_petr_response](./0019_petr_response/README.md) |
 | 0020 | Eduardo Antuña | [Keybase](https://keybase.io/eduadiez) | [0020_edu_response](./0020_edu_response/README.md) |
+| 0021 | Raziel Finkelton | | [0021_rf_response](./0021_rf_response/README.md) |
 
 ## Transcript files
 
