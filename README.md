@@ -4,7 +4,7 @@
 
 The Semaphore team is conducting phase 1 of a multi-party trusted setup ceremony based on the Zcash Powers of Tau ceremony. The goal is to securely generate zk-SNARK parameters for circuits of up to `2 ^ 28` (260+ million) constraints. This means that the process will generate twice as many minus one (530+ million) powers of tau.
 
-As long as one party in the ceremony behaves honestly and is not comprimised, the entire setup is trustworthy.
+As long as one party in the ceremony behaves honestly and is not compromised, the entire setup is trustworthy.
 
 ## Ceremony progress
 
