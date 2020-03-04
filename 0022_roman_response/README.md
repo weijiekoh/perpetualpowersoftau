@@ -27,9 +27,13 @@ Hash of the [`response`](https://ppot.blob.core.windows.net/public/response_0022
     dacc9e93 67e19901 e6c92263 a4e8d3e0
 ```
 
-Blake2b hash of the `new_challenge` file for participant #22:
+Blake2b hash of the `new_challenge` file for participant #23:
 
 ```
+    14e4fe77 59391f2c 6988e790 2abd6343
+    cc27d259 80883aec 39a88d1e 415610b2
+    25e0aa5a c1ec9f5a 40b69989 4767ac75
+    983e5ca5 441ebbc6 ca66a61d 049c9112
 ```
 
 The above `new_challenge` file: https://ppot.blob.core.windows.net/public/challenge_0023
