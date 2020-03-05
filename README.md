@@ -171,6 +171,8 @@ Download the `challenge_nnnn` file from the coordinator. The filename might be s
 mv challenge_nnnn challenge
 ```
 
+Also check with the coordinator (or this repository) for the expected Blake2b hash of `challenge`.
+
 Run the computation with `challenge` in your working directory:
 
 ```bash
