@@ -209,7 +209,9 @@ Thank you for your participation, much appreciated! :)
 
 Upload the response file to the coordinator's server using SFTP or rsync. We will provide you with options and guidance on how to do this.
 
-Finally, document the process you used, following the template here: https://github.com/weijiekoh/perpetualpowersoftau/tree/master/0001_weijie_response
+### Your attestation
+
+Finally, document the process you used, following the example here: https://github.com/weijiekoh/perpetualpowersoftau/blob/master/0016_qedit_response/qedit_attestation.md
 
 Sign it with your GPG key and post it to the mailing list.
 
