@@ -32,6 +32,7 @@ As long as one party in the ceremony behaves honestly and is not compromised, th
 | 0020 | Eduardo Antuña | [Keybase](https://keybase.io/eduadiez) | [0020_edu_response](./0020_edu_response/README.md) |
 | 0021 | Raziel Finkelton | | [0021_rf_response](./0021_rf_response/README.md) |
 | 0022 | Roman Storm | [Keybase](https://keybase.io/rstorm) | [0022_roman_response](./0022_roman_response/README.md) |
+| 0023 | Shomari Prince | [Keybase](https://keybase.io/nyusternie) | [0023_shomari_response](./0023_shomari_response/README.md) |
 
 ## Transcript files
 
