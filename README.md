@@ -33,6 +33,7 @@ As long as one party in the ceremony behaves honestly and is not compromised, th
 | 0021 | Raziel Finkelton | | [0021_rf_response](./0021_rf_response/README.md) |
 | 0022 | Roman Storm | [Keybase](https://keybase.io/rstorm) | [0022_roman_response](./0022_roman_response/README.md) |
 | 0023 | Shomari Prince | [Keybase](https://keybase.io/nyusternie) | [0023_shomari_response](./0023_shomari_response/README.md) |
+| 0024 | Vitalik Buterin | [Keybase](https://keybase.io/vbuterin) | [0024_vb_response](./0024_vb_response/README.md) |
 
 ## Transcript files
 
@@ -59,6 +60,7 @@ As long as one party in the ceremony behaves honestly and is not compromised, th
 | `QmekMXZsfBi8DRebYXraSa6r8jSAVo6fBBJeLoirdR7j8N` | challenge_0020 |
 | `QmdkWnwsM3gHt7A8Gxq2JzhawKRuMvHLdxH4aDHPTt7w3F` | challenge_0021 |
 | `QmXwig4F7QqdDs8cCRHKZbzyUPxi1TVTrghqs2W28bLeUr` | challenge_0022 |
+| `QmWw14WEH7nokJHatEf7WUmqwrJEoAXjq25io39e4AkuSt` | challenge_0023 |
 | `QmcdU9c71mTZGQnUGkkoXTrwtjyoTLPE2qp196VGCVgCuw` | response_0001_weijie |
 | `QmPE7QAVRAVdDMMMP9rMbNyhZ8jo9pkZUm5ycRgogsHVAD` | response_0002_kobi |
 | `QmUcPEstiXAFxYGKxCswXEgky69LvDrCLKamySrugW2Z4i` | response_0003_poma |

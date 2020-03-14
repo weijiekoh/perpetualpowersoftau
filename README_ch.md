@@ -31,6 +31,7 @@ Semaphore项目团队正在发起一个多方参与的可信配置第一阶段�
 | 0021 | Raziel Finkelton | | [0021_rf_response](./0021_rf_response/README.md) |
 | 0022 | Roman Storm | [Keybase](https://keybase.io/rstorm) | [0022_roman_response](./0022_roman_response/README.md) |
 | 0023 | Shomari Prince | [Keybase](https://keybase.io/nyusternie) | [0023_shomari_response](./0023_shomari_response/README.md) |
+| 0024 | Vitalik Buterin | [Keybase](https://keybase.io/vbuterin) | [0024_vb_response](./0024_vb_response/README.md) |
 
 ## 流程
 
