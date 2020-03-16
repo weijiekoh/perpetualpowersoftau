@@ -1,4 +1,4 @@
-See `stefan_attestation.txt` in this directory for Stefan's signed attestation.
+See `stefan_attestation.txt` in this directory for Stefan Deml's signed attestation.
 
 Hash of the [`challenge`](https://ppot.blob.core.windows.net/public/challenge_0025) file for verification:
 

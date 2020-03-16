@@ -34,6 +34,7 @@ As long as one party in the ceremony behaves honestly and is not compromised, th
 | 0022 | Roman Storm | [Keybase](https://keybase.io/rstorm) | [0022_roman_response](./0022_roman_response/README.md) |
 | 0023 | Shomari Prince | [Keybase](https://keybase.io/nyusternie) | [0023_shomari_response](./0023_shomari_response/README.md) |
 | 0024 | Vitalik Buterin | [Keybase](https://keybase.io/vbuterin) | [0024_vb_response](./0024_vb_response/README.md) |
+| 0025 | Stefan Deml | [Keybase](https://keybase.io/stefandeml) | [0025_stefan_response](./0025_stefan_response/README.md) |
 
 ## Transcript files
 
@@ -87,8 +88,7 @@ As long as one party in the ceremony behaves honestly and is not compromised, th
 | `QmWMFxs6zwocgmGsQQscpaUhAmwkPBjF4nHaXnVNw6pLsP` | response_0022_roman |
 | `QmVghB15aA8r4f8kaDGYRPHNtvXpug5xuJy166T5aLjGnw` | response_0023_shomari |
 | `QmSNRqBixRjqbaRFxe2G9dV5i7UHiQZLG3y6MQq29CQEJw` | response_0024_vb |
-| `` | response_0025_stefan |
-
+| `QmQzcXktWYsqxeioxyCa6wxQ1FvVoCyDfkAN9TdmmNpdvH ` | response_0025_stefan |
 
 ## Procedure
 
