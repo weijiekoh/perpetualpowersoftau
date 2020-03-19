@@ -21,10 +21,10 @@ Hash of the [`challenge`](https://ppot.blob.core.windows.net/public/challenge_00
 Hash of the [`response`](https://ppot.blob.core.windows.net/public/response_0025_stefan) file for verification:
 
 ```
-	7f45bf22 6b33ae9a a8f63ce6 bdd35975
-	7984d114 97200427 014e64ae 7dfee818
-	de42d36d 9f2e9cd7 71c5d500 f164287c
-	428d8af0 a1eb3a18 b40a5dd2 a2b6dc9e
+    7f45bf22 6b33ae9a a8f63ce6 bdd35975
+    7984d114 97200427 014e64ae 7dfee818
+    de42d36d 9f2e9cd7 71c5d500 f164287c
+    428d8af0 a1eb3a18 b40a5dd2 a2b6dc9e
 ```
 
 Blake2b hash of the `new_challenge` file for participant #26:
