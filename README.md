@@ -35,6 +35,7 @@ As long as one party in the ceremony behaves honestly and is not compromised, th
 | 0023 | Shomari Prince | [Keybase](https://keybase.io/nyusternie) | [0023_shomari_response](./0023_shomari_response/README.md) |
 | 0024 | Vitalik Buterin | [Keybase](https://keybase.io/vbuterin) | [0024_vb_response](./0024_vb_response/README.md) |
 | 0025 | Stefan Deml | [Keybase](https://keybase.io/stefandeml) | [0025_stefan_response](./0025_stefan_response/README.md) |
+| 0026 | Geoff Lamperd | [Keybase](https://keybase.io/glamperd) | [0026_geoff_response](./0026_geoff_response/README.md) |
 
 ## Transcript files
 
