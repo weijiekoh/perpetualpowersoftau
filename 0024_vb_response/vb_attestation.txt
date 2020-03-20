@@ -1,0 +1,37 @@
+### Attestation to response 0024
+
+**Date:** 2020 Mar 10-13
+
+Name: Vitalik Buterin
+
+Location: Toronto
+
+Device(s): Thinkpad X270
+
+Challenge:
+
+    Blake2b: 7474dc21f794d4acfe75ceb736774ca05df34e5940646583c12d4f7205f7cf40aa45aef89f0da9acf8ef1b4eb398638e4dc845571a3e2e9f1c92615d68ba80d5
+
+    URL: https://ppot.blob.core.windows.net/public/challenge_0024
+
+Software used: https://github.com/kobigurk/phase2-bn254/commit/bf852c168676a7afc5dd17b47ff9b8f394aeab8a
+
+rustc 1.39.0 (4560ea788 2019-11-04) sha256=e68f193542c68ce83c449809d2cad262cc2bbb99640eb47c58fc1dc58cc30add
+
+Response:
+
+    Blake2b: 31ea680a591f80626cad18b71f72218c6fe1be52493e6be0b709a2cc87a585d6dfaae0256ea6a569373d89d4cd8b6587aec1ed9ad1fbf69cc9c46d4d4acccc98
+
+Entropy sources: Rust OsRng, obligatory keyboard mashing.
+
+Time taken: ~50 hours
+
+Side channel defenses: None.
+
+Postprocessing:
+
+    I uploaded the response to an SFTP server provided by Wei Jie Koh.
+
+    I logged out/in, ran some ad-hoc memory filling script for good measure, and turned off the server.
+
+    Signed this file using ethereum account (vitalik.eth), made a PR on github (vbuterin).

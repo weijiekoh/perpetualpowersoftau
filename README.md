@@ -64,6 +64,7 @@ As long as one party in the ceremony behaves honestly and is not compromised, th
 | `QmWw14WEH7nokJHatEf7WUmqwrJEoAXjq25io39e4AkuSt` | challenge_0023 |
 | `QmQbBwhEBEuMBwtLt5NWxmY8AcjFxvELvmBcb5nHRKf8i8` | challenge_0024 |
 | `QmQGwrxQ5voS4nTCRNLtb9SNMThxCuViN2xtM7ffDLCzA6` | challenge_0025 |
+| `QmQGwsABWrAaZ2uHpV1jTV7ynnG4xx5qD9aDb15u1oY1rL` | challenge_0026 |
 | `QmcdU9c71mTZGQnUGkkoXTrwtjyoTLPE2qp196VGCVgCuw` | response_0001_weijie |
 | `QmPE7QAVRAVdDMMMP9rMbNyhZ8jo9pkZUm5ycRgogsHVAD` | response_0002_kobi |
 | `QmUcPEstiXAFxYGKxCswXEgky69LvDrCLKamySrugW2Z4i` | response_0003_poma |
