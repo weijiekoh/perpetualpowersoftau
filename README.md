@@ -89,7 +89,7 @@ As long as one party in the ceremony behaves honestly and is not compromised, th
 | `QmWMFxs6zwocgmGsQQscpaUhAmwkPBjF4nHaXnVNw6pLsP` | response_0022_roman |
 | `QmVghB15aA8r4f8kaDGYRPHNtvXpug5xuJy166T5aLjGnw` | response_0023_shomari |
 | `QmSNRqBixRjqbaRFxe2G9dV5i7UHiQZLG3y6MQq29CQEJw` | response_0024_vb |
-| `QmQzcXktWYsqxeioxyCa6wxQ1FvVoCyDfkAN9TdmmNpdvH ` | response_0025_stefan |
+| `QmQzcXktWYsqxeioxyCa6wxQ1FvVoCyDfkAN9TdmmNpdvH` | response_0025_stefan |
 
 ## Procedure
 
