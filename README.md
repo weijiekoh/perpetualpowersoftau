@@ -36,6 +36,7 @@ As long as one party in the ceremony behaves honestly and is not compromised, th
 | 0024 | Vitalik Buterin | [Keybase](https://keybase.io/vbuterin) | [0024_vb_response](./0024_vb_response/README.md) |
 | 0025 | Stefan Deml | [Keybase](https://keybase.io/stefandeml) | [0025_stefan_response](./0025_stefan_response/README.md) |
 | 0026 | Geoff Lamperd | [Keybase](https://keybase.io/glamperd) | [0026_geoff_response](./0026_geoff_response/README.md) |
+| 0027 | Alex Skidanov | [Keybase](https://keybase.io/alexskidanov) | [0027_alex_response](./0027_alex_response/README.md) |
 
 ## Transcript files
 
@@ -66,6 +67,7 @@ As long as one party in the ceremony behaves honestly and is not compromised, th
 | `QmQbBwhEBEuMBwtLt5NWxmY8AcjFxvELvmBcb5nHRKf8i8` | challenge_0024 |
 | `QmQGwrxQ5voS4nTCRNLtb9SNMThxCuViN2xtM7ffDLCzA6` | challenge_0025 |
 | `QmQGwsABWrAaZ2uHpV1jTV7ynnG4xx5qD9aDb15u1oY1rL` | challenge_0026 |
+| `Qmc22ur3YbFLtUS8mxSqqLCX39ksZUDr3PWi6wXUmmFKj4` | challenge_0027 |
 | `QmcdU9c71mTZGQnUGkkoXTrwtjyoTLPE2qp196VGCVgCuw` | response_0001_weijie |
 | `QmPE7QAVRAVdDMMMP9rMbNyhZ8jo9pkZUm5ycRgogsHVAD` | response_0002_kobi |
 | `QmUcPEstiXAFxYGKxCswXEgky69LvDrCLKamySrugW2Z4i` | response_0003_poma |
@@ -91,6 +93,7 @@ As long as one party in the ceremony behaves honestly and is not compromised, th
 | `QmVghB15aA8r4f8kaDGYRPHNtvXpug5xuJy166T5aLjGnw` | response_0023_shomari |
 | `QmSNRqBixRjqbaRFxe2G9dV5i7UHiQZLG3y6MQq29CQEJw` | response_0024_vb |
 | `QmQzcXktWYsqxeioxyCa6wxQ1FvVoCyDfkAN9TdmmNpdvH` | response_0025_stefan |
+| `QmZwshpsydtkRFtV5nuyhzL1yXE5AfacvVmPUNGTyJYYM5` | response_0026_geoff |
 
 ## Procedure
 
@@ -223,11 +226,13 @@ Upload the response file to the coordinator's server using SFTP or rsync. We wil
 
 ### Your attestation
 
-Finally, document the process you used, following the example here: https://github.com/weijiekoh/perpetualpowersoftau/blob/master/0016_qedit_response/qedit_attestation.md
+Finally, document the process you used, following the example here: https://github.com/weijiekoh/perpetualpowersoftau/blob/master/0027_alex_response/alex_attestation.md
 
-Sign it with your GPG key and post it to the mailing list.
+We recommend that in your attestation, you include the git commit hash of the `phase2-bn254` repository from which you built the binaries.
 
-## Signing an attestation with an Ethereum account instead of GPG
+Sign your attestation with your Keybase account or GPG key and post it to the mailing list. We highly recommend using Keybase instead of GPG as it is easy to make time-consuming mistakes when attempting to publicise and/or share GPG keys.
+
+## Signing an attestation with an Ethereum account
 
 If you wish to sign your attestation using an Ethereum account instead of GPG, please SHA256 hash your attestation and use an account publicly associated with your identity and store it in this [Notary contract](https://etherscan.io/address/0x62700146f115fe08ca37be4a3a91935b28dfbc08#writeContract) using the `register(bytes32 _hash)` function. Send the transaction hash to the coordinator, who will include it in the transcript.
 
