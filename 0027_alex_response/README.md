@@ -3,21 +3,37 @@ See `alex_attestation.txt` in this directory for Alex Skidanov's signed attestat
 Hash of the [`challenge`](https://ppot.blob.core.windows.net/public/challenge_0027) file for verification:
 
 ```
+    10bdaa12 81af4408 8d52f74e a0a68574
+    10c43fda cf11a54b 123c14e9 90501cbc
+    91267417 db60661e bf911d30 bd800684
+    e2ce8ddc c3ee68c0 e37640fa 22553b98
 ```
 
 `response` was based on the hash:
 
 ```
+    10bdaa12 81af4408 8d52f74e a0a68574
+    10c43fda cf11a54b 123c14e9 90501cbc
+    91267417 db60661e bf911d30 bd800684
+    e2ce8ddc c3ee68c0 e37640fa 22553b98
 ```
 
 Hash of the [`response`](https://ppot.blob.core.windows.net/public/response_0027_alex) file for verification:
 
 ```
+    379ecd36 fd2650c0 2196c9b4 13ea0f28
+    2d5545c9 ed270075 fd5b5000 60a41e67
+    8d5b75fc b22221b4 2636b741 0c45d9a1
+    68a4bf12 a6e91efc 14e09be2 20780990
 ```
 
 Blake2b hash of the `new_challenge` file for participant #28:
 
 ```
+    f71e9315 058c1c88 ba4cd22e 01f86242
+    d81b5e74 de829ad8 8bd7ecef 475ca3ce
+    d59eaa77 7e2ebfd3 14c38bde 84a47ebf
+    c3143252 9c978b84 b25cddf7 a6212371
 ```
 
 The above `new_challenge` file: https://ppot.blob.core.windows.net/public/challenge_0028

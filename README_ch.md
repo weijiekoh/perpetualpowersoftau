@@ -34,6 +34,7 @@ Semaphore项目团队正在发起一个多方参与的可信配置第一阶段�
 | 0024 | Vitalik Buterin | [Keybase](https://keybase.io/vbuterin) | [0024_vb_response](./0024_vb_response/README.md) |
 | 0025 | Stefan Deml | [Keybase](https://keybase.io/stefandeml) | [0025_stefan_response](./0025_stefan_response/README.md) |
 | 0026 | Geoff Lamperd | [Keybase](https://keybase.io/glamperd) | [0026_geoff_response](./0026_geoff_response/README.md) |
+| 0027 | Alex Skidanov | [Keybase](https://keybase.io/alexskidanov) | [0027_alex_response](./0027_alex_response/README.md) |
 
 ## 流程
 
