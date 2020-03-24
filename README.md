@@ -42,6 +42,7 @@ As long as one party in the ceremony behaves honestly and is not compromised, th
 
 | IPFS | Filename |
 |-|-|
+| `Qmb1ejQ2uSXJ5AukYEGdm73Lf8q8vg2As2beC2eYENnDtB` | challenge_initial |
 | `QmePmggNmSmzkJm3W1Kdz73FsUcdDpUGdvj466xTw9gjrg` | challenge_0002_kobi |
 | `QmSQXLTHVCNQQE2wF7q8n2vhNmLjzKpPXwsGSYkGboKefo` | challenge_0003 |
 | `QmZ4qMYTRWKSWce2g2pose7v6maKGrrGG8HvtWPqxXyKxM` | challenge_0004 |
@@ -68,6 +69,7 @@ As long as one party in the ceremony behaves honestly and is not compromised, th
 | `QmQGwrxQ5voS4nTCRNLtb9SNMThxCuViN2xtM7ffDLCzA6` | challenge_0025 |
 | `QmQGwsABWrAaZ2uHpV1jTV7ynnG4xx5qD9aDb15u1oY1rL` | challenge_0026 |
 | `Qmc22ur3YbFLtUS8mxSqqLCX39ksZUDr3PWi6wXUmmFKj4` | challenge_0027 |
+| `Qmduu6rvGM15TdGnVoW9zGXDYvtsAK1w8KdG5Jbo28Pomp` | challenge_0028 |
 | `QmcdU9c71mTZGQnUGkkoXTrwtjyoTLPE2qp196VGCVgCuw` | response_0001_weijie |
 | `QmPE7QAVRAVdDMMMP9rMbNyhZ8jo9pkZUm5ycRgogsHVAD` | response_0002_kobi |
 | `QmUcPEstiXAFxYGKxCswXEgky69LvDrCLKamySrugW2Z4i` | response_0003_poma |
