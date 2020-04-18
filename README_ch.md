@@ -37,6 +37,7 @@ Semaphore项目团队正在发起一个多方参与的可信配置第一阶段�
 | 0027 | Alex Skidanov | [Keybase](https://keybase.io/alexskidanov) | [0027_alex_response](./0027_alex_response/README.md) |
 | 0028 | Dimitris Apostolou | [Keybase](https://keybase.io/rex_4539) | [0028_dimitris_response](./0028_dimitris_response/README.md) |
 | 0029 | Gustavo Frederico | [Keybase](https://keybase.io/gcsfred) | [0029_gustavo_response](./0029_gustavo_response/README.md) |
+| 0030 | Anant Upadhyay | [Keybase](https://keybase.io/anantup) | [0030_anant_response](./0030_anant_response/README.md) |
 
 ## 流程
 
