@@ -107,6 +107,7 @@ As long as one party in the ceremony behaves honestly and is not compromised, th
 | `QmcwjhjzUe5fWKsY21FJE1GdBFR4bxBvDAQbaLPgrUMAEw` | response_0028_dimitris |
 | `QmU285xoCQJD17QovgYf41dri8KsVgr9DoN7uDjYAUDBWu` | response_0029_gustavo |
 | `QmR6MjUDhqsqG8ALThdzSH1kSdqHg3VgKDXsRzLTPAVhzt` | response_0030_anant |
+| `QmdKRFAch8rhuFZ7Z7u5AC6qfXgdfWGhBoR4UNmD5yHfwZ` | response_0031_witold |
 
 ## Procedure
 
