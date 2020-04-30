@@ -18,7 +18,7 @@ Hash of the [`challenge`](https://ppot.blob.core.windows.net/public/challenge_00
     965e7f41 aefa1eec 790e9566 5c0e6342
 ```
 
-Hash of the [`response`](https://ppot.blob.core.windows.net/public/response_0030_anant) file for verification:
+Hash of the [`response`](https://ppot.blob.core.windows.net/public/response_0031_witold) file for verification:
 
 ```
     527fe68c 16219d86 018de364 fc5701b1
@@ -27,7 +27,7 @@ Hash of the [`response`](https://ppot.blob.core.windows.net/public/response_0030
     4aadbea7 cdef918a 11bfe65a 89c9e4a3
 ```
 
-Blake2b hash of the `new_challenge` file for participant #31:
+Blake2b hash of the `new_challenge` file for participant #33:
 
 ```
     daa7c3b5 570966a7 1180db03 c0d76def
