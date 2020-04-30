@@ -18,7 +18,7 @@ Hash of the [`challenge`](https://ppot.blob.core.windows.net/public/challenge_00
     965e7f41 aefa1eec 790e9566 5c0e6342
 ```
 
-Hash of the [`response`](https://ppot.blob.core.windows.net/public/response_0031_witold) file for verification:
+Hash of the [`response`](https://ppot.blob.core.windows.net/public/response_0032_josephc) file for verification:
 
 ```
     527fe68c 16219d86 018de364 fc5701b1
