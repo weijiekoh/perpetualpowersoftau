@@ -40,6 +40,7 @@ As long as one party in the ceremony behaves honestly and is not compromised, th
 | 0028 | Dimitris Apostolou | [Keybase](https://keybase.io/rex_4539) | [0028_dimitris_response](./0028_dimitris_response/README.md) |
 | 0029 | Gustavo Frederico | [Keybase](https://keybase.io/gcsfred) | [0029_gustavo_response](./0029_gustavo_response/README.md) |
 | 0030 | Anant Upadhyay | [Keybase](https://keybase.io/anantup) | [0030_anant_response](./0030_anant_response/README.md) |
+| 0031 | Witold
 | 0032 | JosephC | [Keybase](https://keybase.io/cdili) | [0032_josephc_response](./0032_josephc_response/README.md) |
 
 ## Transcript files
