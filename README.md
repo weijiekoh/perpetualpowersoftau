@@ -42,6 +42,8 @@ As long as one party in the ceremony behaves honestly and is not compromised, th
 | 0030 | Anant Upadhyay | [Keybase](https://keybase.io/anantup) | [0030_anant_response](./0030_anant_response/README.md) |
 | 0031 | Witold
 | 0032 | JosephC | [Keybase](https://keybase.io/cdili) | [0032_josephc_response](./0032_josephc_response/README.md) |
+| 0033 | Oskar
+| 0034 | Igor Gulamov | [Keybase](https://keybase.io/snjax) | [0034_igor_response](./0034_igor_response/README.md) |
 
 ## Transcript files
 
