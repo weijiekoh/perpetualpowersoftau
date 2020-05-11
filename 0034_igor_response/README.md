@@ -1,4 +1,4 @@
-See `igor_attestation.md` in this directory for JosephC's signed attestation.
+See `igor_attestation.md` in this directory for Igor Gulamov's signed attestation.
 
 Hash of the [`challenge`](https://ppot.blob.core.windows.net/public/challenge_0034) file for verification:
 
