@@ -1,0 +1,38 @@
+Attestation to response 0036
+----------------------------
+
+*Date*: Thu May 06 2020 - Sat May 09 2020
+*Name*: Stefaan Ponnet
+*Location*: Antwerp, Belgium
+*Device*: AVADO i5 with Debian 4.19
+*Commit Hash*: bf852c168676a7afc5dd17b47ff9b8f394aeab8a
+*Challenge*:
+URL: http://ppoteu.blob.core.windows.net/public/challenge_0036
+
+```
+`challenge` file contains decompressed points and has a hash:
+        33247048 366e6228 5a69d257 601f1ee5
+        2aa5d123 8b0fceb8 aaaca087 614dfa95
+        6eb377b9 683bb551 16ece5d4 023e3e3f
+        5b154993 1048ba07 b5a4b37c 463e9b2c
+```
+
+*Response*:
+```
+The BLAKE2b hash of `./response` is:
+  3b3630a0 e4fa0ef1 4e1086d8 60cae23a
+  fa635c65 cae2971e 702a7ccc f13e3820
+  5507dc4a 9cfdd8f1 481fac94 0ef1bd01
+  46e73740 66d1493d 1114f328 73eb6f27
+```
+
+*Time taken* 
+approx 48 hours
+
+*Entropy Sources*:
+Used 1024 bytes of true randomness from an entropy generator using a DVB-T dongle + rtl-entropy to sample atmospheric noise 
+(https://github.com/pwarren/rtl-entropy.git)
+
+*Side channel defences*: None
+*Postprocessing*: 
+Rebooted the machine
