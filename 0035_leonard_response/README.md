@@ -38,19 +38,18 @@ Blake2b hash of the `new_challenge` file for participant #36:
 
 The above `new_challenge` file: https://ppot.blob.core.windows.net/public/challenge_0036
 
-The attestation was signed using the [Notary contract](https://etherscan.io/address/0x62700146f115fe08ca37be4a3a91935b28dfbc08#writeContract). It was signed by the Ethereum address
+The attestation was signed using the [Notary contract](https://etherscan.io/address/0x62700146f115fe08ca37be4a3a91935b28dfbc08#writeContract). It was signed by Leonard's Ethereum address:
 ```
 0x17D51c1AdF4de7b637654231E0271bAF34D3FC17
 ```
-with the transaction hash 
+The attestation was signed in this transaction:
 ```
 0xf830442ce7564553ebaaecad369c0db3a7d9b38a8afa7926ff4b7af1bd2cb60e
 ```
-The data in this transaction contains the SHA-256 hash 
+The data in this transaction contains the SHA-256 hash of `leonard_attestation.md` and it is:
 ```
 762902b6a2caa9850806bd5c34efbfc0d731cb2ff3f058519781f9944a283108
 ```
-of `leonard_attestation.md` in this directory.
 
 Leonard's attestation:
 ***
