@@ -44,6 +44,8 @@ As long as one party in the ceremony behaves honestly and is not compromised, th
 | 0032 | JosephC | [Keybase](https://keybase.io/cdili) | [0032_josephc_response](./0032_josephc_response/README.md) |
 | 0033 | Oskar Thorén | [Keybase](https://keybase.io/oskarth) | [0033_oskar_response](./0033_oskar_response/README.md) |
 | 0034 | Igor Gulamov | [Keybase](https://keybase.io/snjax) | [0034_igor_response](./0034_igor_response/README.md) |
+| 0035 | Leonard Tan | | [0035_leonard_response](./0035_leonard_response/README.md) |
+| 0036 | Stefaan Ponnet | [Keybase](https://keybase.io/sponnet) | [0036_stefaan_response](./0036_stefaan_response/README.md) |
 
 ## Transcript files
 
@@ -117,6 +119,7 @@ As long as one party in the ceremony behaves honestly and is not compromised, th
 | `QmVj2pziSXbPjSg6wV8YkAcfybhpYFrqugMJxXwNjhtEDG` | response_0032_josephc |
 | `QmXokCVS2u7LUopyBMYAVaUjbMgSRU1uxstoSc85fqwssT` | response_0033_oskar |
 | `QmWqCbXs5eFzesJ5bSRu2UNYh1UdyWr16Y49DC3BWp1RiT` | response_0034_igor |
+| `QmYMzNLijTut9WYWVcCANc2gBN5Q48jGELgAQatujiXyCM` | response_0035_leonard |
 | `QmPZr6aQMKxxj5FYW5cA6oYwE5bNLd8ehatRGXuSBkJehp` | response_0036_stefaan |
 
 ## Procedure
