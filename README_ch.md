@@ -44,6 +44,7 @@ Semaphore项目团队正在发起一个多方参与的可信配置第一阶段�
 | 0034 | Igor Gulamov | [Keybase](https://keybase.io/snjax) | [0034_igor_response](./0034_igor_response/README.md) |
 | 0035 | Leonard Tan | | [0035_leonard_response](./0035_leonard_response/README.md) |
 | 0036 | Stefaan Ponnet | [Keybase](https://keybase.io/sponnet) | [0036_stefaan_response](./0036_stefaan_response/README.md) |
+| 0037 | Chih-Cheng Liang | [Keybase](https://keybase.io/liangcc) | [0037_chihcheng_response](./0037_chihcheng_response/README.md) |
 
 ## 流程
 
