@@ -40,12 +40,13 @@ As long as one party in the ceremony behaves honestly and is not compromised, th
 | 0028 | Dimitris Apostolou | [Keybase](https://keybase.io/rex_4539) | [0028_dimitris_response](./0028_dimitris_response/README.md) |
 | 0029 | Gustavo Frederico | [Keybase](https://keybase.io/gcsfred) | [0029_gustavo_response](./0029_gustavo_response/README.md) |
 | 0030 | Anant Upadhyay | [Keybase](https://keybase.io/anantup) | [0030_anant_response](./0030_anant_response/README.md) |
-| 0031 | Witold
+| 0031 | Golem Factory | | [0031_golem_response](./0031_golem_response/README.md) |
 | 0032 | JosephC | [Keybase](https://keybase.io/cdili) | [0032_josephc_response](./0032_josephc_response/README.md) |
 | 0033 | Oskar Thorén | [Keybase](https://keybase.io/oskarth) | [0033_oskar_response](./0033_oskar_response/README.md) |
 | 0034 | Igor Gulamov | [Keybase](https://keybase.io/snjax) | [0034_igor_response](./0034_igor_response/README.md) |
 | 0035 | Leonard Tan | | [0035_leonard_response](./0035_leonard_response/README.md) |
 | 0036 | Stefaan Ponnet | [Keybase](https://keybase.io/sponnet) | [0036_stefaan_response](./0036_stefaan_response/README.md) |
+| 0037 | Chih-Cheng Liang | [Keybase](https://keybase.io/liangcc) | [0037_chihcheng_response](./0037_chihcheng_response/README.md) |
 
 ## Transcript files
 

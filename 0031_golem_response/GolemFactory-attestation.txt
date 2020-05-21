@@ -1,0 +1,34 @@
+**Date:** 16-17 April 2020
+
+**Name:** Golem Factory
+
+**Location:** Warsaw, Poland
+
+**Device(s):** Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz 32873MB RAM
+
+**Challenge:**
+
+- Blake2b:
+`f70c28295e85dff9c2109a7e8f6d34511b2199b684670acca460d26a3a944b934e65635c811bd65fbd833147d27bcfada8b0548ea5bef2081c684910a8f6fe95`
+
+- URL: https://ppotde.blob.core.windows.net/public/challenge_0031
+
+**Software used:** https://github.com/kobigurk/phase2-bn254/commit/bf852c168676a7afc5dd17b47ff9b8f394aeab8a
+
+**Response:**
+
+- Blake2b: 
+`241902b0c9386b3ebb03a786a4db8b477727b8cd97e4547b45cd52053ce0c4e7cf3d7e36933f38fba92835932f15b8dc950d111b7b0b4f4aefdb16df5f6a799a`
+
+**Entropy sources:**
+
+ - random keyboard mashing
+ - random words from random books
+ - I asked a few people to give me random numbers
+ - random value generated based on /dev/urandom
+ - random strings collected from online generators
+ - coin tossing
+
+**Time taken:** 29 hours
+
+**Side channel defenses:** the computer was locked in a separate server room, it's epidemy time - everyone works remotely
