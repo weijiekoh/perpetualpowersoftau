@@ -47,6 +47,7 @@ Semaphore项目团队正在发起一个多方参与的可信配置第一阶段�
 | 0037 | Chih-Cheng Liang | [Keybase](https://keybase.io/liangcc) | [0037_chihcheng_response](./0037_chihcheng_response/README.md) |
 | 0038 | James Zaki | [Keybase](https://keybase.io/jameszaki) | [0038_james_response](./0038_james_response/README.md) |
 | 0039 | Wanseob Lim | [Keybase](https://keybase.io/wanseob) | [0039_wanseob_response](./0039_wanseob_response/README.md) |
+| 0040 | Wei Tang |  | [0040_wei_response](./0040_wei_response/README.md) |
 
 ## 流程
 
