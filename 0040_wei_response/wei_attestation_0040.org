@@ -1,0 +1,48 @@
+#+TITLE: Perpetual Powers of Tau Attestation No. 40
+#+AUTHOR: Wei Tang
+#+DATE: 2020-05-30
+
+This is the attestation No. 40 for the Perpetual Powers of Tau
+ceremony.
+
+* Signing information
+The PGP key used to sign this message can be found at
+https://that.world/~wei/pubkey.gpg
+
+* Basic information
+- *Date*: 2020-05-28 to 2020-05-30
+- *Name*: Wei Tang
+- *Location*: Berlin, Germany
+- *Commit hash*: =bf852c168676a7afc5dd17b47ff9b8f394aeab8a=
+- *Time taken*: 3 days
+- *Device*: Undisclosed
+- *Entropy sources*: Undisclosed
+- *Side channel defences*: Undisclosed
+- *Postprocessing*: Undisclosed
+
+* Hashes
+** Challenge file
+=challenge= file contains decompressed points and has a hash:
+#+BEGIN_SRC plain
+79043f5f 7a2e81a2 e7aca5bf c02a375f
+6b3beb0c 5aa7e3f8 b942201a f3e0d43e
+b33efd3a 10b10323 8a93eaad 3462180e
+56eea585 e4f30715 3df06e81 d6150275
+#+END_SRC
+
+=challenge= file claims that it was based on the original contribution
+with a hash:
+#+BEGIN_SRC plain
+ed29ba79 b1392ba7 4ff572b8 6ed743b9
+3b94da14 e54eb4a5 4d2fa6f0 cbd47b99
+13516c95 f53b6a07 845676c5 1b081f2d
+64a14d26 0809d9bb 2db1bf8d 9bccf584
+#+END_SRC
+** Response file
+The BLAKE2b hash of =response= is:
+#+BEGIN_SRC plain
+276a5a94 26cee943 0cc3c64b 6049f912
+4a8c4297 3ffec2bf a60983b2 37fec0aa
+98247803 596d2ac1 2076bf37 7104ab68
+c2c2a879 fbc7fcf8 b9168b52 5f1f7916
+#+END_SRC
