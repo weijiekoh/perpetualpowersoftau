@@ -23,8 +23,8 @@ Hash of the [`response`](https://ppot.blob.core.windows.net/public/response_0040
 ```
     276a5a94 26cee943 0cc3c64b 6049f912
     4a8c4297 3ffec2bf a60983b2 37fec0aa
-    c2c2a879 fbc7fcf8 b9168b52 5f1f7916
     98247803 596d2ac1 2076bf37 7104ab68
+    c2c2a879 fbc7fcf8 b9168b52 5f1f7916
 ```
 
 Blake2b hash of the `new_challenge` file for participant #41:
