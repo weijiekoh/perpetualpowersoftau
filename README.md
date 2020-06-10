@@ -50,6 +50,7 @@ As long as one party in the ceremony behaves honestly and is not compromised, th
 | 0038 | James Zaki | [Keybase](https://keybase.io/jameszaki) | [0038_james_response](./0038_james_response/README.md) |
 | 0039 | Wanseob Lim | [Keybase](https://keybase.io/wanseob) | [0039_wanseob_response](./0039_wanseob_response/README.md) |
 | 0040 | Wei Tang |  | [0040_wei_response](./0040_wei_response/README.md) |
+| 0041 | Evan Van Ness | [Keybase](https://keybase.io/evanvanness) | [0041_evan_response](./0041_evan_response/README.md) |
 
 ## Transcript files
 
