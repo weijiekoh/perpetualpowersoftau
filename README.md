@@ -54,6 +54,11 @@ As long as one party in the ceremony behaves honestly and is not compromised, th
 
 ## Transcript files
 
+Note: as each challenge file can be deterministically generated from a prior
+response file, we have only backed up 34 challenge files on an IPFS node, and
+if we need to free up space on its storage device, we will delete some
+challenge files (except, of course, `challenge_initial`).
+
 | IPFS | Filename |
 |-|-|
 | `Qmb1ejQ2uSXJ5AukYEGdm73Lf8q8vg2As2beC2eYENnDtB` | challenge_initial |
@@ -130,6 +135,7 @@ As long as one party in the ceremony behaves honestly and is not compromised, th
 | `QmZPXXidBBiS1Vtx9sw1dBdy4WT4qaJ9291i5vd7GwGDTf` | response_0038_james |
 | `QmQrf3YhCqGN1xWgag6ySxtSMzxaLvWEkm2MZFRzrEU2rk` | response_0039_wanseob |
 | `QmTrSs9cd1mky6LzzTucE5YccecLZGWxBe39gNkezN6Jiw` | response_0040_weitang |
+| `QmbddejirR8TFVo5yDydmHP8TvTFtEg3CTgnDywxbb6xfz` | response_0041_evan |
 
 ## Procedure
 
