@@ -50,8 +50,17 @@ As long as one party in the ceremony behaves honestly and is not compromised, th
 | 0038 | James Zaki | [Keybase](https://keybase.io/jameszaki) | [0038_james_response](./0038_james_response/README.md) |
 | 0039 | Wanseob Lim | [Keybase](https://keybase.io/wanseob) | [0039_wanseob_response](./0039_wanseob_response/README.md) |
 | 0040 | Wei Tang |  | [0040_wei_response](./0040_wei_response/README.md) |
+| 0041 | Evan Van Ness | [Keybase](https://keybase.io/evanvanness) | [0041_evan_response](./0041_evan_response/README.md) |
+| 0042 | Vaibhav Chellani | | |
+| 0043 | Albert | | |
+| 0044 | Ying Tong | [Keybase](https://keybase.io/yingtong) | [0044_yingtong_response](./0044_yingtong_response/README.md) |
 
 ## Transcript files
+
+Note: as each challenge file can be deterministically generated from a prior
+response file, we have only backed up 34 challenge files on an IPFS node, and
+if we need to free up space on its storage device, we will delete some
+challenge files (except, of course, `challenge_initial`).
 
 | IPFS | Filename |
 |-|-|
@@ -128,6 +137,8 @@ As long as one party in the ceremony behaves honestly and is not compromised, th
 | `QmP1zXaVbnhUriMhVGnf55VKaZwffYTPwp3jUMj8P6LE24` | response_0037_chihcheng |
 | `QmZPXXidBBiS1Vtx9sw1dBdy4WT4qaJ9291i5vd7GwGDTf` | response_0038_james |
 | `QmQrf3YhCqGN1xWgag6ySxtSMzxaLvWEkm2MZFRzrEU2rk` | response_0039_wanseob |
+| `QmTrSs9cd1mky6LzzTucE5YccecLZGWxBe39gNkezN6Jiw` | response_0040_weitang |
+| `QmbddejirR8TFVo5yDydmHP8TvTFtEg3CTgnDywxbb6xfz` | response_0041_evan |
 
 ## Procedure
 
