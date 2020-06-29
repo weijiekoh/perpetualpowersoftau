@@ -139,6 +139,7 @@ challenge files (except, of course, `challenge_initial`).
 | `QmQrf3YhCqGN1xWgag6ySxtSMzxaLvWEkm2MZFRzrEU2rk` | response_0039_wanseob |
 | `QmTrSs9cd1mky6LzzTucE5YccecLZGWxBe39gNkezN6Jiw` | response_0040_weitang |
 | `QmbddejirR8TFVo5yDydmHP8TvTFtEg3CTgnDywxbb6xfz` | response_0041_evan |
+| `QmWCHp3YivYKWfQ8FbMKn3wMSNyqawRn7zJUP6mjfmvkJj` | response_0042_vaibhav |
 
 ## Procedure
 
