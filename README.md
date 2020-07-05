@@ -142,6 +142,7 @@ challenge files (except, of course, `challenge_initial`).
 | `QmbddejirR8TFVo5yDydmHP8TvTFtEg3CTgnDywxbb6xfz` | response_0041_evan |
 | `QmWCHp3YivYKWfQ8FbMKn3wMSNyqawRn7zJUP6mjfmvkJj` | response_0042_vaibhav |
 | `QmUfSAM1arv3nB5StxMMk4qBYGFpSNEY2BDgz3dqmaYUQx` | response_0043_albert |
+| `Qmbuueqz56RXJNniG2fBHzTodbQ5e5mtjGP7UdpNGNXP7P` | response_0044_yingtong |
 
 ## Procedure
 
