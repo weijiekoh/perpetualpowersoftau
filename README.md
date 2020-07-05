@@ -54,7 +54,7 @@ As long as one party in the ceremony behaves honestly and is not compromised, th
 | 0042 | Vaibhav Chellani | | [0042_vaibhav_response](./0042_vaibhav_response/README.md) |
 | 0043 | Albert Ni | | [0043_albert_response](./0043_albert_response/README.md) |
 | 0044 | Ying Tong | [Keybase](https://keybase.io/yingtong) | [0044_yingtong_response](./0044_yingtong_response/README.md) |
-| 0045 | Ben Edgington | | [0045_ben_response](./0045_ben_response/README.md) |
+| 0045 | Ben Edgington | [Keybase](https://keybase.io/benjaminion) | [0045_ben_response](./0045_ben_response/README.md) |
 
 ## Transcript files
 
