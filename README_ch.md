@@ -49,10 +49,10 @@ Semaphore项目团队正在发起一个多方参与的可信配置第一阶段�
 | 0039 | Wanseob Lim | [Keybase](https://keybase.io/wanseob) | [0039_wanseob_response](./0039_wanseob_response/README.md) |
 | 0040 | Wei Tang |  | [0040_wei_response](./0040_wei_response/README.md) |
 | 0041 | Evan Van Ness | [Keybase](https://keybase.io/evanvanness) | [0041_evan_response](./0041_evan_response/README.md) |
-| 0042 | Vaibhav Chellani | | [0042_vaibhav_response](./0042_vaibhav_response/README.md) |
+| 0042 | Vaibhav Chellani | [Keybase](https://keybase.io/vaibhavchellani) | [0042_vaibhav_response](./0042_vaibhav_response/README.md) |
 | 0043 | Albert Ni | | [0043_albert_response](./0043_albert_response/README.md) |
 | 0044 | Ying Tong | [Keybase](https://keybase.io/yingtong) | [0044_yingtong_response](./0044_yingtong_response/README.md) |
-| 0045 | Ben Edgington | | [0045_ben_response](./0045_ben_response/README.md) |
+| 0045 | Ben Edgington | [Keybase](https://keybase.io/benjaminion) | [0045_ben_response](./0045_ben_response/README.md) |
 
 ## 流程
 
