@@ -53,6 +53,8 @@ Semaphore项目团队正在发起一个多方参与的可信配置第一阶段�
 | 0043 | Albert Ni | | [0043_albert_response](./0043_albert_response/README.md) |
 | 0044 | Ying Tong | [Keybase](https://keybase.io/yingtong) | [0044_yingtong_response](./0044_yingtong_response/README.md) |
 | 0045 | Ben Edgington | [Keybase](https://keybase.io/benjaminion) | [0045_ben_response](./0045_ben_response/README.md) |
+| 0046 | Tkorwin |  |  |
+| 0047 | Saravanan Vijayakumaran | [Keybase](https://keybase.io/sarva_v) | [0047_saravanan_response](./0047_saravanan_response/README.md) |
 
 ## 流程
 
