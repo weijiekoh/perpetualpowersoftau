@@ -6,6 +6,8 @@ The Semaphore team is conducting phase 1 of a multi-party trusted setup ceremony
 
 As long as one party in the ceremony behaves honestly and is not compromised, the entire setup is trustworthy.
 
+To take part, please get in touch with Wei Jie via Twitter DM (@weijie_eth) or Telegram (@weijiek).
+
 ## Ceremony progress
 
 | Participant ID | Identity | GPG key | Attestation |
