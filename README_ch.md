@@ -47,7 +47,7 @@ Semaphore项目团队正在发起一个多方参与的可信配置第一阶段�
 | 0037 | Chih-Cheng Liang | [Keybase](https://keybase.io/liangcc) | [0037_chihcheng_response](./0037_chihcheng_response/README.md) |
 | 0038 | James Zaki | [Keybase](https://keybase.io/jameszaki) | [0038_james_response](./0038_james_response/README.md) |
 | 0039 | Wanseob Lim | [Keybase](https://keybase.io/wanseob) | [0039_wanseob_response](./0039_wanseob_response/README.md) |
-| 0040 | Wei Tang |  | [0040_wei_response](./0040_wei_response/README.md) |
+| 0040 | Wei Tang | [PGP key](https://that.world/~wei/pubkey.gpg) | [0040_wei_response](./0040_wei_response/README.md) |
 | 0041 | Evan Van Ness | [Keybase](https://keybase.io/evanvanness) | [0041_evan_response](./0041_evan_response/README.md) |
 | 0042 | Vaibhav Chellani | [Keybase](https://keybase.io/vaibhavchellani) | [0042_vaibhav_response](./0042_vaibhav_response/README.md) |
 | 0043 | Albert Ni | | [0043_albert_response](./0043_albert_response/README.md) |
@@ -55,6 +55,8 @@ Semaphore项目团队正在发起一个多方参与的可信配置第一阶段�
 | 0045 | Ben Edgington | [Keybase](https://keybase.io/benjaminion) | [0045_ben_response](./0045_ben_response/README.md) |
 | 0046 | Tkorwin |  |  |
 | 0047 | Saravanan Vijayakumaran | [Keybase](https://keybase.io/sarva_v) | [0047_saravanan_response](./0047_saravanan_response/README.md) |
+| 0048 | R. Tyler Smith | [Keybase](https://keybase.io/rtylersmith) | [0048_tyler_response](./0048_tyler_response/README.md) |
+| 0049 | Jordi Baylina | [Keybase](https://keybase.io/jbaylina) | [0049_jordi_response](./0049_jordi_response/README.md) |
 
 ## 流程
 
