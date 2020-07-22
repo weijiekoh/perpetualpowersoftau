@@ -1,0 +1,28 @@
+Attestation to response 0048
+Date: July 13 – July 15 2020 
+Name: R. Tyler Smith 
+Location: Houston, TX 
+Device: Frankenminer with Ubuntu 20.04 
+
+challenge file contains decompressed points and has a hash:
+  5d38986e 613436f8 f29f713f 967a083c 
+  730a1d34 1a1d2c0f fe7c29ca 3e1b6184 
+  40412cff 8eeab16b 5a14bf42 1763e61b 
+  3cefdf6c a5715027 56331ffb 960fa61e 
+challenge file claims (!!! Must not be blindly trusted) that it was based on the original contribution with a hash:
+  2a015b49 55e1f882 5615c666 f0e9fb0b 
+  8c2408c1 49682347 e7c0c3a1 9482b640 
+  59a63dbb 7cfc9c00 5eceb1b4 a67118ce 
+  d79f649f 9433437d f653427e 83955d4f 
+Response:
+
+The BLAKE2b hash of ./response is:
+  08896cef 6150e35c b1e16685 6f8e5699 
+  2be30192 6dc217f2 5e162393 92df2d49 
+  a82d1f9b 25205431 fd484707 f8e15d2c 
+  bb75d3f1 36bed23f dc268a6a e2d7bc8d 
+Time taken Download: a few hours to download Execution:
+
+Entropy Sources: Stories told to me by my ancestors
+
+Side channel defences: None Postprocessing: Reboot after I finished
