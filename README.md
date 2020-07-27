@@ -61,6 +61,7 @@ To take part, please get in touch with Wei Jie via Twitter DM (@weijie_eth) or T
 | 0047 | Saravanan Vijayakumaran | [Keybase](https://keybase.io/sarva_v) | [0047_saravanan_response](./0047_saravanan_response/README.md) |
 | 0048 | R. Tyler Smith | [Keybase](https://keybase.io/rtylersmith) | [0048_tyler_response](./0048_tyler_response/README.md) |
 | 0049 | Jordi Baylina | [Keybase](https://keybase.io/jbaylina) | [0049_jordi_response](./0049_jordi_response/README.md) |
+| 0050 | Koh Wei Jie | [Keybase](https://keybase.io/contactkohweijie) | [0050_weijie_response](./0050_weijie_response/README.md) |
 
 ## Transcript files
 
@@ -229,6 +230,12 @@ A mailing list has been set up to coordinate the ceremony:
 https://groups.google.com/a/ethereum.org/forum/?hl=en#!forum/perpetual-powers-of-tau-ceremony-group
 
 ## Instructions for each participant
+
+There are two implementations of the software which you can use to generate a contribution: `phase2-bn254` and `snarkjs`.
+
+You should use `snarkjs` if you do not mind running the software for 2-3 days. If you have no preference, please decide at random.
+
+To use `phase2-bn254`, follow the instructions below. To use `snarkjs`, read [this document](./snarkjs_instructions.md) instead.
 
 First, set up a Linux machine and install Rust and Cargo following instructions [here](https://www.rust-lang.org).
 
