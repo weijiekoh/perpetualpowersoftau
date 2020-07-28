@@ -57,6 +57,7 @@ Semaphore项目团队正在发起一个多方参与的可信配置第一阶段�
 | 0047 | Saravanan Vijayakumaran | [Keybase](https://keybase.io/sarva_v) | [0047_saravanan_response](./0047_saravanan_response/README.md) |
 | 0048 | R. Tyler Smith | [Keybase](https://keybase.io/rtylersmith) | [0048_tyler_response](./0048_tyler_response/README.md) |
 | 0049 | Jordi Baylina | [Keybase](https://keybase.io/jbaylina) | [0049_jordi_response](./0049_jordi_response/README.md) |
+| 0050 | Koh Wei Jie | [Keybase](https://keybase.io/contactkohweijie) | [0050_weijie_response](./0050_weijie_response/README.md) |
 
 ## 流程
 
