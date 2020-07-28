@@ -155,6 +155,7 @@ challenge files (except, of course, `challenge_initial`).
 | `QmWWsdJQn8vW7Wpwz5AhgjT8Hx8Zi1dgrMvdaWY6gh8xkN` | response_0047_saravanan |
 | `QmNSKeimtsCALSVS2pTaHzr51LQdiQgAwCcVcDG5QPSNqK` | response_0048_tyler |
 | `QmcedV8NzSp9kxbYC7Gwwp3kRd3Gbzztm9fBcfX6uXkHTy` | response_0049_jordi |
+| `QmfJA4GxM4g422wVaWiLNMwFvNRK4NhF3ZGguBHSVhakce` | response_0050_weijie |
 
 ## Procedure
 
