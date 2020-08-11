@@ -36,7 +36,7 @@ Blake2b hash of the `new_challenge` file for participant #47:
     c386b7e1 6a340f0f e9004f93 52fd1a61
 ```
 
-The above `new_challenge` file: https://ppot.blob.core.windows.net/public/challenge_0046
+The above `new_challenge` file: https://ppot.blob.core.windows.net/public/challenge_0047
 
 Tomasz Korwin-Gajkowski's attestation:
 ***
