@@ -53,7 +53,7 @@ Attestation to response 0047
 
 *Software version*: https://github.com/kobigurk/phase2-bn254/commit/bf852c168676a7afc5dd17b47ff9b8f394aeab8a
 
-*Challenge*: URL: https://ppotuk.blob.core.windows.net/public/challenge\_0047
+*Challenge*: URL: https://ppotin.blob.core.windows.net/public/challenge_0047
 
 ```
 `challenge` file contains decompressed points and has a hash:
