@@ -1,4 +1,4 @@
-See `attestation_0053.md.txt` in this directory for Juan Leni's signed attestation.
+See `attestation_0053.md` in this directory for Juan Leni's signed attestation.
 
 Hash of the [`challenge`](https://ppot.blob.core.windows.net/public/challenge_0053) file for verification:
 
