@@ -161,6 +161,7 @@ challenge files (except, of course, `challenge_initial`).
 | `QmfJA4GxM4g422wVaWiLNMwFvNRK4NhF3ZGguBHSVhakce` | response_0050_weijie |
 | `QmPw8XM7jBrykitCuDPb3mW8j4U4fj3LJNnFejjDVSCmKG` | response_0051_joe |
 | `QmSQMM6NJwZT5JFnm4sd3gyQsGV17PwsvjqZkWmZ6Aeqr9` | response_0052_zaki |
+| `QmUSyF5fzsteBuTUiHfkepsaQeSaD5Xc84RMUXgygtLSL8` | response_0053_juan |
 
 ## Procedure
 
