@@ -1,0 +1,74 @@
+See `attestation_0046.md` in this directory for Tomasz Korwin-Gajkowski's signed attestation.
+
+Hash of the [`challenge`](https://ppot.blob.core.windows.net/public/challenge_0046) file for verification:
+
+```
+    939038cd 2dc5a1c0 20f368d2 bfad8686
+    950fdf7e c2d2e192 a7d59509 3068816b
+    becd914b a293dd8a cb6d18c7 b5116b66
+    ea54d915 d47a89cc fbe2d5a3 444dfbed
+```
+
+`response` was based on the hash:
+
+```
+    939038cd 2dc5a1c0 20f368d2 bfad8686
+    950fdf7e c2d2e192 a7d59509 3068816b
+    becd914b a293dd8a cb6d18c7 b5116b66
+    ea54d915 d47a89cc fbe2d5a3 444dfbed
+```
+
+Hash of the [`response`](https://ppot.blob.core.windows.net/public/response_0046_tkorwin) file for verification:
+
+```
+    f6124334 8acc3313 f3197405 d22b5ed1
+    b552967f 4eadd830 012ad991 c151574f
+    d9a8fed7 9a4a9706 bb852438 7b8180a7
+    1ccec376 b69e0426 91d9a01a 0c28102b
+```
+
+Blake2b hash of the `new_challenge` file for participant #47:
+
+```
+    5aac215d a5d5efcb c8badb59 67fd43b5
+    b9b0a9ec f653fc5b d8604a05 869ecce3
+    20d3dafc 42de3eef 05ec318f 94e08552
+    c386b7e1 6a340f0f e9004f93 52fd1a61
+```
+
+The above `new_challenge` file: https://ppot.blob.core.windows.net/public/challenge_0047
+
+Tomasz Korwin-Gajkowski's attestation:
+***
+Attestation to response 0046
+----------------------------
+*Date*: 05.07.2020 - 06.07.2020
+*Name*: Tomasz Korwin-Gajkowski
+*Location*: Krakow, Poland
+*Device*: Lenovo Thinkpad P52s with Ubuntu 20.04
+
+*Challenge*:
+```
+`challenge` file contains decompressed points and has a hash:
+	939038cd 2dc5a1c0 20f368d2 bfad8686 
+	950fdf7e c2d2e192 a7d59509 3068816b 
+	becd914b a293dd8a cb6d18c7 b5116b66 
+	ea54d915 d47a89cc fbe2d5a3 444dfbed 
+`challenge` file claims (!!! Must not be blindly trusted) that it was based on the original contribution with a hash:
+	213b9ab7 06ea361c 50a34515 47f17bf6 
+	370acade b17466a9 3db23b9b d4326375 
+	785ac440 639809a4 398c603e 031861f2 
+	c388ae35 9df8b31d 09994e82 885ddf06
+```
+
+*Response*:
+```
+The BLAKE2b hash of ./response is:
+  f6124334 8acc3313 f3197405 d22b5ed1 
+  b552967f 4eadd830 012ad991 c151574f 
+  d9a8fed7 9a4a9706 bb852438 7b8180a7 
+  1ccec376 b69e0426 91d9a01a 0c28102b
+```
+
+*Entropy Sources*: random key input
+*Side channel defences*: None Postprocessing: Reboot after I finished
