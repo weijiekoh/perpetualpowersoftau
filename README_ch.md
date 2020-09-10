@@ -63,6 +63,7 @@ Semaphore项目团队正在发起一个多方参与的可信配置第一阶段�
 | 0053 | Juan Leni | [Keybase](https://keybase.io/jleni) | [0053_juan_response](./0053_juan_response/README.md) |
 | 0054 | Jarrad Hope | [Keybase](https://keybase.io/jarradhope) | [0054_jarrad_response](./0054_jarrad_response/README.md) |
 | 0055 | Tyler Blaise Smith | [Keybase](https://keybase.io/tylersmith) | [0055_tyler_response](./0055_tyler_response/README.md) |
+| 0056 | Auryn Macmillan | [Keybase](https://keybase.io/auryn_macmillan) | [0056_auryn_response](./0056_auryn_response/README.md) |
 
 ## 流程
 
