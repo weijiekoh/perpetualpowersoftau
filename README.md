@@ -169,6 +169,7 @@ challenge files (except, of course, `challenge_initial`).
 | `QmSnaPnTfwLeauYEd5ZDBnUePHh4dzxfnAZnC3wVxrQeJn` | response_0054_jarrad |
 | `QmTiquUD89xYTtXq27tyFTVQunLadB8fjWe1pofFz2Dtws` | response_0055_tyler |
 | `QmQR8SmRVNmhR4MJzVUwQpeiR34QgAqswYaX5jPBPFv8T7` | response_0056_auryn |
+| `QmaiWt8rm9VGLrMQhJD6n3RzVffjFSHdyC1ZQaDQUNgBuH` | response_0057_gisli |
 
 ## Procedure
 
