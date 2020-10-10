@@ -69,6 +69,8 @@ To take part, please get in touch with Wei Jie via Twitter DM (@weijie_eth) or T
 | 0055 | Tyler Blaise Smith | [Keybase](https://keybase.io/tylersmith) | [0055_tyler_response](./0055_tyler_response/README.md) |
 | 0056 | Auryn Macmillan | [Keybase](https://keybase.io/auryn_macmillan) | [0056_auryn_response](./0056_auryn_response/README.md) |
 | 0057 | Gísli Kristjánsson | [Keybase](https://keybase.io/gislik) | [0057_gisli_response](./0057_gisli_response/README.md) |
+| 0058 | Rasikh | | |
+| 0059 | Pau Escrich | [Keybase](https://keybase.io/paues) | [0059_pau_response](./0059_pau_response/README.md) |
 
 ## Transcript files
 
