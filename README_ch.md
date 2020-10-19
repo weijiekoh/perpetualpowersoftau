@@ -67,6 +67,7 @@ Semaphore项目团队正在发起一个多方参与的可信配置第一阶段�
 | 0057 | Gísli Kristjánsson | [Keybase](https://keybase.io/gislik) | [0057_gisli_response](./0057_gisli_response/README.md) |
 | 0058 | Rasikh Morani | [Keybase](https://keybase.io/cryptojinn) | [0058_rasikh_response](./0058_rasikh_response/README.md) |
 | 0059 | Pau Escrich | [Keybase](https://keybase.io/paues) | [0059_pau_response](./0059_pau_response/README.md) |
+| 0060 | Koh Wei Jie | [Keybase](https://keybase.io/contactkohweijie) | [0060_weijie_response](./0060_weijie_response/README.md) |
 
 ## 流程
 
