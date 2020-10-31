@@ -72,6 +72,7 @@ To take part, please get in touch with Wei Jie via Twitter DM (@weijie_eth) or T
 | 0058 | Rasikh Morani | [Keybase](https://keybase.io/cryptojinn) | [0058_rasikh_response](./0058_rasikh_response/README.md) |
 | 0059 | Pau Escrich | [Keybase](https://keybase.io/paues) | [0059_pau_response](./0059_pau_response/README.md) |
 | 0060 | Koh Wei Jie | [Keybase](https://keybase.io/contactkohweijie) | [0060_weijie_response](./0060_weijie_response/README.md) |
+| 0061 | Adrià Massanet | [Keybase](https://keybase.io/adriamb) | [0061_adria_response](./0061_adria_response/README.md) |
 
 ## Transcript files
 
