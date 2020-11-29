@@ -75,6 +75,7 @@ To take part, please get in touch with Wei Jie via Twitter DM (@weijie_eth) or T
 | 0061 | Adrià Massanet | [Keybase](https://keybase.io/adriamb) | [0061_adria_response](./0061_adria_response/README.md) |
 | 0062 | Lev Dubinets | [Keybase](https://keybase.io/dubinets) | [0062_lev_response](./0062_lev_response/README.md) |
 | 0063 | David Schwartz | [Keybase](https://keybase.io/davidsrz) | [0063_david_response](./0063_david_response/README.md) |
+| 0064 | Ian Worrall | [Keybase](https://keybase.io/esphinx) | [0064_ian_response](./0064_ian_response/README.md) |
 
 ## Transcript files
 
