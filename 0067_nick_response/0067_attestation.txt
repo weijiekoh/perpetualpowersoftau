@@ -1,0 +1,36 @@
+### Attestation to response 0067
+
+**Date:** 2020 Dec 29
+
+Name: Nick Ulven 
+
+Location: Cambridge, MA, USA
+
+Device(s): Ubuntu 18 running on personal device 
+
+Challenge:
+    Blake2b:   cd09d656 255c26e5 ae0542e4 987d5a5e
+        86926c81 200a30f8 f013f912 08f31f5f
+        9f13edeb 595fcb3d 2e812110 77ca2e57
+        fa431ac6 27139c3c ba8bec2a 18fe6e08
+    URL: https://ppotde.blob.core.windows.net/public/challenge_0067
+
+Software used: https://github.com/iden3/snarkjs
+
+
+
+Response:
+    Blake2b:   9c353ade 28e48d8d 3a8a3ec6 8006f25f
+                c84433b0 e8677cd1 6396050e e8c1acb7
+                c81b3693 5f409193 1103069c 25c9e6e6
+                644eb835 7fafc0e7 a6c37540 d70ff27c
+
+Entropy sources: Bitcoin Block Hash, Keyboard Mashing
+
+Side channel defenses: None.
+
+Postprocessing:
+
+    I uploaded the response to an SFTP server provided by Elizabeth.
+
+    I purged the disks and memory of server.
