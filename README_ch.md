@@ -74,6 +74,7 @@ Semaphore项目团队正在发起一个多方参与的可信配置第一阶段�
 | 0064 | Ian Worrall | [Keybase](https://keybase.io/esphinx) | [0064_ian_response](./0064_ian_response/README.md) |
 | 0065 | Adrian Guerrera | [Keybase](https://keybase.io/deepyr) | [0065_adrian_response](./0065_adrian_response/README.md) |
 | 0066 | Kieran Mesquita | [Keybase](https://keybase.io/mesquka) | [0066_kieran_response](./0066_kieran_response/README.md) |
+| 0067 | Nick Ulven | | [0067_nick_response](./0067_nick_response/README.md) |
 
 ## 流程
 
