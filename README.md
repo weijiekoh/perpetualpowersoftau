@@ -57,7 +57,7 @@ To take part, please get in touch with Wei Jie via Twitter DM (@weijie_eth) or T
 | 0043 | Albert Ni | | [0043_albert_response](./0043_albert_response/README.md) |
 | 0044 | Ying Tong | [Keybase](https://keybase.io/yingtong) | [0044_yingtong_response](./0044_yingtong_response/README.md) |
 | 0045 | Ben Edgington | [Keybase](https://keybase.io/benjaminion) | [0045_ben_response](./0045_ben_response/README.md) |
-| 0046 | Tkorwin |  | [0046_tkorwin_response](./0046_tkorwin_response/README.md) |
+| 0046 | Tkorwin | [PGP](./0046_tkorwin_response/tkorwin.pgp) | [0046_tkorwin_response](./0046_tkorwin_response/README.md) |
 | 0047 | Saravanan Vijayakumaran | [Keybase](https://keybase.io/sarva_v) | [0047_saravanan_response](./0047_saravanan_response/README.md) |
 | 0048 | R. Tyler Smith | [Keybase](https://keybase.io/rtylersmith) | [0048_tyler_response](./0048_tyler_response/README.md) |
 | 0049 | Jordi Baylina | [Keybase](https://keybase.io/jbaylina) | [0049_jordi_response](./0049_jordi_response/README.md) |
@@ -78,7 +78,9 @@ To take part, please get in touch with Wei Jie via Twitter DM (@weijie_eth) or T
 | 0064 | Ian Worrall | [Keybase](https://keybase.io/esphinx) | [0064_ian_response](./0064_ian_response/README.md) |
 | 0065 | Adrian Guerrera | [Keybase](https://keybase.io/deepyr) | [0065_adrian_response](./0065_adrian_response/README.md) |
 | 0066 | Kieran Mesquita | [Keybase](https://keybase.io/mesquka) | [0066_kieran_response](./0066_kieran_response/README.md) |
-| 0067 | Nick Ulven | | [0067_nick_response](./0067_nick_response/README.md) |
+| 0067 | Nick Ulven |[PGP](./0067_nick_response/nick.pgp) | [0067_nick_response](./0067_nick_response/README.md) |
+| 0068 | Elena | | |
+| 0069 | Justice Hudson | [Keybase](https://keybase.io/j_chance) | [0069_justice_response](./0069_justice_response/README.md) |
 
 ## Transcript files
 
