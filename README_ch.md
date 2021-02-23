@@ -75,7 +75,7 @@ Semaphore项目团队正在发起一个多方参与的可信配置第一阶段�
 | 0065 | Adrian Guerrera | [Keybase](https://keybase.io/deepyr) | [0065_adrian_response](./0065_adrian_response/README.md) |
 | 0066 | Kieran Mesquita | [Keybase](https://keybase.io/mesquka) | [0066_kieran_response](./0066_kieran_response/README.md) |
 | 0067 | Nick Ulven |[PGP](./0067_nick_response/nick.pgp) | [0067_nick_response](./0067_nick_response/README.md) |
-| 0068 | Elena | | |
+| 0068 | Elena | [Keybase](https://keybase.io/elena_irf) | [0068_elena_response](./0068_elena_response/README.md) |
 | 0069 | Justice Hudson | [Keybase](https://keybase.io/j_chance) | [0069_justice_response](./0069_justice_response/README.md) |
 
 ## 流程
