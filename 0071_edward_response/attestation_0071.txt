@@ -1,0 +1,28 @@
+Attestation to response 0071
+----------------------------
+
+*Date*: March 2-4, 2021.
+
+*Name*: Edward Fricker.
+
+*Alias*: edward_f 
+
+*Keybase*: edwd
+
+*Device*: Lab computer (Ubuntu 20.10)
+
+*Location*: Australia. (AEST)
+
+*SnarkJS Commit Hash*: 4b59226da8bf89d737ed255e7759e7e1b6b39b6d
+
+*Challenge b2sum*: 21724899dd80e7434ae7bb1fb735d0e492ff36619ac8786b9595ee02ba2ada208ecbde62d070f30d1a832e5bf3ad6c2a975300a2b346f2054c62b70f7d97bdcc
+
+*Response b2sum*: fd607e9010a8428981ef636d798240c9dfd49415460d678a0dd763d5ee3ca864c63041a716f807d3122cd2472606a132120f014d1b8ebe16ba8d4ee259a22fea
+
+*Entropy Sources*: Human generated unique string of words.
+
+*Time Taken*: Approximately 2 days.
+
+*Side channel defences*: Swap disabled, software hashes verified, computer locked in secure office, process peer observed by Kieran Mesquita (mesquka) no other individual with access.
+
+*Postprocessing*: Wiped drive.
