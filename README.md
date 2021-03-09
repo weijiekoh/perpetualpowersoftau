@@ -81,6 +81,8 @@ To take part, please get in touch with Wei Jie via Twitter DM (@weijie_eth) or T
 | 0067 | Nick Ulven |[PGP](./0067_nick_response/nick.pgp) | [0067_nick_response](./0067_nick_response/README.md) |
 | 0068 | Elena | [Keybase](https://keybase.io/elena_irf) | [0068_elena_response](./0068_elena_response/README.md) |
 | 0069 | Justice Hudson | [Keybase](https://keybase.io/j_chance) | [0069_justice_response](./0069_justice_response/README.md) |
+| 0070 | Bertrand |  |  |
+| 0071 | Edward Fricker | [Keybase](https://keybase.io/edwd) | [0071_edward_response](./0071_edward_response/README.md) |
 
 ## Transcript files
 
