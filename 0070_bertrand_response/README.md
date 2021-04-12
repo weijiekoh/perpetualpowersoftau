@@ -1,4 +1,4 @@
-See `-` in this directory for Bertrand's signed attestation. 
+See `attestation_0070.md` in this directory for Bertrand Juglas's signed attestation. 
 
 Hash of the [`challenge`](https://ppot.blob.core.windows.net/public/challenge_0070) file for verification:
 
@@ -37,4 +37,3 @@ Blake2b hash of the `new_challenge` file for participant #71:
 ```
 
 The above `new_challenge` file: https://ppot.blob.core.windows.net/public/challenge_0071
-
