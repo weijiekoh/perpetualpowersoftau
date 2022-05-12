@@ -1,1 +1,26 @@
-** Attestation **
+Attestation to response 0072
+Date: Fri Apr 22 2022 - Mon Apr 25 2022 Name: José Pedro Sousa Location: Porto, Portugal Device: A friend's hosted machine Software: SnarkJS version 0.4.16 Challenge: URL:
+
+Claimed Previous Response Hash:
+		fd607e90 10a84289 81ef636d 798240c9
+		dfd49415 460d678a 0dd763d5 ee3ca864
+		c63041a7 16f807d3 122cd247 2606a132
+		120f014d 1b8ebe16 ba8d4ee2 59a22fea
+Current Challenge Hash:
+		17589762 870d0dd2 592ef849 06a04225
+		b71175c0 dd7a8f6e 0743670a 83c2f0fb
+		b6ffa0aa a012718e ec2569a8 6a28ba7d
+		671be9d0 8b8b038b 4fac6b7c 15b73880
+Response:
+
+Contribution Response Hash:
+		462b7838 3ba73603 f63c6022 0dd9151d
+		ad2bf6e5 1be51dd4 206446ca 1fa56085
+		ded102c5 609db147 939f3326 573a04ef
+		370093c2 5c893aec a5c7386f c0ddaa4a
+
+Time taken Approximatelly 4 days, about 21h processing
+
+Entropy Sources: The binary representation of my cello's D string vibration
+
+Postprocessing: Rebooted the machine
