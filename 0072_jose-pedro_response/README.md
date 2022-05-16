@@ -29,4 +29,11 @@ Here's the BLAKE2b hash of the decompressed participant's response as challenge_
         703108e3 9810741a 457b4cb5 0d4806bf
         c2166b17 3ed8a095 8640cb5e 5555a1a6
 ```
+
+The hash of the attestation is 0x29923ded3e20f3371d5c5817b2782d55964b8eb4dea20074d1916cef2a2c3354
+
+The ethereum transaction signing it is 0xc245059a28bf3b9d8754f81f4cda4990651b08b72b6906e479035402a80f058a
+
+Jose Pedro has disclosed his ethereum address in his facebook page: https://www.facebook.com/profile.php?id=100005138745123
+
 The above new_challenge file: ???/challenge_0073
