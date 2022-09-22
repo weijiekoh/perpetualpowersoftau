@@ -1,4 +1,4 @@
-See `attestation_0073.txt` in this directory for Derya's attestation. 
+See [`this link`](https://github.com/deryakarl/powersoftau-challege_0073_response/blob/main/README.md) for Derya's attestation. Details have been duplicated below.
 
 Hash of the [`challenge`](https://storage.googleapis.com/ppot/challenge_0073) file for verification:
 
