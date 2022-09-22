@@ -34,6 +34,43 @@ The hash of the attestation is 0x29923ded3e20f3371d5c5817b2782d55964b8eb4dea2007
 
 The ethereum transaction signing it is 0xc245059a28bf3b9d8754f81f4cda4990651b08b72b6906e479035402a80f058a
 
-Jose Pedro has disclosed his ethereum address in his facebook page: https://www.facebook.com/profile.php?id=100005138745123
+The above new_challenge file: https://storage.googleapis.com/ppot/challenge_0073
 
-The above new_challenge file: ???/challenge_0073
+José Pedro's attestation:
+
+See  https://gist.github.com/signorecello/4641c7474356f0784137c00cd41c9fa9#file-zepedrosousa_attestation-md  for José Pedro's signed attestation. 
+
+
+***
+Attestation to response 0072
+----------------------------
+
+*Date*: Fri Apr 22 2022 - Mon Apr 25 2022 
+
+*Name*: José Pedro Sousa 
+
+*Location*: Porto, Portugal 
+
+*Device*: A friend's hosted machine
+
+*Software*: SnarkJS version 0.4.16 
+
+*Claimed Previous Response Hash*:
+```
+		fd607e90 10a84289 81ef636d 798240c9
+		dfd49415 460d678a 0dd763d5 ee3ca864
+		c63041a7 16f807d3 122cd247 2606a132
+		120f014d 1b8ebe16 ba8d4ee2 59a22fea
+```
+
+*Time taken*: Approximatelly 4 days, about 21h processing
+
+*Entropy Sources*: The binary representation of my cello's D string vibration
+
+*Postprocessing*: Rebooted the machine
+
+The hash of the attestation is 0x29923ded3e20f3371d5c5817b2782d55964b8eb4dea20074d1916cef2a2c3354
+
+The ethereum transaction signing it is 0xc245059a28bf3b9d8754f81f4cda4990651b08b72b6906e479035402a80f058a
+
+I disclosed my ethereum address in my facebook page which can be easily verifiable to me mine https://www.facebook.com/profile.php?id=100005138745123
