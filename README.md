@@ -6,7 +6,7 @@ The Semaphore team is conducting phase 1 of a multi-party trusted setup ceremony
 
 As long as one party in the ceremony behaves honestly and is not compromised, the entire setup is trustworthy.
 
-To take part, please get in touch with Wei Jie via Twitter DM (@weijie_eth) or Telegram (@weijiek).
+To take part, please get in touch with EF's PSE team via Twitter DM (@glamperd) or Telegram (@glamperd).
 
 ## Ceremony progress
 
@@ -83,6 +83,7 @@ To take part, please get in touch with Wei Jie via Twitter DM (@weijie_eth) or T
 | 0069 | Justice Hudson | [Keybase](https://keybase.io/j_chance) | [0069_justice_response](./0069_justice_response/README.md) |
 | 0070 | Bertrand Juglas | [Keybase](https://keybase.io/bertux) | [0070_bertrand_response](./0070_bertrand_response/README.md) |
 | 0071 | Edward Fricker | [Keybase](https://keybase.io/edwd) | [0071_edward_response](./0071_edward_response/README.md) |
+| 0072 | Jose Pedro Sousa |  | [0072_jose-pedro_response](./0072_jose-pedro_response/README.md) |
 
 ## Transcript files
 
