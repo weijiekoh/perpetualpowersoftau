@@ -2,7 +2,7 @@
 
 [中文](./README_ch.md)
 
-The Semaphore team is conducting phase 1 of a multi-party trusted setup ceremony based on the Zcash Powers of Tau ceremony. The goal is to securely generate zk-SNARK parameters for circuits of up to `2 ^ 28` (260+ million) constraints. This means that the process will generate twice as many minus one (530+ million) powers of tau.
+The Privacy & Scaling Explorations team is conducting phase 1 of a multi-party trusted setup ceremony based on the Zcash Powers of Tau ceremony. The goal is to securely generate zk-SNARK parameters for circuits of up to `2 ^ 28` (260+ million) constraints. This means that the process will generate twice as many minus one (530+ million) powers of tau.
 
 As long as one party in the ceremony behaves honestly and is not compromised, the entire setup is trustworthy.
 
@@ -84,6 +84,7 @@ To take part, please get in touch with EF's PSE team via Twitter DM (@glamperd) 
 | 0070 | Bertrand Juglas | [Keybase](https://keybase.io/bertux) | [0070_bertrand_response](./0070_bertrand_response/README.md) |
 | 0071 | Edward Fricker | [Keybase](https://keybase.io/edwd) | [0071_edward_response](./0071_edward_response/README.md) |
 | 0072 | Jose Pedro Sousa |  | [0072_jose-pedro_response](./0072_jose-pedro_response/README.md) |
+| 0073 | Derya Karli |  | [0073_derya_response](./0073_derya_response/README.md) |
 
 ## Transcript files
 
