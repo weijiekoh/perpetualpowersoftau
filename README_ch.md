@@ -79,6 +79,8 @@ Semaphore项目团队正在发起一个多方参与的可信配置第一阶段�
 | 0069 | Justice Hudson | [Keybase](https://keybase.io/j_chance) | [0069_justice_response](./0069_justice_response/README.md) |
 | 0070 | Bertrand Juglas | [Keybase](https://keybase.io/bertux) | [0070_bertrand_response](./0070_bertrand_response/README.md) |
 | 0071 | Edward Fricker | [Keybase](https://keybase.io/edwd) | [0071_edward_response](./0071_edward_response/README.md) |
+| 0072 | Jose Pedro Sousa |  | [0072_jose-pedro_response](./0072_jose-pedro_response/README.md) |
+| 0073 | Derya Karli |  | [0073_derya_response](./0073_derya_response/README.md) |
 
 ## 流程
 
