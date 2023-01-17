@@ -1,3 +1,6 @@
+Please navigate to: https://github.com/privacy-scaling-explorations/perpetualpowersoftau
+
+<!--
 # Perpetual Powers of Tau
 
 [中文](./README_ch.md)
@@ -359,3 +362,4 @@ contract Notary {
 5. Asking random people on the street for numbers
 6. Geiger readings of radioactive material. e.g. a radioactive object, which can be anything from a [banana](https://en.wikipedia.org/wiki/Banana_equivalent_dose) to a [Chernobyl fragment](https://www.vice.com/en_us/article/gy8yn7/power-tau-zcash-radioactive-toxic-waste).
 7. Environmental data (e.g. the weather, seismic activity, or readings from the sun)
+-->
