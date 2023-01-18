@@ -1,6 +1,6 @@
 See [`this link`](https://github.com/deryakarl/powersoftau-challege_0073_response/blob/main/README.md) for Derya's attestation. Details have been duplicated below.
 
-Hash of the [`challenge`](https://storage.googleapis.com/ppot/challenge_0073) file for verification:
+Hash of the [`challenge`](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0073) file for verification:
 
 ```
         673482ac e9afa440 a727aee2 4d6db618
@@ -18,7 +18,7 @@ Hash of the [`challenge`](https://storage.googleapis.com/ppot/challenge_0073) fi
         c2166b17 3ed8a095 8640cb5e 5555a1a6
 ```
 
-Hash of the [`response`](https://storage.googleapis.com/ppot/response_0073) file for verification:
+Hash of the [`response`](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0073) file for verification:
 
 ```
         6cbdc19e 016d3b8d 184ecc07 0475cdf1
@@ -36,7 +36,7 @@ Blake2b hash of the `new_challenge` file for participant #74:
         94373bf7 26e59b0d 20d568ae a701e01a
 ```
 
-The above `new_challenge` file: https://storage.googleapis.com/ppot/challenge_0074
+The above `new_challenge` file: [`challenge_0074`](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0074)
 
 
 Derya's attestation:

@@ -14,7 +14,7 @@ Hash of the `challenge` file for verification:
         b6ffa0aa a012718e ec2569a8 6a28ba7d
         671be9d0 8b8b038b 4fac6b7c 15b73880
 ```
-Hash of the response file for verification:
+Hash of the [`response`](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0072_jose-pedro) file for verification:
 ```
         462b7838 3ba73603 f63c6022 0dd9151d
         ad2bf6e5 1be51dd4 206446ca 1fa56085
@@ -34,7 +34,7 @@ The hash of the attestation is 0x29923ded3e20f3371d5c5817b2782d55964b8eb4dea2007
 
 The ethereum transaction signing it is 0xc245059a28bf3b9d8754f81f4cda4990651b08b72b6906e479035402a80f058a
 
-The above new_challenge file: https://storage.googleapis.com/ppot/challenge_0073
+The above new_challenge file: [`challenge_0073`](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0073)
 
 José Pedro's attestation:
 
