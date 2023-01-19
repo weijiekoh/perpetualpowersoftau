@@ -85,6 +85,7 @@ To take part, please get in touch with EF's PSE team via Twitter DM (@glamperd) 
 | 0071 | Edward Fricker | [Keybase](https://keybase.io/edwd) | [0071_edward_response](./0071_edward_response/README.md) |
 | 0072 | Jose Pedro Sousa |  | [0072_jose-pedro_response](./0072_jose-pedro_response/README.md) |
 | 0073 | Derya Karli |  | [0073_derya_response](./0073_derya_response/README.md) |
+| 0074 | Daniel Coggan |  | [0074_daniel_response](./0074_daniel_response/README.md) |
 
 ## Transcript files
 
