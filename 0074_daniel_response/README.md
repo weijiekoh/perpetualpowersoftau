@@ -1,4 +1,4 @@
-See [`this link`](https://github.com/??) for Daniel's attestation. 
+# Daniel's contribution:
 
 Hash of the [`challenge`](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0074) file for verification:
 
@@ -38,28 +38,10 @@ Blake2b hash of the `new_challenge` file for participant #75:
 
 The above `new_challenge` file: [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0075)
 
-Daniel's attestation:
-
 ***
-Attestation to response 0074
-----------------------------
 
 # Attestation to response 0074
 
 Date: Jan 11-13, 2023 
+
 Name: Daniel Coggan 
-Location:  
-Device: 
-Commit Hash: 
-URL:
-
-
-Time taken download :
-
-Time taken upload : 
-
-Entropy Sources: 
-
-Side channel defences: 
-
-Postprocessing: 
