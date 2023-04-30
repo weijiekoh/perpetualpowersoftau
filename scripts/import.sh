@@ -4,7 +4,7 @@ while read -r line; do
   # Parse sequence num
   RESPFILE=$(echo $line | grep -oE '(response_.*)')
   SEQ=$(echo $RESPFILE | cut -d_ -f2)
-  PREVSEQ=$(printf "%04d" $(( SEQ - 1 )))
+  PREVSEQ=$(printf "%04d" $(( 10#$SEQ - 1 )))
   
   # get response file
   wget $line
@@ -13,7 +13,7 @@ while read -r line; do
   fi
 
   # import to new ptau
-  snarkjs powersoftau import response --nopoints -v pot28_${PREVSEQ}_nopoints.ptau ${RESPFILE} pot28_${SEQ}_nopoints.ptau &
+  snarkjs powersoftau import response --nopoints -v pot28_${PREVSEQ}_nopoints.ptau ${RESPFILE} pot28_${SEQ}_nopoints.ptau >import_${SEQ}.log
   if [ $? -eq 1 ]; then
     exit 1
   fi
