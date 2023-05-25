@@ -86,6 +86,7 @@ To take part, please get in touch with EF's PSE team via Twitter DM (@glamperd) 
 | 0072 | Jose Pedro Sousa |  | [0072_jose-pedro_response](./0072_jose-pedro_response/README.md) |
 | 0073 | Derya Karli |  | [0073_derya_response](./0073_derya_response/README.md) |
 | 0074 | Daniel Coggan |  | [0074_daniel_response](./0074_daniel_response/README.md) |
+| 0075 | Mohammad Jahanara |  | [0075_mohammad_response](./0075_mohammad_response/README.md) |
 
 ## Transcript files
 
