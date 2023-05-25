@@ -51,7 +51,7 @@ the progress of the computation. When the process is complete, something like
 the following will be present in the output:
 
 ```
-[INFO]  snarkJS: Claimed Previus Response Hash:
+[INFO]  snarkJS: Claimed Previous Response Hash:
                 786a02f7 42015903 c6c6fd85 2552d272
                 912f4740 e1584761 8a86e217 f71f5419
                 d25e1031 afee5853 13896444 934eb04b
