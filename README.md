@@ -262,6 +262,7 @@ Each participant can transfer their response to the coordinator via `sftp`. This
 - BitTorrent
 - IPFS
 - Third-party large-file transfer services like [MASV](https://www.massive.io)
+- SFTP: You will be provided details on request
 
 ## Coordination
 
@@ -282,7 +283,7 @@ First, set up a Linux machine and install Rust and Cargo following instructions 
 Download and compile the required source code:
 
 ```bash
-git clone https://github.com/kobigurk/phase2-bn254.git --branch ppot_ceremony && \
+git clone https://github.com/kobigurk/phase2-bn254.git --branch master && \
 cd phase2-bn254/powersoftau && \
 cargo build --release
 ```
