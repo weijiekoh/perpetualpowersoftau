@@ -98,4 +98,4 @@ mv response response_0077_yi
 Original attestion: [link](https://gist.github.com/yi-sun/6151f2c26bcc02f6c338563c110821c6#file-axiom-trusted-setup-compute-constrained)
 
 
-Verification log: [link](https://s3.console.aws.amazon.com/s3/object/pse-trusted-setup-ppot?region=eu-central-1&prefix=log_0077.txt)
+Verification log: [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/log_0077.txt)
