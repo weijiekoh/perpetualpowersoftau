@@ -88,6 +88,7 @@ To take part, please get in touch with EF's PSE team via Twitter DM (@glamperd) 
 | 0074 | Daniel Coggan |  | [0074_daniel_response](./0074_daniel_response/README.md) |
 | 0075 | Mohammad Jahanara |  | [0075_mohammad_response](./0075_mohammad_response/README.md) |
 | 0076 | Jonathan P Wang |  | [0076_jpw_response](./0076_jpw_response/README.md) |
+| 0077 | Yi Sun |  | [0077_yi_response](./0077_yi_response/README.md) |
 
 ## Transcript files
 

@@ -81,6 +81,10 @@ Semaphore项目团队正在发起一个多方参与的可信配置第一阶段�
 | 0071 | Edward Fricker | [Keybase](https://keybase.io/edwd) | [0071_edward_response](./0071_edward_response/README.md) |
 | 0072 | Jose Pedro Sousa |  | [0072_jose-pedro_response](./0072_jose-pedro_response/README.md) |
 | 0073 | Derya Karli |  | [0073_derya_response](./0073_derya_response/README.md) |
+| 0074 | Daniel Coggan |  | [0074_daniel_response](./0074_daniel_response/README.md) |
+| 0075 | Mohammad Jahanara |  | [0075_mohammad_response](./0075_mohammad_response/README.md) |
+| 0076 | Jonathan P Wang |  | [0076_jpw_response](./0076_jpw_response/README.md) |
+| 0077 | Yi Sun |  | [0077_yi_response](./0077_yi_response/README.md) |
 
 ## 流程
 
