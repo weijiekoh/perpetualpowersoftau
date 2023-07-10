@@ -18,7 +18,7 @@ Hash of the [`challenge`](https://ppot.blob.core.windows.net/public/challenge_00
 	99160633 05577912 d0ae6547 5e036015
 ```
 
-Hash of the [`response`](https://ppot.blob.core.windows.net/public/response_0058_rasikh) file for verification:
+Hash of the [`response`](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0058_rasikh) file for verification:
 
 ```
 	265770e2 f029bad3 33dde75b d688db39
@@ -36,7 +36,7 @@ Blake2b hash of the `new_challenge` file for participant #59:
 	4dc00361 9879f7e3 e8d852dd 6517dd2d
 ```
 
-The above `new_challenge` file: https://ppot.blob.core.windows.net/public/challenge_0059
+The above `new_challenge` file: https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0078a
 
 Rasikh Morani's attestation:
 ***

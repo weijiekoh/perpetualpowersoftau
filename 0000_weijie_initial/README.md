@@ -22,7 +22,7 @@ Steps taken:
 5. The result was a `challenge file` with SHA256 hash
    `80e39d37ce3133046166b7e50659d61f0ec572183393e9fd21f55fe34bea3e44` and took
     2 hours.  Download `challenge`
-    [here](https://ppot.blob.core.windows.net/public/challenge_initial). Note that
+    [here](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_initial). Note that
     the filename of the copy stored online is `challenge_initial`.
 
 Future participants, however, should use the code in Kobi Gurkan's repository:

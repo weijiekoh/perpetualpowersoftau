@@ -18,7 +18,7 @@ Hash of the [`challenge`](https://ppot.blob.core.windows.net/public/challenge_00
     17d615f9 aa3d9a56 4434d457 d00c95d9
 ```
 
-Hash of the [`response`](https://ppot.blob.core.windows.net/public/response_0050_weijie) file for verification:
+Hash of the [`response`](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0050_weijie) file for verification:
 
 ```
     11611a89 05056363 781d2039 487f00fe

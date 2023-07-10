@@ -1,7 +1,7 @@
 Kobi Gurkan's attestation is as follows. See also `kobi_attestation.txt` and
 `kobi_attestation.sig` in this directory.
 
-Challenge file: https://ppot.blob.core.windows.net/public/challenge_0002_kobi
+Challenge file: https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0002_kobi
 
 Response file: https://ppot.blob.core.windows.net/public/response_0002_kobi
 
