@@ -385,6 +385,8 @@ We have a complete set of data available for the second branch. This is not the 
 
 The first fork remains valid. Contribution 0077 has the longest chain of contributions, and may be used in phase 2 setups. The chain of hashes can be confirmed by referring to the contribution details stored in this repository. However, a stronger cryptographic verification requires a continuous and complete chain of public keys in addition to the contribution hashes. Such data is embedded in `.ptau` files, as used by `snarkjs`. A `snarkjs powersoftau verify` command will cryptographically validate the full chain of public keys. Thus, it is not possible for us to generate fully-compatible `.ptau` files from 0077 or its immediate predecessors. 
 
-We have a complete history of public keys up to 0058, and for the branch continuing from there with 0078. We will, from time to time, publish `.ptau` files from this branch.  
+We have a complete history of public keys up to 0058, and for the branch continuing from there with 0078. We will, from time to time, publish `.ptau` files from this branch. 
+
+Note also that links referred to files in `ppot.blob.core.windows.net` bucket are no longer working. Some of these files are available on either IPFS or S3 high-availability, or S3 Glacier (available only by request).
 
 
