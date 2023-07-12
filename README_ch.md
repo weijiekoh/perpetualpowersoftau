@@ -85,6 +85,8 @@ Semaphore项目团队正在发起一个多方参与的可信配置第一阶段�
 | 0075 | Mohammad Jahanara |  | [0075_mohammad_response](./0075_mohammad_response/README.md) |
 | 0076 | Jonathan P Wang |  | [0076_jpw_response](./0076_jpw_response/README.md) |
 | 0077 | Yi Sun |  | [0077_yi_response](./0077_yi_response/README.md) |
+| N.B. | 此后的捐款将从 0058 继续 
+| 0078 | Soham Zemse |  | [0078_soham_response](./0078_soham_response/README.md) |
 
 ## 流程
 

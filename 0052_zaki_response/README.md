@@ -18,7 +18,7 @@ Hash of the [`challenge`](https://ppot.blob.core.windows.net/public/challenge_00
     a6e1b3f0 a54d2d22 d4ed1d92 16c09402
 ```
 
-Hash of the [`response`](https://ppot.blob.core.windows.net/public/response_0052_zaki) file for verification:
+Hash of the [`response`](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0052_zaki) file for verification:
 
 ```
     991c7525 41bc610b c6931b33 ed31be6b

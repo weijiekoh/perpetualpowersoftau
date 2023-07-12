@@ -18,7 +18,7 @@ Hash of the [`challenge`](https://ppot.blob.core.windows.net/public/challenge_00
     aec90e60 e2490e5d 09ea36bf 3222840f
 ```
 
-Hash of the [`response`](https://ppot.blob.core.windows.net/public/response_0055_tyler) file for verification:
+Hash of the [`response`](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0055_tyler) file for verification:
 
 ```
     d450e7ba c92588ec 64082588 1faec73d

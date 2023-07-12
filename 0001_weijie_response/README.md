@@ -16,7 +16,7 @@ Ubuntu 18.04 hosted on a cloud machine somewhere in Southeast Asia.
 
 - Blake2b: `93da91920d5a54a8a0fde55cd9dc3a10c4f3eef768b62c0948741370864254b4c1920f3f29d4ebc0ef3acecf2e2db63a755713d77e1ed77347a56fbc317c7a93`
 
-- URL:     https://ppot.blob.core.windows.net/public/challenge_initial
+- URL:     https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_initial
 
 **Software used:** https://github.com/matter-labs/powersoftau/commit/1ff12d0529eab47e40bf7fe7a1bb576a1df4e46e
 

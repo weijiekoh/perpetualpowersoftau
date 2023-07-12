@@ -18,7 +18,7 @@ Hash of the [`challenge`](https://ppot.blob.core.windows.net/public/challenge_00
     afaf5c1a e35f24e6 36f7e066 fada8b64
 ```
 
-Hash of the [`response`](https://ppot.blob.core.windows.net/public/response_0056_auryn) file for verification:
+Hash of the [`response`](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0056_auryn) file for verification:
 
 ```
     e054da11 827bf387 5611ee78 efc0130c

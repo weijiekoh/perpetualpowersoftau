@@ -89,6 +89,8 @@ To take part, please get in touch with EF's PSE team via Twitter DM (@glamperd) 
 | 0075 | Mohammad Jahanara |  | [0075_mohammad_response](./0075_mohammad_response/README.md) |
 | 0076 | Jonathan P Wang |  | [0076_jpw_response](./0076_jpw_response/README.md) |
 | 0077 | Yi Sun |  | [0077_yi_response](./0077_yi_response/README.md) |
+| N.B. | Contributions hereafter will chain from 0058 
+| 0078 | Soham Zemse |  | [0078_soham_response](./0078_soham_response/README.md) |
 
 ## Transcript files
 
@@ -372,3 +374,19 @@ contract Notary {
 5. Asking random people on the street for numbers
 6. Geiger readings of radioactive material. e.g. a radioactive object, which can be anything from a [banana](https://en.wikipedia.org/wiki/Banana_equivalent_dose) to a [Chernobyl fragment](https://www.vice.com/en_us/article/gy8yn7/power-tau-zcash-radioactive-toxic-waste).
 7. Environmental data (e.g. the weather, seismic activity, or readings from the sun)
+
+# Note on Chain Fork
+
+The chain of contributions now has two forks, branching after contribution number 0058. This choice has been made for the reasons outlined below. 
+
+Contributions from 0059 to 0077 form the first branch. Contribution 0078 chains from 0058, and this second branch is the one to be continued for future contributions. 
+
+We have a complete set of data available for the second branch. This is not the case for the first branch. Data, including public keys, for some of the contributions (0059 to 0071) are no longer available. 
+
+The first fork remains valid. Contribution 0077 has the longest chain of contributions, and may be used in phase 2 setups. The chain of hashes can be confirmed by referring to the contribution details stored in this repository. However, a stronger cryptographic verification requires a continuous and complete chain of public keys in addition to the contribution hashes. Such data is embedded in `.ptau` files, as used by `snarkjs`. A `snarkjs powersoftau verify` command will cryptographically validate the full chain of public keys. Thus, it is not possible for us to generate fully-compatible `.ptau` files from 0077 or its immediate predecessors. 
+
+We have a complete history of public keys up to 0058, and for the branch continuing from there with 0078. We will, from time to time, publish `.ptau` files from this branch. 
+
+Note also that links referred to files in `ppot.blob.core.windows.net` bucket are no longer working. Some of these files are available on either IPFS or S3 high-availability, or S3 Glacier (available only by request).
+
+
