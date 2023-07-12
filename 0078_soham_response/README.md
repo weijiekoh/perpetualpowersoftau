@@ -1,6 +1,6 @@
 # Note
 
-This contribution continues from contribution number 58. The hash from which this contribution is derived will match that of [0058](../0058_rasikh_response/). See notes in [the repo's README](../README.md) for further details.
+This contribution continues from contribution number 58. This contribution's predecessor hash will match that of [0058](../0058_rasikh_response/). See notes in [the repo's README](../README.md) for further details.
 
 # Soham Zense's contribution:
 
@@ -34,17 +34,17 @@ Hash of the [`response`](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaw
 Blake2b hash of the `new_challenge` file:
 
 ```
-	99ba697b d0aba613 fc78f1a1 78dcdbe6 
-	49e8b2d6 3a32d595 5abf703c 9364c806 
-	5e8e0e34 5bed4e3f bee54cf2 756d94fd 
-	7e4388aa 7655522f e0015621 d78864cc 
+	67d7bcbd b2d4ad0e d9f5bae3 3097fb90
+	4d51e5be e76a9d7d e3ebdd6c 74d0e168
+	12687f1c b0f634e4 75ef1444 9f18959f
+	a3a4603b 7819b1fa 5d10ab89 3810fb33
 ```
 
 The above `new_challenge` file: [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0079)
 
 ***
 
-# Attestation to response 0078
+# Logs for response 0078
 9 July, 2023
 
 Logs:
@@ -90,4 +90,38 @@ Thank you for your participation, much appreciated! 🙂
 ```
 
 
-Verification log: [link](https://s3.console.aws.amazon.com/s3/object/pse-trusted-setup-ppot?region=eu-central-1&prefix=log_0078.txt)
+## Verification log: 
+```
+     Running `target/release/verify_transform_constrained challenge_0078a response new_challenge 28 1024`
+Will verify and decompress a contribution to accumulator for 2^28 powers of tau
+Calculating previous challenge hash...
+Hash of the `challenge` file for verification:
+        31ba0fbb 3d34ae68 27697322 ad295543
+        70874222 80cf3373 6a23f832 0d680a44
+        127a47a0 46d67080 8957fb8e c4f5b925
+        4dc00361 9879f7e3 e8d852dd 6517dd2d
+`response` was based on the hash:
+        31ba0fbb 3d34ae68 27697322 ad295543
+        70874222 80cf3373 6a23f832 0d680a44
+        127a47a0 46d67080 8957fb8e c4f5b925
+        4dc00361 9879f7e3 e8d852dd 6517dd2d
+Hash of the response file for verification:
+        750070be d400c96b f05120d3 b483d669
+        7dce0068 4edf47d4 07ae7661 77b46a72
+        6c906b86 5d3d0d15 21f14809 13da83c6
+        9ce80451 6a6bbf3e 29c6f489 a0832667
+Verifying a contribution to contain proper powers and correspond to the public key...
+Verification succeeded!
+Verification succeeded! Writing to new challenge file...
+Here's the BLAKE2b hash of the decompressed participant's response as new_challenge file:
+        67d7bcbd b2d4ad0e d9f5bae3 3097fb90
+        4d51e5be e76a9d7d e3ebdd6c 74d0e168
+        12687f1c b0f634e4 75ef1444 9f18959f
+        a3a4603b 7819b1fa 5d10ab89 3810fb33
+Done! new challenge file contains the new challenge file. The other files
+were left alone.
+
+
+b2sum challenge_0079
+67d7bcbdb2d4ad0ed9f5bae33097fb904d51e5bee76a9d7de3ebdd6c74d0e16812687f1cb0f634e475ef14449f18959fa3a4603b7819b1fa5d10ab893810fb33  challenge_0079
+```
