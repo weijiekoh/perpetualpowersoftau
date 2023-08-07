@@ -259,7 +259,7 @@ To raise a retrieval request, please raise an issue in this repo with the names 
 
 Each challenge file is about 97G in size and each response file is about 49G. An Azure compute VM (Standard F4s with 4 vcpus and 8GB memory) takes about 24 hours to generate.
 
-The coordinator is using Microsoft Azure compute VMs to generate `new_challenge` files, and Blob Storage to host challenges and responses.
+The coordinator is using AWS Cloud VMs to generate `new_challenge` files, and S3 Storage to host challenges and responses.
 
 Each participant can transfer their response to the coordinator via `sftp`. This process is semi-interactive as it requires either the participant to provide their SSH public key in advance, or the coordinator to send them a private key. Alternatively, they can use any of the following interactive methods:
 
