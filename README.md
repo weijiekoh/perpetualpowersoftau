@@ -268,12 +268,6 @@ Each participant can transfer their response to the coordinator via `sftp`. This
 - Third-party large-file transfer services like [MASV](https://www.massive.io)
 - SFTP: You will be provided details on request
 
-## Coordination
-
-A mailing list has been set up to coordinate the ceremony:
-
-https://groups.google.com/a/ethereum.org/forum/?hl=en#!forum/perpetual-powers-of-tau-ceremony-group
-
 ## Instructions for each participant
 
 There are two implementations of the software which you can use to generate a contribution: `phase2-bn254` and `snarkjs`.
