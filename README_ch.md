@@ -88,6 +88,7 @@ Semaphore项目团队正在发起一个多方参与的可信配置第一阶段�
 | N.B. | 此后的捐款将从 0058 继续 
 | 0078 | Soham Zemse |  | [0078_soham_response](./0078_soham_response/README.md) |
 | 0079 | atheartengineer |  | [0079_atheartengineer_response](./0079_atheartengineer_response/README.md) |
+| 0080 | Carter Feldman |  | [0080_carter_response](./0080_carter_response/README.md) |
 
 ## 流程
 
