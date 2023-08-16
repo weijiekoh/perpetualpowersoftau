@@ -1,0 +1,28 @@
+Attestation to response 0080
+----------------------------
+
+*Date*: March 2-4, 2021.
+
+*Name*: Cater Feldman.
+
+*Alias*: @cf, [@cmpeq](https://twitter.com/cmpeq) on twitter
+
+*Keybase*: carterfeldman
+
+*Device*: AWS z1d.6xlarge (Ubuntu 22.04.3 LTS)
+
+*Location*: Hong Kong
+
+*phase2-bn256 Commit Hash*: dd6b96657d16c1a2b81fd23e540581c356284ec6
+
+*Challenge b2sum*: d9ec6fad4a7a7e3358a0c4bed7171622c9c60a91a12a38144af908f42c147aec7b459a95f901a65b00fe485c66d2856407721e796908eb488f1d1dddd0afa2e8
+
+*Response b2sum*: 28af03a3e4000bff5f7e6b731b4bf94250421f078da8705689f3807202d06386072793085a2a6d07484c6af5e64c1326681d66ef59fcfef0183cfbd98d04edb1
+
+*Entropy Sources*: Random Keyboard Mashing + Ethereum Block Hash + cat /dev/urandom | head -c 1337 | base64 (on another machine)
+
+*Time Taken*: Approximately 6 hours.
+
+*Side channel defences*: None
+
+*Postprocessing*: Wiped drive, then filled drive with tar balls containing many copies of variations of Big Buck Bunny, and then wiped the drive again.
