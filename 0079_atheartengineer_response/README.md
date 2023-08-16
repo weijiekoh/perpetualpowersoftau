@@ -40,14 +40,12 @@ The above `new_challenge` file: [link](https://pse-trusted-setup-ppot.s3.eu-cent
 
 ***
 
-# Logs for response 0079
+# Attestation for response 0079
 11 August, 2023
 
-
-TODO!!!
-
-Logs:
+Attestation:
 ```
+To be added!!!!
 
 ```
 
