@@ -30,13 +30,13 @@ Hash of the [`response`](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaw
 Blake2b hash of the `new_challenge` file:
 
 ```
-	28af03a3 e4000bff 5f7e6b73 1b4bf942 
-	50421f07 8da87056 89f38072 02d06386 
-	07279308 5a2a6d07 484c6af5 e64c1326 
-	681d66ef 59fcfef0 183cfbd9 8d04edb1 
+	4bf672f3 ba1de1bb 6105e1ab 88359612
+	cdf09cb2 d154f371 937f85ec 0cf25e0a
+	10ec88ef a3019065 850a2e96 048bf9ef
+	5f68aa75 fcfe26fa a120c465 d3954174 
 ```
 
-The above `new_challenge` file: [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0080)
+The above `new_challenge` file: [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0081)
 
 ***
 
