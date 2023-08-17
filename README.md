@@ -92,7 +92,7 @@ To take part, please get in touch with EF's PSE team via Twitter DM (@glamperd) 
 | N.B. | Contributions hereafter will chain from 0058 
 | 0078 | Soham Zemse |  | [0078_soham_response](./0078_soham_response/README.md) |
 | 0079 | atheartengineer |  | [0079_atheartengineer_response](./0079_atheartengineer_response/README.md) |
-| 0080 | Carter Feldman |  | [0080_carter_response](./0080_carter_response/README.md) |
+| 0080 | Carter Feldman | [Keybase](https://keybase.io/carterfeldman) | [0080_carter_response](./0080_carter_response/README.md) |
 
 ## Transcript files
 
@@ -375,7 +375,7 @@ contract Notary {
 
 The chain of contributions now has two forks, branching after contribution number 0058. This choice has been made for the reasons outlined below. 
 
-Contributions from 0059 to 0077 form the first branch. Contribution 0078 chains from 0058, and this second branch is the one to be continued for future contributions. 
+Contributions from 0001 to 0077 form the first branch. Contribution 0078 chains from 0058, and this second branch is the one to be continued for future contributions. 
 
 We have a complete set of data available for the second branch. This is not the case for the first branch. Data, including public keys, for some of the contributions (0059 to 0071) are no longer available. 
 
