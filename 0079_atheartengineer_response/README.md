@@ -44,10 +44,9 @@ The above `new_challenge` file: [link](https://pse-trusted-setup-ppot.s3.eu-cent
 11 August, 2023
 
 Attestation:
-```
-To be added!!!!
 
-```
+See [this gist](https://gist.github.com/AtHeartEngineer/4d073c1caab81c8e129026c9d3250559)
+
 
 
 ## Verification log: 
