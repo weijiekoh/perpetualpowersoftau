@@ -2,7 +2,7 @@
 
 This contribution continues from contribution number 58. This contribution's predecessor hash will match that of [0058](../0058_rasikh_response/). See notes in [the repo's README](../README.md) for further details.
 
-# Soham Zense's contribution:
+# Soham Zemse's contribution:
 
 Hash of the [`challenge`](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0078a) file for verification:
 
