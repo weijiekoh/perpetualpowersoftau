@@ -371,6 +371,25 @@ contract Notary {
 6. Geiger readings of radioactive material. e.g. a radioactive object, which can be anything from a [banana](https://en.wikipedia.org/wiki/Banana_equivalent_dose) to a [Chernobyl fragment](https://www.vice.com/en_us/article/gy8yn7/power-tau-zcash-radioactive-toxic-waste).
 7. Environmental data (e.g. the weather, seismic activity, or readings from the sun)
 
+# Prepared Phase 2 Files
+Files have been prepared, ready for use in Phase 2 operations, from [contribution 0080](./0080_carter_response/README.md). The response file from 0080 was converted to snarkjs `.ptau` format, had a beacon applied, then prepared for phase 2. Files for each lower power of 2 were extracted from the result. These files are available at the links below.
+
+The complete file with $2^{28}$ powers of tau, in `.ptau` format, can be found [here](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/pot28_0080.ptau)
+
+## Beacon
+Randomness for the beacon used the randao_reveal value from slot 7,325,000 of the Ethereum beacon chain. The choice of slot number was announced in advance, as recorded in [this transaction](https://etherscan.io/tx/0x4615d32912922103bdead12dcb5762415958fe2470c6f8233b76c5d697770f36)
+
+Randao_reveal value: `0xaf941599f6d640b5b4b6116d3ded861b3362a964c390edc270aef45ba17b67148fb3d7ab901a68b1528c9bb3e16721cc000dda5d8466f4aa4a1c8ca9eb57d05e6c2d2e780d6a793df90a1ebd076bb3dd9b7d4075e3e68b36b86c1fb7c4feeded`.  See [the block details](https://beaconcha.in/block/18136939).
+
+63 iterations were used in calculating the beacon hash.
+
+The beacon file is available [here](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/pot28_0080_beacon.ptau)
+
+## Prepared File
+
+## Truncated Files
+
+
 # Note on Chain Fork
 
 The chain of contributions now has two forks, branching after contribution number 0058. This choice has been made for the reasons outlined below. 
