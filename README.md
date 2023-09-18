@@ -70,7 +70,7 @@ To take part, please get in touch with EF's PSE team via Twitter DM (@glamperd) 
 | 0056 | Auryn Macmillan | [Keybase](https://keybase.io/auryn_macmillan) | [0056_auryn_response](./0056_auryn_response/README.md) |
 | 0057 | Gísli Kristjánsson | [Keybase](https://keybase.io/gislik) | [0057_gisli_response](./0057_gisli_response/README.md) |
 | 0058 | Rasikh Morani | [Keybase](https://keybase.io/cryptojinn) | [0058_rasikh_response](./0058_rasikh_response/README.md) |
-| N.B. | Contributions hereafter will chain from 0058 
+|  | Why the gap? See [here](#note-on-chain-fork)
 | 0078 | Soham Zemse |  | [0078_soham_response](./0078_soham_response/README.md) |
 | 0079 | atheartengineer | [PGP](https://github.com/atheartengineer.gpg) | [0079_atheartengineer_response](./0079_atheartengineer_response/README.md) |
 | 0080 | Carter Feldman | [Keybase](https://keybase.io/carterfeldman) | [0080_carter_response](./0080_carter_response/README.md) |
@@ -360,12 +360,12 @@ Contributions from 0001 to 0077 form the first branch. Contribution 0078 chains 
 
 We have a complete set of data available for the second branch. This is not the case for the first branch. Data, including public keys, for some of the contributions (0059 to 0071) are no longer available. 
 
-The first fork remains valid. Contribution 0077 has the longest chain of contributions, and may be used in phase 2 setups. The chain of hashes can be confirmed by referring to the contribution details stored in this repository. However, a stronger cryptographic verification requires a continuous and complete chain of public keys in addition to the contribution hashes. Such data is embedded in `.ptau` files, as used by `snarkjs`. A `snarkjs powersoftau verify` command will cryptographically validate the full chain of public keys. Thus, it is not possible for us to generate fully-compatible `.ptau` files from 0077 or its immediate predecessors. 
+The discontinued fork remains valid. Contribution 0077 has the longest chain of contributions, and may be used in phase 2 setups. The chain of hashes can be confirmed by referring to the contribution details stored in this repository. However, a stronger cryptographic verification requires a continuous and complete chain of public keys in addition to the contribution hashes. Such data is embedded in `.ptau` files, as used by `snarkjs`. A `snarkjs powersoftau verify` command will cryptographically validate the full chain of public keys. Thus, it is not possible for us to generate fully-compatible `.ptau` files from 0077 or its immediate predecessors. 
 
 We have a complete history of public keys up to 0058, and for the branch continuing from there with 0078. We will, from time to time, publish `.ptau` files from this branch. 
 
 Note also that links referred to files in `ppot.blob.core.windows.net` bucket are no longer working. Some of these files are available on either IPFS or S3 high-availability, or S3 Glacier (available only by request).
 
-## Contributions
+Contribution details for the discontinued fork are recorded [here](./0059to0077.md)
 
 

@@ -66,26 +66,7 @@ Semaphore项目团队正在发起一个多方参与的可信配置第一阶段�
 | 0056 | Auryn Macmillan | [Keybase](https://keybase.io/auryn_macmillan) | [0056_auryn_response](./0056_auryn_response/README.md) |
 | 0057 | Gísli Kristjánsson | [Keybase](https://keybase.io/gislik) | [0057_gisli_response](./0057_gisli_response/README.md) |
 | 0058 | Rasikh Morani | [Keybase](https://keybase.io/cryptojinn) | [0058_rasikh_response](./0058_rasikh_response/README.md) |
-| 0059 | Pau Escrich | [Keybase](https://keybase.io/paues) | [0059_pau_response](./0059_pau_response/README.md) |
-| 0060 | Koh Wei Jie | [Keybase](https://keybase.io/contactkohweijie) | [0060_weijie_response](./0060_weijie_response/README.md) |
-| 0061 | Adrià Massanet | [Keybase](https://keybase.io/adriamb) | [0061_adria_response](./0061_adria_response/README.md) |
-| 0062 | Lev Dubinets | [Keybase](https://keybase.io/dubinets) | [0062_lev_response](./0062_lev_response/README.md) |
-| 0063 | David Schwartz | [Keybase](https://keybase.io/davidsrz) | [0063_david_response](./0063_david_response/README.md) |
-| 0064 | Ian Worrall | [Keybase](https://keybase.io/esphinx) | [0064_ian_response](./0064_ian_response/README.md) |
-| 0065 | Adrian Guerrera | [Keybase](https://keybase.io/deepyr) | [0065_adrian_response](./0065_adrian_response/README.md) |
-| 0066 | Kieran Mesquita | [Keybase](https://keybase.io/mesquka) | [0066_kieran_response](./0066_kieran_response/README.md) |
-| 0067 | Nick Ulven |[PGP](./0067_nick_response/nick.pgp) | [0067_nick_response](./0067_nick_response/README.md) |
-| 0068 | Elena | [Keybase](https://keybase.io/elena_irf) | [0068_elena_response](./0068_elena_response/README.md) |
-| 0069 | Justice Hudson | [Keybase](https://keybase.io/j_chance) | [0069_justice_response](./0069_justice_response/README.md) |
-| 0070 | Bertrand Juglas | [Keybase](https://keybase.io/bertux) | [0070_bertrand_response](./0070_bertrand_response/README.md) |
-| 0071 | Edward Fricker | [Keybase](https://keybase.io/edwd) | [0071_edward_response](./0071_edward_response/README.md) |
-| 0072 | Jose Pedro Sousa |  | [0072_jose-pedro_response](./0072_jose-pedro_response/README.md) |
-| 0073 | Derya Karli |  | [0073_derya_response](./0073_derya_response/README.md) |
-| 0074 | Daniel Coggan |  | [0074_daniel_response](./0074_daniel_response/README.md) |
-| 0075 | Mohammad Jahanara |  | [0075_mohammad_response](./0075_mohammad_response/README.md) |
-| 0076 | Jonathan P Wang |  | [0076_jpw_response](./0076_jpw_response/README.md) |
-| 0077 | Yi Sun |  | [0077_yi_response](./0077_yi_response/README.md) |
-| N.B. | 此后的捐款将从 0058 继续 
+| | [link](./0059to0077.md)
 | 0078 | Soham Zemse |  | [0078_soham_response](./0078_soham_response/README.md) |
 | 0079 | atheartengineer | [PGP](https://github.com/atheartengineer.gpg) | [0079_atheartengineer_response](./0079_atheartengineer_response/README.md) |
 | 0080 | Carter Feldman | [Keybase](https://keybase.io/carterfeldman) | [0080_carter_response](./0080_carter_response/README.md) |
