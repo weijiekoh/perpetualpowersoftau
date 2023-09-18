@@ -385,9 +385,21 @@ Randao_reveal value: `0xaf941599f6d640b5b4b6116d3ded861b3362a964c390edc270aef45b
 
 The beacon file is available [here](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/pot28_0080_beacon.ptau)
 
-## Prepared File
+## Prepared and Truncated Files
 
-## Truncated Files
+The `.ptau` file was prepared for Phase 2 using this command:
+
+`snarkjs powersoftau prepare phase2 pot28_0080_beacon.ptau pot28_0080_prepared.ptau`
+
+The result is available [here]()
+
+
+`snarkjs powersoftau truncate pot28_0080_prepared.ptau pot28_0080_.ptau`
+
+| Powers of Tau | Link |
+|:-------:|------| 
+| $2^1$ | [`ppot_0080_01.ptau`](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_01.ptau) |
+
 
 
 # Note on Chain Fork
