@@ -12,7 +12,7 @@ Data will be added from time to time as new contributions are made, or data is p
 
 Participants will most commonly use a personal computer located at their home or office. The internet connection might be heavily used for both uploads and downloads, so an unlimited service works best. Torrent software usually allows rate limiting or customised timing. The most valuable seeders will be always on and connected, have a high bandwidth upload connection, and have plenty of storage capacity. None of those things are essential, and a useful contribution can be made even with limited uptime or  resources.
 
-Torrent client software can be easily found online to suit individual preferences in OS, UI/CLI, etc. In addition to setting up the torrent client, expect to do some port configuration to allow P2P connections to your device. 
+Torrent client software can be easily found online to suit individual preferences in OS, UI vs CLI, etc. In addition to setting up the torrent client, expect to do some port configuration to allow P2P connections to your device. 
 
 Choose some files and folders to share. Download the torrent file from the link below, and add it to your client. 
 
@@ -28,24 +28,26 @@ For the PPoT ceremony, the most essential pieces of data are the latest response
 
 The **challenge** file is denoted _optional_ as it can be derived from the response file. 
 
-| Torrent File | Data Size | Notes |
-|------|------|-------|
-| [Contribution #80 response](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0080_carter.torrent) | 48Gb |
-| [Challenge #81](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0081.torrent) | 96Gb | Optional |
-| [Witness history folder](coming) |  |
+| Torrent File | Data Size | Notes | S3 Link |
+|------|------|-------|----------|
+| [Contribution #80 response](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0080_carter.torrent) | 51Gb | | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0080_carter) |  
+| [Challenge #81](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0081.torrent) | 103Gb | Optional | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0081) |
+| [Witness history folder](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/witness-history-80.torrent) | 103Gb | Folder |  |
 
 
 ## Prepared Phase 2 Files
 
 The latest phase-2-ready files are currently being generated from contribution #80. 
 
-| Torrent File | Data Size | Notes |
-|--------------|-----------|-------|
-| [Contribution #80 Prepared Data Folder](torrent-link) | 200Gb |  |
+| Torrent File | Data Size | Notes | S3 Link (* = glacier) |
+|--------------|-----------|-------|---|
+| [Truncated Data Folder](torrent-link) | 200Gb |  |
+| [Beacon .ptau file](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/ppot_0080_beacon.ptau.torrent) | 96Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_beacon.ptau) * |
 
 ## Complete Archive
 
-| Torrent File | Data Size | Notes |
-|--------------|-----------|-------|
-| [Challenge #79](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0079_a.torrent) | 96Gb |  |
+| Torrent File | Data Size | Notes | S3 Link (* = glacier) |
+|--------------|-----------|-------|---------|
+| [Initial challenge](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_initial.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_initial)  * |
+| [Challenge #79](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0079_a.torrent) | 96Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0079)  * |
 
