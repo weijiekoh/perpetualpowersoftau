@@ -26,12 +26,11 @@ Participants may join the *Perpetual Powers of Tau Data Sharing* Telegram group.
 
 For the PPoT ceremony, the most essential pieces of data are the latest response file and the witness history. With this we have all the powers-of-tau points and a verifiable cryptographic proof of their derivation back to the start. For participants with limited storage available, these are the torrents to prioritise.
 
-The **challenge** file is denoted _optional_ as it can be derived from the response file. 
 
 | Torrent File | Data Size | Notes | S3 Link |
 |------|------|-------|----------|
 | [Contribution #80 response](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0080_carter.torrent) | 51Gb | | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0080_carter) |  
-| [Challenge #81](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0081.torrent) | 103Gb | Optional | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0081) |
+| [Challenge #81](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0081.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0081) |
 | [Witness history folder](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/witness-history-80.torrent) | 103Gb | Folder |  |
 
 
@@ -49,5 +48,20 @@ The latest phase-2-ready files are currently being generated from contribution #
 | Torrent File | Data Size | Notes | S3 Link (* = glacier) |
 |--------------|-----------|-------|---------|
 | [Initial challenge](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_initial.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_initial)  * |
-| [Challenge #79](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0079_a.torrent) | 96Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0079)  * |
+| Response #1 | 51Gb |  |  |
+| [Challenge #2](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0002_kobi.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0002_kobi)  * |
+| Challenge #3 to #49 |  | Watch this space |  |
+| Response #50 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0050_weijie)  * |
+| Response #51 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0051_joe)  * |
+| Response #52 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0052_zaki)  * |
+| Response #53 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0053_juan)  * |
+| Response #54 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0054_jarrad)  * |
+| Response #55 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0055_tyler)  * |
+| Response #56 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0056_auryn)  * |
+| Response #57 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0057_gisli)  * |
+| Response #58 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0058_rasikh)  * |
+| Response #78 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0078_soham)  * |
+| [Challenge #79](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0079_a.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0079)  * |
+| Response #79 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0079_atheartengineer)  * |
+| [Challenge #80](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0080.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0080) |
 
