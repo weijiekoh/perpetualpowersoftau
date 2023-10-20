@@ -4,7 +4,7 @@ The Perpetual Powers of Tau Ceremony relies on a collection of large data files.
 
 To provide an alternative storage solution, the files are shared by a network of volunteers. Data is shared using torrents. 
 
-Participants can tailor their involvement according to the storage capacity available to them. The most essential files would include the latest contribution's response file and the complete witness history, a total of just over 50Gb. The complete archive has over 8Tb of data. In addition, we have optional folders to store the files that have been prepared for phase 2 use. 
+Participants can tailor their involvement according to the storage capacity available to them. The most essential files would include the latest contribution's response file and the complete witness history, a total of just over 200Gb. The complete archive has over 9Tb of data. In addition, we will soon have optional folders to store the files that have been prepared for phase 2 use. 
 
 Data will be added from time to time as new contributions are made, or data is prepared for phase 2. Participants should allow for some expansion, or at least an occasional change of priority, since the highest priority will be the most recent files.
 
