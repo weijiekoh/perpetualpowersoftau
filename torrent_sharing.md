@@ -27,41 +27,41 @@ Participants may join the *Perpetual Powers of Tau Data Sharing* Telegram group.
 For the PPoT ceremony, the most essential pieces of data are the latest response file and the witness history. With this we have all the powers-of-tau points and a verifiable cryptographic proof of their derivation back to the start. For participants with limited storage available, these are the torrents to prioritise.
 
 
-| Torrent File | Data Size | Notes | S3 Link |
+| Torrent File | Data Size | Notes | S3 Link (glacier class, except *) |
 |------|------|-------|----------|
-| [Contribution #80 response](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0080_carter.torrent) | 51Gb | | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0080_carter) |  
-| [Challenge #81](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0081.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0081) |
-| [Witness history folder](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/witness-history-80.torrent) | 103Gb | Folder |  |
+| [Contribution #80 response](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0080_carter.torrent) | 51Gb | | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0080_carter) * |  
+| [Challenge #81](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0081.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0081) * |
+| [Witness history folder](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/witness-history-80.torrent) | 103Gb | Folder | * |
 
 
 ## Prepared Phase 2 Files
 
 The latest phase-2-ready files are currently being generated from contribution #80. 
 
-| Torrent File | Data Size | Notes | S3 Link (* = glacier) |
+| Torrent File | Data Size | Notes | S3 Link (glacier class, except *) |
 |--------------|-----------|-------|---|
-| [Truncated Data Folder](torrent-link) | 200Gb |  |
+| [Truncated Data Folder](torrent-link) | 200Gb | Not yet available |
 | [Beacon .ptau file](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/ppot_0080_beacon.ptau.torrent) | 96Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_beacon.ptau) * |
 
 ## Complete Archive
 
-| Torrent File | Data Size | Notes | S3 Link (* = glacier) |
+| Torrent File | Data Size | Notes | S3 Link (glacier class, except *) |
 |--------------|-----------|-------|---------|
-| [Initial challenge](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_initial.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_initial)  * |
+| [Initial challenge](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_initial.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_initial)  |
 | Response #1 | 51Gb |  |  |
-| [Challenge #2](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0002_kobi.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0002_kobi)  * |
-| Challenge #3 to #49 |  | Watch this space |  |
-| Response #50 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0050_weijie)  * |
-| Response #51 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0051_joe)  * |
-| Response #52 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0052_zaki)  * |
-| Response #53 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0053_juan)  * |
-| Response #54 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0054_jarrad)  * |
-| Response #55 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0055_tyler)  * |
-| Response #56 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0056_auryn)  * |
-| Response #57 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0057_gisli)  * |
-| Response #58 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0058_rasikh)  * |
-| Response #78 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0078_soham)  * |
-| [Challenge #79](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0079_a.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0079)  * |
-| Response #79 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0079_atheartengineer)  * |
-| [Challenge #80](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0080.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0080) |
+| [Challenge #2](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0002_kobi.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0002_kobi)  |
+| Challenge #3 to #49 |  | Coming soon |  |
+| Response #50 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0050_weijie)  |
+| Response #51 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0051_joe) |
+| Response #52 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0052_zaki) |
+| Response #53 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0053_juan) |
+| Response #54 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0054_jarrad)  |
+| Response #55 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0055_tyler) |
+| Response #56 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0056_auryn) |
+| Response #57 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0057_gisli) |
+| Response #58 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0058_rasikh) |
+| Response #78 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0078_soham) |
+| [Challenge #79](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0079_a.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0079)  |
+| Response #79 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0079_atheartengineer) |
+| [Challenge #80](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0080.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0080) * |
 
