@@ -6,7 +6,7 @@ To provide an alternative storage solution, the files are shared by a network of
 
 Participants can tailor their involvement according to the storage capacity available to them. The most essential files would include the latest contribution's response file and the complete witness history, a total of just over 200Gb. The complete archive has over 9Tb of data. In addition, we will soon have optional folders to store the files that have been prepared for phase 2 use. 
 
-Data will be added from time to time as new contributions are made, or data is prepared for phase 2. Participants should allow for some expansion, or at least an occasional change of priority, since the highest priority will be the most recent files.
+New files will be added to the list from time to time as new contributions are made, or data is prepared for phase 2. Participants should allow for some expansion, or at least an occasional change of priority, since the highest priority will be the most recent files.
 
 ## How to Participate
 
@@ -48,9 +48,9 @@ The latest phase-2-ready files are currently being generated from contribution #
 | Torrent File | Data Size | Notes | S3 Link (glacier class, except *) |
 |--------------|-----------|-------|---------|
 | [Initial challenge](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_initial.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_initial)  |
-| Response #1 | 51Gb |  |  |
+| Response #1 | 51Gb | Coming soon |  |
 | [Challenge #2](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0002_kobi.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0002_kobi)  |
-| Challenge #3 to #49 |  | Coming soon |  |
+| Challenge & Response #3 to #49 |  | Coming soon |  |
 | Response #50 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0050_weijie)  |
 | Response #51 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0051_joe) |
 | Response #52 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0052_zaki) |
@@ -65,3 +65,5 @@ The latest phase-2-ready files are currently being generated from contribution #
 | Response #79 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0079_atheartengineer) |
 | [Challenge #80](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0080.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0080) * |
 
+
+Note that in the above tables if the torrent file link is not available, the torrent has not been prepared yet.
