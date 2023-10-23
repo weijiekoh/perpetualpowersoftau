@@ -51,9 +51,9 @@ The latest phase-2-ready files are currently being generated from contribution #
 | Response #1 | 51Gb | Coming soon |  |
 | [Challenge #2](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0002_kobi.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0002_kobi)  |
 | Challenge & Response #3 to #49 |  | Coming soon |  |
-| [Response #50](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0050_weijie.torrent) | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0050_weijie)  |
-| [Response #51](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0051_joe.torrent) | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0051_joe) |
-| [Response #52](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0052_zaki.torrent) | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0052_zaki) |
+| [Response #50](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0050_weijie.torrent) | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0050_weijie)  |
+| [Response #51](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0051_joe.torrent) | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0051_joe) |
+| [Response #52](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0052_zaki.torrent) | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0052_zaki) |
 | Response #53 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0053_juan) |
 | Response #54 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0054_jarrad)  |
 | Response #55 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0055_tyler) |
