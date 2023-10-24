@@ -54,10 +54,10 @@ The latest phase-2-ready files are currently being generated from contribution #
 | [Response #50](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0050_weijie.torrent) | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0050_weijie)  |
 | [Response #51](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0051_joe.torrent) | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0051_joe) |
 | [Response #52](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0052_zaki.torrent) | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0052_zaki) |
-| Response #53 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0053_juan) |
-| Response #54 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0054_jarrad)  |
-| Response #55 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0055_tyler) |
-| Response #56 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0056_auryn) |
+| [Response #53](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0053_juan.torrent) | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0053_juan) |
+| [Response #54](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0054_jarrad.torrent) | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0054_jarrad)  |
+| [Response #55](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0055_tyler.torrent) | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0055_tyler) |
+| [Response #56](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0056_auryn.torrent) | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0056_auryn) |
 | Response #57 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0057_gisli) |
 | Response #58 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0058_rasikh) |
 | Response #78 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0078_soham) |
