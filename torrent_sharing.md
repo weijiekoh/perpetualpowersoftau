@@ -58,7 +58,7 @@ The latest phase-2-ready files are currently being generated from contribution #
 | [Response #54](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0054_jarrad.torrent) | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0054_jarrad)  |
 | [Response #55](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0055_tyler.torrent) | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0055_tyler) |
 | [Response #56](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0056_auryn.torrent) | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0056_auryn) |
-| Response #57 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0057_gisli) |
+| [Response #57](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0057_gisli.torrent) | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0057_gisli) |
 | Response #58 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0058_rasikh) |
 | Response #78 | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0078_soham) |
 | [Challenge #79](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0079_a.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0079)  |
