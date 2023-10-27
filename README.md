@@ -238,6 +238,9 @@ The transcript files will generally be saved in an archival storage, i.e. not av
 
 To raise a retrieval request, please raise an issue in this repo with the names of the files required. 
 
+### Preserving the Data
+We have a network sharing the data via torrents, as an alternative to the S3 bucket. Volunteers to help with this are welcome to participate. See [here](./torrent_sharing.md)
+
 ## Logistics
 
 Each challenge file is about 97G in size and each response file is about 49G. An Azure compute VM (Standard F4s with 4 vcpus and 8GB memory) takes about 24 hours to generate.
