@@ -288,7 +288,7 @@ Also check with the coordinator (or this repository) for the expected Blake2b ha
 Run the computation with `challenge` in your working directory:
 
 ```bash
-/path/to/phase2-bn254/powersoftau/target/release/compute_constrained
+/path/to/phase2-bn254/powersoftau/target/release/compute_constrained challenge response 28 2097152
 ```
 
 You will see this prompt:
