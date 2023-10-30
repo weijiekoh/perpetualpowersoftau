@@ -264,6 +264,11 @@ To use `phase2-bn254`, follow the instructions below. To use `snarkjs`, read [th
 
 First, set up a Linux machine and install Rust and Cargo following instructions [here](https://www.rust-lang.org).
 
+Ensure you have the necessary build prerequisites:
+```
+sudo apt update && sudo apt install build-essential
+```
+
 Download and compile the required source code:
 
 ```bash
@@ -290,7 +295,7 @@ You will see this prompt:
 
 ```
 Will contribute to accumulator for 2^28 powers of tau
-In total will generate up to 536870912 powers
+In total will generate up to 536870911 powers
 Type some random text and press [ENTER] to provide additional entropy...
 ```
 
