@@ -151,6 +151,10 @@ cd phase2-bn254/powersoftau && \
 cargo build --release
 ```
 
+```
+sudo apt update && sudo apt install build-essential
+```
+
 再从协调者那儿下载形如`challenge_nnnn_name`的“挑战”文件，具体的文件名可能类似 `challenge_0004_alice`。把其更名为 `challenge`：
 
 ```bash
@@ -160,14 +164,14 @@ mv challenge_nnnn_name challenge
 接着在当前工作目录下根据 `challenge` 执行如下计算：
 
 ```bash
-/path/to/phase2-bn254/powersoftau/target/release/compute_constrained
+/path/to/phase2-bn254/powersoftau/target/release/compute_constrained challenge response 28 2097152
 ```
 
 你就会看到下面的提示信息：
 
 ```
 Will contribute to accumulator for 2^28 powers of tau
-In total will generate up to 8191 powers
+In total will generate up to 536870911 powers
 Type some random text and press [ENTER] to provide additional entropy...
 ```
 
