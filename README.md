@@ -194,7 +194,7 @@ To illustrate this process, consider a Coordinator, two participants (Alice and 
 1. Coordinator generates `challenge_0` and publishes it.
 2. Alice generates `response_1` and publishes it.
 3. Coordinator generates `challenge_1` and publishes it.
-4. Bob generates `response_2` and and publishes it.
+4. Bob generates `response_2` and publishes it.
 5. Coordinator generates `challenge_2` and publishes it.
 6. Charlie applies the random beacon to `challenge_2` to finalise the setup.
 
