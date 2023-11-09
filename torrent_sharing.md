@@ -29,8 +29,8 @@ For the PPoT ceremony, the most essential pieces of data are the latest response
 
 | Torrent File | Data Size | Notes | S3 Link (glacier class, except *) |
 |------|------|-------|----------|
-| [Contribution #80 response](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0080_carter.torrent) | 51Gb | | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0080_carter) * |  
-| [Challenge #81](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0081.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0081) * |
+| [Contribution #81 response](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0081_aayush.torrent) | 51Gb | | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0081_aayush) * |  
+| [Challenge #82](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0082.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0082) * |
 | [Witness history folder](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/witness-history-80.torrent) | 103Gb | Folder | * |
 
 
@@ -64,6 +64,9 @@ The latest phase-2-ready files are currently being generated from contribution #
 | [Challenge #79](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0079_a.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0079)  |
 | [Response #79](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0079_atheartengineer.torrent) | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0079_atheartengineer) |
 | [Challenge #80](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0080.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0080) * |
+| [Challenge #81](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0081.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0081) * |
+| [Response #81](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0081_aayush.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0081_aayush) * |
+
 
 
 Note that in the above tables if the torrent file link is not available, the torrent has not been prepared yet.
