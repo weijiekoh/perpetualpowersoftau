@@ -28,9 +28,9 @@ Uploaded Contribution 81 URL: https://www.dropbox.com/scl/fi/zqjo8xchgdmkl95dfyb
 Computing and writing your contribution, this could take a while...
 Finishing writing your contribution to response file...
 Done!
-
+```
 Your contribution has been written to [response file](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0081_aayush)
-
+```
 The BLAKE2b hash of response file is:
         8e9e25fb ea1bd41f c9bdad64 9b2b723c
         07d91bfd 79d1ef23 48226c67 9f3fdb16
@@ -85,3 +85,5 @@ Here's the BLAKE2b hash of the decompressed participant's response as new_challe
 Done! new challenge file contains the new challenge file. The other files
 were left alone.
 ```
+
+The new challenge file is available [here](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0082)
