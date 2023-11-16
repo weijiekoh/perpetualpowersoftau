@@ -8,6 +8,9 @@ Participants can tailor their involvement according to the storage capacity avai
 
 New files will be added to the list from time to time as new contributions are made, or data is prepared for phase 2. Participants should allow for some expansion, or at least an occasional change of priority, since the highest priority will be the most recent files.
 
+We have a Telegram group for participants to keep up with changes. Join the group here: https://t.me/+upotXGJ1hzcwNzc1
+
+
 ## How to Participate
 
 Participants will most commonly use a personal computer located at their home or office. The internet connection might be heavily used for both uploads and downloads, so an unlimited service works best. Torrent software usually allows rate limiting or customised timing. The most valuable seeders will be always on and connected, have a high bandwidth upload connection, and have plenty of storage capacity. None of those things are essential, and a useful contribution can be made even with limited uptime or  resources.
