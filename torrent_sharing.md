@@ -32,8 +32,8 @@ For the PPoT ceremony, the most essential pieces of data are the latest response
 
 | Torrent File | Data Size | Notes | S3 Link (glacier class, except *) |
 |------|------|-------|----------|
-| [Contribution #81 response](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0081_aayush.torrent) | 51Gb | | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0081_aayush) * |  
-| [Challenge #82](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0082.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0082) * |
+| [Contribution #82 response](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0082_ali.torrent) | 51Gb | | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0082_ali) * |  
+| [Challenge #82](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0083.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0083) * |
 | [Witness history folder](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/witness-history-80.torrent) | 103Gb | Folder | * |
 
 
