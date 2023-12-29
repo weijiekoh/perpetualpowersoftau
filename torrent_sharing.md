@@ -34,7 +34,7 @@ For the PPoT ceremony, the most essential pieces of data are the latest response
 |------|------|-------|----------|
 | [Contribution #82 response](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0082_ali.torrent) | 51Gb | | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0082_ali) * |  
 | [Challenge #82](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0083.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0083) * |
-| [Witness history folder](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/witness-history-80.torrent) | 103Gb | Folder | * |
+| [Witness history folder](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/witness-history-82.torrent) | 103Gb | Folder | * |
 
 
 ## Prepared Phase 2 Files
