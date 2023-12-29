@@ -70,5 +70,7 @@ The latest phase-2-ready files are currently being generated from contribution #
 | [Challenge #81](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0081.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0081) * |
 | [Response #81](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0081_aayush.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0081_aayush) * |
 | [Challenge #82](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0082.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0082.torrent) * |
+| [Response #82](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0082_ali.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0082_ali) * |
+| [Challenge #83](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0083.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0083.torrent) * |
 
 Note that in the above tables if the torrent file link is not available, the torrent has not been prepared yet.
