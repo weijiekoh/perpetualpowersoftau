@@ -72,7 +72,7 @@ Semaphore项目团队正在发起一个多方参与的可信配置第一阶段�
 | 0080 | Carter Feldman | [Keybase](https://keybase.io/carterfeldman) | [0080_carter_response](./0080_carter_response/README.md) |
 | 0081 | Aayush Gupta | [Keybase](https://keybase.io/yushg) | [0081_yushg_response](./0081_yushg_response/README.md) |
 | 0082 | Ali Parvizi | [Keybase](https://keybase.io/zkfriendly) | [0082_ali_response](./0082_ali_response/README.md) |
-| 0083 | Yi Sun |  | [0083_yi_response](./0083_yi_response/README.md) |
+| 0083 | Yi Sun | [Keybase](https://keybase.io/yisun) | [0083_yi_response](./0083_yi_response/README.md) |
 | 0084 | Jonathan P Wang |  | [0084_jpwang_response](./0084_jpwang_response/README.md) |
 
 ## 流程
