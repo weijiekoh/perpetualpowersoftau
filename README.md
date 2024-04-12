@@ -8,6 +8,20 @@ As long as one party in the ceremony behaves honestly and is not compromised, th
 
 To take part, please get in touch with EF's PSE team via Twitter DM (@glamperd) or Telegram (@glamperd).
 
+___
+
+_Contents:_
+
+[Contribution List](#Ceremony-progress)
+
+[Notes on Procedure](#procedure)
+
+[Participating](#instructions-for-each-participant)
+
+[Phase 2 Files](#prepared-phase-2-files)
+
+___
+
 ## Ceremony progress
 
 | Participant ID | Identity | GPG key | Attestation |
@@ -180,6 +194,46 @@ challenge files (except, of course, `challenge_initial`).
 | `QmQR8SmRVNmhR4MJzVUwQpeiR34QgAqswYaX5jPBPFv8T7` | response_0056_auryn |
 | `QmaiWt8rm9VGLrMQhJD6n3RzVffjFSHdyC1ZQaDQUNgBuH` | response_0057_gisli |
 | `QmVZ9SMbh3ZSpLK2qtHZkqLDsX2Ac7kz9CeeuvAAz1QMLb` | response_0058_rasikh |
+
+## Prepared Phase 2 Files
+
+Files ready for use in Groth-16 Phase 2 setups are available. The latest set of files have been prepared from contribution 0080. 
+
+A phase-2-ready `.ptau` file is available for each power of 2 up to 28. When choosing a file, the best choice is generally the smallest file with a number of points > the number of constraints in the circuit. 
+
+| Degree | Link to File | Number of Points | Size |
+| :-------: |--------------|------------------:|----:|
+| 1 | [ppot_0080_01.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_01.ptau) | 1 | 93kb |
+| 2 | [ppot_0080_02.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_02.ptau) | 4 | 95.6kb |
+| 3 | [ppot_0080_03.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_03.ptau) | 8 | 100kb |
+| 4 | [ppot_0080_04.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_04.ptau) | 16 | 109kb | 
+| 5 | [ppot_0080_05.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_05.ptau) | 32 | 127kb |
+| 6 | [ppot_0080_06.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_06.ptau) | 64 | 163kb |
+| 7 | [ppot_0080_07.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_07.ptau) | 128 | 235kb |
+| 8 | [ppot_0080_08.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_08.ptau) | 256 | 379kb| 
+| 9 | [ppot_0080_09.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_09.ptau) | 512 | 667kb |
+| 10 | [ppot_0080_10.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_10.ptau) | 1,024 | 1.2mb |
+| 11 | [ppot_0080_11.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_11.ptau) | 2,048 | 2.3mb |
+| 12 | [ppot_0080_12.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_12.ptau) | 4,096 | 4.6mb |
+| 13 | [ppot_0080_13.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_13.ptau) | 8,192 | 9.1mb |
+| 14 | [ppot_0080_14.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_14.ptau) | 16,384 | 18.1mb |
+| 15 | [ppot_0080_15.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_15.ptau) | 32,768 | 36mb |
+| 16 | [ppot_0080_16.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_16.ptau) | 65,536 | 72mb |
+| 17 | [ppot_0080_17.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_17.ptau) | 131,072 | 144mb |
+| 18 | [ppot_0080_18.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_18.ptau) | 262,144 | 288mb |
+| 19 | [ppot_0080_19.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_19.ptau) | 524,288 | 576mb |
+| 20 | [ppot_0080_20.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_20.ptau) | 1,048,576 | 1.1gb |
+| 21 | [ppot_0080_21.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_21.ptau) | 2,097,152 | 2.3gb |
+| 22 | [ppot_0080_22.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_22.ptau) | 4,194,304 | 4.5gb |
+| 23 | [ppot_0080_23.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_23.ptau) | 8,388,608 | 9gb |
+| 24 | [ppot_0080_24.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_24.ptau) | 16,777,216 | 18gb |
+| 25 | [ppot_0080_25.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_25.ptau) | 33,554,432 | 36gb |
+| 26 | [ppot_0080_26.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_26.ptau) | 67,108,864 | 72gb | 
+| 27 | [ppot_0080_27.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_27.ptau) | 134,217,728 | 144gb |
+| 28 | [ppot_0080_final.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_final.ptau) | 268,435,456 | 288gb |
+
+
+
 
 ## Procedure
 
