@@ -43,8 +43,8 @@ The latest phase-2-ready files are currently being generated from contribution #
 
 | Torrent File | Data Size | Notes | S3 Link (glacier class, except *) |
 |--------------|-----------|-------|---|
-| [Truncated Data Folder (up to 2^27)](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/ppot_0080_1-27.torrent) | 288Gb | Choose files ppot_0080_xx | [link to folder](s3://pse-trusted-setup-ppot/pot28_0080/) * |
-| [Prepared file (2^28 powers)](torrent-link) | 288Gb | | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_prepared.ptau) * |
+| [Truncated Data Folder (up to 2^27)](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/ppot_0080_1-27.torrent) | 288Gb | Choose ppot_0080_xx files | [link to folder](s3://pse-trusted-setup-ppot/pot28_0080/) * |
+| [Complete Prepared file (2^28 powers)](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/ppot_0080_final.torrent) | 288Gb | | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_prepared.ptau) * |
 | [Beacon .ptau file](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/ppot_0080_beacon.ptau.torrent) | 96Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_beacon.ptau) * |
 
 ## Complete Archive
