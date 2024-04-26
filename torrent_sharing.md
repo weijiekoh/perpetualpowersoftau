@@ -32,7 +32,7 @@ For the PPoT ceremony, the most essential pieces of data are the latest response
 
 | Torrent File | Data Size | Notes | S3 Link (glacier class, except *) |
 |------|------|-------|----------|
-| [Contribution #84 response](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0084_jpw.torrent) | 51Gb | | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0084_jpw) * |  
+| [Contribution #84 response](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0084_jpw.torrent) | 51Gb | | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0084_jpw) * | 
 | [Challenge #85](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0085.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0085) * |
 | [Witness history folder](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/witness-history-84.torrent) | 103Gb | Folder | * |
 
@@ -43,8 +43,8 @@ The latest phase-2-ready files are currently being generated from contribution #
 
 | Torrent File | Data Size | Notes | S3 Link (glacier class, except *) |
 |--------------|-----------|-------|---|
-| [Truncated Data Folder (up to 2^27)](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/ppot_0080_1-27.torrent) | 288Gb | Choose ppot_0080_xx files | [link to folder](s3://pse-trusted-setup-ppot/pot28_0080/) * |
-| [Complete Prepared file (2^28 powers)](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/ppot_0080_final.torrent) | 288Gb | | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_prepared.ptau) * |
+| [Truncated Data Folder (up to $2^{27}$)](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/ppot_0080_1-27.torrent) | 288Gb | Choose ppot_0080_xx files | [link-to-folder](s3://pse-trusted-setup-ppot/pot28_0080/) * |
+| [Complete Prepared file ($2^{28}$ powers)](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/ppot_0080_final.torrent) | 288Gb | | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_prepared.ptau) * |
 | [Beacon .ptau file](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/ppot_0080_beacon.ptau.torrent) | 96Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_beacon.ptau) * |
 
 ## Complete Archive
