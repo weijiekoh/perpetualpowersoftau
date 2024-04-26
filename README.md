@@ -2,16 +2,30 @@
 
 [中文](./README_ch.md)
 
-The Privacy & Scaling Explorations team is conducting phase 1 of a multi-party trusted setup ceremony based on the Zcash Powers of Tau ceremony. The goal is to securely generate zk-SNARK parameters for circuits of up to `2 ^ 28` (260+ million) constraints. This means that the process will generate twice as many minus one (530+ million) powers of tau.
+The Privacy & Scaling Explorations team is conducting phase 1 of a multi-party trusted setup ceremony based on the Zcash Powers of Tau ceremony. The goal is to securely generate zk-SNARK parameters for circuits of up to $2^{28}$ (260+ million) constraints. This means that the process will generate twice as many minus one (530+ million) powers of tau.
 
 As long as one party in the ceremony behaves honestly and is not compromised, the entire setup is trustworthy.
 
 To take part, please get in touch with EF's PSE team via Twitter DM (@glamperd) or Telegram (@glamperd).
 
+___
+
+_Contents:_
+
+[Contribution List](#Ceremony-progress)
+
+[Notes on Procedure](#procedure)
+
+[Participating](#instructions-for-each-participant)
+
+[Phase 2 Files](#prepared-phase-2-files)
+
+___
+
 ## Ceremony progress
 
 | Participant ID | Identity | GPG key | Attestation |
-|-|-|-|-|
+|:-:|-|:-:|-|
 | 0001 | Koh Wei Jie | [Keybase](https://keybase.io/contactkohweijie) | [0001_weijie_response](./0001_weijie_response/README.md) |
 | 0002 | Kobi Gurkan | [Keybase](https://keybase.io/kobigurk) | [0002_kobi_response](./0002_kobi_response/README.md) |
 | 0003 | Roman Semenov | [Keybase](https://keybase.io/poma) | [0003_roman_response](./0003_roman_response/README.md) |
@@ -70,29 +84,14 @@ To take part, please get in touch with EF's PSE team via Twitter DM (@glamperd) 
 | 0056 | Auryn Macmillan | [Keybase](https://keybase.io/auryn_macmillan) | [0056_auryn_response](./0056_auryn_response/README.md) |
 | 0057 | Gísli Kristjánsson | [Keybase](https://keybase.io/gislik) | [0057_gisli_response](./0057_gisli_response/README.md) |
 | 0058 | Rasikh Morani | [Keybase](https://keybase.io/cryptojinn) | [0058_rasikh_response](./0058_rasikh_response/README.md) |
-| 0059 | Pau Escrich | [Keybase](https://keybase.io/paues) | [0059_pau_response](./0059_pau_response/README.md) |
-| 0060 | Koh Wei Jie | [Keybase](https://keybase.io/contactkohweijie) | [0060_weijie_response](./0060_weijie_response/README.md) |
-| 0061 | Adrià Massanet | [Keybase](https://keybase.io/adriamb) | [0061_adria_response](./0061_adria_response/README.md) |
-| 0062 | Lev Dubinets | [Keybase](https://keybase.io/dubinets) | [0062_lev_response](./0062_lev_response/README.md) |
-| 0063 | David Schwartz | [Keybase](https://keybase.io/davidsrz) | [0063_david_response](./0063_david_response/README.md) |
-| 0064 | Ian Worrall | [Keybase](https://keybase.io/esphinx) | [0064_ian_response](./0064_ian_response/README.md) |
-| 0065 | Adrian Guerrera | [Keybase](https://keybase.io/deepyr) | [0065_adrian_response](./0065_adrian_response/README.md) |
-| 0066 | Kieran Mesquita | [Keybase](https://keybase.io/mesquka) | [0066_kieran_response](./0066_kieran_response/README.md) |
-| 0067 | Nick Ulven |[PGP](./0067_nick_response/nick.pgp) | [0067_nick_response](./0067_nick_response/README.md) |
-| 0068 | Elena | [Keybase](https://keybase.io/elena_irf) | [0068_elena_response](./0068_elena_response/README.md) |
-| 0069 | Justice Hudson | [Keybase](https://keybase.io/j_chance) | [0069_justice_response](./0069_justice_response/README.md) |
-| 0070 | Bertrand Juglas | [Keybase](https://keybase.io/bertux) | [0070_bertrand_response](./0070_bertrand_response/README.md) |
-| 0071 | Edward Fricker | [Keybase](https://keybase.io/edwd) | [0071_edward_response](./0071_edward_response/README.md) |
-| 0072 | Jose Pedro Sousa |  | [0072_jose-pedro_response](./0072_jose-pedro_response/README.md) |
-| 0073 | Derya Karli |  | [0073_derya_response](./0073_derya_response/README.md) |
-| 0074 | Daniel Coggan |  | [0074_daniel_response](./0074_daniel_response/README.md) |
-| 0075 | Mohammad Jahanara |  | [0075_mohammad_response](./0075_mohammad_response/README.md) |
-| 0076 | Jonathan P Wang |  | [0076_jpw_response](./0076_jpw_response/README.md) |
-| 0077 | Yi Sun |  | [0077_yi_response](./0077_yi_response/README.md) |
-| N.B. | Contributions hereafter will chain from 0058 
+|  | Why the gap? See [here](#note-on-chain-fork)
 | 0078 | Soham Zemse |  | [0078_soham_response](./0078_soham_response/README.md) |
 | 0079 | atheartengineer | [PGP](https://github.com/atheartengineer.gpg) | [0079_atheartengineer_response](./0079_atheartengineer_response/README.md) |
 | 0080 | Carter Feldman | [Keybase](https://keybase.io/carterfeldman) | [0080_carter_response](./0080_carter_response/README.md) |
+| 0081 | Aayush Gupta | [Keybase](https://keybase.io/yushg) | [0081_yushg_response](./0081_yushg_response/README.md) |
+| 0082 | Ali Parvizi | [Keybase](https://keybase.io/zkfriendly) | [0082_ali_response](./0082_ali_response/README.md) |
+| 0083 | Yi Sun | [Keybase](https://keybase.io/yisun) | [0083_yi_response](./0083_yi_response/README.md) |
+| 0084 | Jonathan P Wang |  | [0084_jpwang_response](./0084_jpwang_response/README.md) |
 
 ## Transcript files
 
@@ -196,6 +195,46 @@ challenge files (except, of course, `challenge_initial`).
 | `QmaiWt8rm9VGLrMQhJD6n3RzVffjFSHdyC1ZQaDQUNgBuH` | response_0057_gisli |
 | `QmVZ9SMbh3ZSpLK2qtHZkqLDsX2Ac7kz9CeeuvAAz1QMLb` | response_0058_rasikh |
 
+## Prepared Phase 2 Files
+
+Files ready for use in Groth-16 Phase 2 setups are available. The latest set of files have been prepared from contribution 0080. 
+
+A phase-2-ready `.ptau` file is available for each power of 2 up to 28. When choosing a file, the best choice is generally the smallest file with a number of points > the number of constraints in the circuit. 
+
+| Degree | Link to File | Number of Points | Size |
+| :-------: |--------------|------------------:|----:|
+| 1 | [ppot_0080_01.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_01.ptau) | 1 | 93kb |
+| 2 | [ppot_0080_02.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_02.ptau) | 4 | 95.6kb |
+| 3 | [ppot_0080_03.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_03.ptau) | 8 | 100kb |
+| 4 | [ppot_0080_04.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_04.ptau) | 16 | 109kb | 
+| 5 | [ppot_0080_05.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_05.ptau) | 32 | 127kb |
+| 6 | [ppot_0080_06.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_06.ptau) | 64 | 163kb |
+| 7 | [ppot_0080_07.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_07.ptau) | 128 | 235kb |
+| 8 | [ppot_0080_08.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_08.ptau) | 256 | 379kb| 
+| 9 | [ppot_0080_09.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_09.ptau) | 512 | 667kb |
+| 10 | [ppot_0080_10.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_10.ptau) | 1,024 | 1.2mb |
+| 11 | [ppot_0080_11.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_11.ptau) | 2,048 | 2.3mb |
+| 12 | [ppot_0080_12.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_12.ptau) | 4,096 | 4.6mb |
+| 13 | [ppot_0080_13.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_13.ptau) | 8,192 | 9.1mb |
+| 14 | [ppot_0080_14.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_14.ptau) | 16,384 | 18.1mb |
+| 15 | [ppot_0080_15.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_15.ptau) | 32,768 | 36mb |
+| 16 | [ppot_0080_16.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_16.ptau) | 65,536 | 72mb |
+| 17 | [ppot_0080_17.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_17.ptau) | 131,072 | 144mb |
+| 18 | [ppot_0080_18.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_18.ptau) | 262,144 | 288mb |
+| 19 | [ppot_0080_19.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_19.ptau) | 524,288 | 576mb |
+| 20 | [ppot_0080_20.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_20.ptau) | 1,048,576 | 1.1gb |
+| 21 | [ppot_0080_21.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_21.ptau) | 2,097,152 | 2.3gb |
+| 22 | [ppot_0080_22.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_22.ptau) | 4,194,304 | 4.5gb |
+| 23 | [ppot_0080_23.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_23.ptau) | 8,388,608 | 9gb |
+| 24 | [ppot_0080_24.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_24.ptau) | 16,777,216 | 18gb |
+| 25 | [ppot_0080_25.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_25.ptau) | 33,554,432 | 36gb |
+| 26 | [ppot_0080_26.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_26.ptau) | 67,108,864 | 72gb | 
+| 27 | [ppot_0080_27.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_27.ptau) | 134,217,728 | 144gb |
+| 28 | [ppot_0080_final.ptau](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/pot28_0080/ppot_0080_final.ptau) | 268,435,456 | 288gb |
+
+
+
+
 ## Procedure
 
 There is a coordinator and multiple participants. The ceremony occurs in sequential rounds. Each participant performs one or more rounds at a time. The coordinator decides the order in which the participants act. There can be an indefinite number of rounds.
@@ -213,7 +252,7 @@ To illustrate this process, consider a Coordinator, two participants (Alice and 
 1. Coordinator generates `challenge_0` and publishes it.
 2. Alice generates `response_1` and publishes it.
 3. Coordinator generates `challenge_1` and publishes it.
-4. Bob generates `response_2` and and publishes it.
+4. Bob generates `response_2` and publishes it.
 5. Coordinator generates `challenge_2` and publishes it.
 6. Charlie applies the random beacon to `challenge_2` to finalise the setup.
 
@@ -257,6 +296,9 @@ The transcript files will generally be saved in an archival storage, i.e. not av
 
 To raise a retrieval request, please raise an issue in this repo with the names of the files required. 
 
+### Preserving the Data
+We have a network sharing the data via torrents, as an alternative to the S3 bucket. Volunteers to help with this are welcome to participate. See [here](./torrent_sharing.md)
+
 ## Logistics
 
 Each challenge file is about 97G in size and each response file is about 49G. An Azure compute VM (Standard F4s with 4 vcpus and 8GB memory) takes about 24 hours to generate.
@@ -280,6 +322,11 @@ To use `phase2-bn254`, follow the instructions below. To use `snarkjs`, read [th
 
 First, set up a Linux machine and install Rust and Cargo following instructions [here](https://www.rust-lang.org).
 
+Ensure you have the necessary build prerequisites:
+```
+sudo apt update && sudo apt install build-essential
+```
+
 Download and compile the required source code:
 
 ```bash
@@ -299,14 +346,14 @@ Also check with the coordinator (or this repository) for the expected Blake2b ha
 Run the computation with `challenge` in your working directory:
 
 ```bash
-/path/to/phase2-bn254/powersoftau/target/release/compute_constrained
+/path/to/phase2-bn254/powersoftau/target/release/compute_constrained challenge response 28 2097152
 ```
 
 You will see this prompt:
 
 ```
 Will contribute to accumulator for 2^28 powers of tau
-In total will generate up to 536870912 powers
+In total will generate up to 536870911 powers
 Type some random text and press [ENTER] to provide additional entropy...
 ```
 
@@ -410,10 +457,12 @@ Contributions from 0001 to 0077 form the first branch. Contribution 0078 chains 
 
 We have a complete set of data available for the second branch. This is not the case for the first branch. Data, including public keys, for some of the contributions (0059 to 0071) are no longer available. 
 
-The first fork remains valid. Contribution 0077 has the longest chain of contributions, and may be used in phase 2 setups. The chain of hashes can be confirmed by referring to the contribution details stored in this repository. However, a stronger cryptographic verification requires a continuous and complete chain of public keys in addition to the contribution hashes. Such data is embedded in `.ptau` files, as used by `snarkjs`. A `snarkjs powersoftau verify` command will cryptographically validate the full chain of public keys. Thus, it is not possible for us to generate fully-compatible `.ptau` files from 0077 or its immediate predecessors. 
+The discontinued fork remains valid. Contribution 0077 has the longest chain of contributions, and may be used in phase 2 setups. The chain of hashes can be confirmed by referring to the contribution details stored in this repository. However, a stronger cryptographic verification requires a continuous and complete chain of public keys in addition to the contribution hashes. Such data is embedded in `.ptau` files, as used by `snarkjs`. A `snarkjs powersoftau verify` command will cryptographically validate the full chain of public keys. Thus, it is not possible for us to generate fully-compatible `.ptau` files from 0077 or its immediate predecessors. 
 
 We have a complete history of public keys up to 0058, and for the branch continuing from there with 0078. We will, from time to time, publish `.ptau` files from this branch. 
 
 Note also that links referred to files in `ppot.blob.core.windows.net` bucket are no longer working. Some of these files are available on either IPFS or S3 high-availability, or S3 Glacier (available only by request).
+
+Contribution details for the discontinued fork are recorded [here](./0059to0077.md)
 
 
