@@ -74,6 +74,7 @@ Semaphore项目团队正在发起一个多方参与的可信配置第一阶段�
 | 0082 | Ali Parvizi | [Keybase](https://keybase.io/zkfriendly) | [0082_ali_response](./0082_ali_response/README.md) |
 | 0083 | Yi Sun | [Keybase](https://keybase.io/yisun) | [0083_yi_response](./0083_yi_response/README.md) |
 | 0084 | Jonathan P Wang |  | [0084_jpwang_response](./0084_jpwang_response/README.md) |
+| 0085 | zircuit |  | [0085_zircuit_response](./0085_zircuit_response/README.md) |
 
 ## 流程
 
