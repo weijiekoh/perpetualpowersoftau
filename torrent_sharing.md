@@ -32,9 +32,9 @@ For the PPoT ceremony, the most essential pieces of data are the latest response
 
 | Torrent File | Data Size | Notes | S3 Link (glacier class, except *) |
 |------|------|-------|----------|
-| [Contribution #84 response](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0084_jpw.torrent) | 51Gb | | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0084_jpw) * | 
-| [Challenge #85](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0085.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0085) * |
-| [Witness history folder](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/witness-history-84.torrent) | 103Gb | Folder | * |
+| [Contribution #85 response](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0085_zircuit.torrent) | 51Gb | | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0085_zircuit) * | 
+| [Challenge #86](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0086.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0086) * |
+| [Witness history folder](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/witness-history-85.torrent) | 103Gb | Folder | * |
 
 
 ## Prepared Phase 2 Files
@@ -69,12 +69,15 @@ The latest phase-2-ready files are currently being generated from contribution #
 | [Response #79](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0079_atheartengineer.torrent) | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0079_atheartengineer) |
 | [Challenge #80](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0080.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0080) * |
 | [Challenge #81](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0081.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0081) * |
-| [Response #81](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0081_aayush.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0081_aayush) * |
-| [Challenge #82](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0082.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0082.torrent) * |
-| [Response #82](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0082_ali.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0082_ali) * |
-| [Challenge #83](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0083.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0083.torrent) * |
-| [Response #83](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0083_yi.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0083_yi) * |
-| [Challenge #84](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0084.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0084.torrent) * || [Response #84](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0084_jpw.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0084_jpw) * |
-| [Challenge #85](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0085.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0085.torrent) * |
+| [Response #81](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0081_aayush.torrent) | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0081_aayush) * |
+| [Challenge #82](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0082.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0082) * |
+| [Response #82](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0082_ali.torrent) | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0082_ali) * |
+| [Challenge #83](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0083.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0083.torrent) * |
+| [Response #83](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0083_yi.torrent) | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0083_yi) * |
+| [Challenge #84](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0084.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0084) * |
+| [Response #84](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0084_jpw.torrent) | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0084_jpw) * |
+| [Challenge #85](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0085.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0085) * |
+| [Response #85](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/response_0085_zircuit.torrent) | 51Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/response_0085_zircuit) * |
+| [Challenge #86](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/torrents/challenge_0086.torrent) | 103Gb |  | [link](https://pse-trusted-setup-ppot.s3.eu-central-1.amazonaws.com/challenge_0086) * |
 
 Note that in the above tables if the torrent file link is not available, the torrent has not been prepared yet.
