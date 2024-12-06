@@ -309,7 +309,7 @@ The compuation will run for about 24 hours on a fast machine. Please try your be
 When it is done, you will see something like this:
 
 ```
-Finihsing writing your contribution to `./response`...
+Finishing writing your contribution to `./response`...
 Done!
 
 Your contribution has been written to `./response`
