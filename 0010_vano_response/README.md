@@ -47,7 +47,7 @@ Name: Vano Narimanidze (Power_VANO) (Country Lead of Georgia for Horizen, Presid
 
 Location: Physical location of me and the computation machine has been different, intentionally
 
-Device(s): Microsoft Azure VM (Standard D16s v3 (16 vcpus, 64 GiB memory)) running Ubuntu 18.04 hosted on a seperate cloud account
+Device(s): Microsoft Azure VM (Standard D16s v3 (16 vcpus, 64 GiB memory)) running Ubuntu 18.04 hosted on a separate cloud account
 
 Challenge Blake2b: 
 
