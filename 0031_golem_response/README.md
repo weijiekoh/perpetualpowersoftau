@@ -87,4 +87,4 @@ Golem Factory's attestation:
 
 **Time taken:** 29 hours
 
-**Side channel defenses:** the computer was locked in a separate server room, it's epidemy time - everyone works remotely
+**Side channel defenses:** the computer was locked in a separate server room, it's epidemic time - everyone works remotely
