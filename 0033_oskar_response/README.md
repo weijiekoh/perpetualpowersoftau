@@ -84,7 +84,7 @@ Not recorded.
 
 - ~1mb of live Wide-band WebSDR recording converted to base64 (using http://websdr.ewi.utwente.nl:8901/).
 
-- Interspersed wih random key smashing.
+- Interspersed with random key smashing.
 
 *Side channel defenses*:
 
