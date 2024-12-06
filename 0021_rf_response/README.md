@@ -76,7 +76,7 @@ Entropy source: Flux counts from the bright star Betelgeuse that has been displa
 
 Time taken: ~15-20 hours
 
-Side channel defenses: Peformed ceremony on a USB boot Kali Linux. Directly transcribed flux counts of the star, never recorded.
+Side channel defenses: Performed ceremony on a USB boot Kali Linux. Directly transcribed flux counts of the star, never recorded.
 
 Postprocessing:
 -	Deleted challenge and response files.
